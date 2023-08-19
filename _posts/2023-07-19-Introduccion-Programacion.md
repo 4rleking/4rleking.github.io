@@ -14,4 +14,3 @@ tags:
 ---
 
 ![](/assets/images/20230719/Introduccion.jpg)
-
