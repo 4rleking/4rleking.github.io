@@ -1,13 +1,13 @@
-# Welcome to Jekyll!
+# Bienvenido a Jekyll!
 #
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# Este archivo de configuración está diseñado para configuraciones que afectan todo su sitio, valores
+# que se espera que configure una vez y rara vez necesite editar después de eso.
+# Por razones técnicas, este archivo *NO* se recarga automáticamente cuando usa
+# `servicio de jekyll`. Si cambia este archivo, reinicie el proceso del servidor.
 
-# Theme Settings
+# Ajustes de tema
 #
-# Review documentation to determine if you should use `theme` or `remote_theme`
+# Revise la documentación para determinar si debe usar `theme` o `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
