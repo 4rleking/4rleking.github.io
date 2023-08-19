@@ -1,7 +1,11 @@
 ---
 layout: single
 title: Introducción a la Programación (Fundamentos)
-excerpt: "Durante los últimos meses, hemos visto noticias por todos lados de datos médicos de pacientes los cuales han quedado expuestos por internet. Es algo alarmante pero no sorprendente teniendo en cuenta cómo está la seguridad a día de hoy. En el siguiente artículo, os explico en qué consiste este `gran fallo` y cómo es posible que estos datos queden expuestos al alcance de cualquiera."
+excerpt: "La programación es un proceso mediante el cual creamos programas que son ejecutados por un
+sistema computacional, todo ello con el fin de resolver una tarea. Todo programa implementa un
+algoritmo. Un algoritmo es conjunto de acciones o reglas bien definidas, ordenadas y finitas que
+permite realizar una actividad mediante pasos sucesivos que no generen dudas a quien deba realizar
+dicha actividad."
 date: 2023-07-19
 classes: wide
 header:
