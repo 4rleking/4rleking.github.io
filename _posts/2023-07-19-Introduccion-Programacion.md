@@ -1,11 +1,7 @@
 ---
 layout: single
 title: Introducción a la Programación (Fundamentos)
-excerpt: "La programación es un proceso mediante el cual creamos programas que son ejecutados por un
-sistema computacional, todo ello con el fin de resolver una tarea. Todo programa implementa un
-algoritmo. Un algoritmo es conjunto de acciones o reglas bien definidas, ordenadas y finitas que
-permite realizar una actividad mediante pasos sucesivos que no generen dudas a quien deba realizar
-dicha actividad."
+excerpt: "La programación para muchos nos ha parecido un sueño imposible, o quizás no sabemos por dónde empezar, aquí explicaré todo lo necesario para aprender programación desde cero a experto, ojo (aquí solo es la Introducción, poco a poco se irá profundizando en cada lenguaje que vaya recopilando)."
 date: 2023-07-19
 classes: wide
 header:
