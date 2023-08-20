@@ -155,13 +155,13 @@ Controlar el flujo de una aplicación hace que sea más sólida y fácil de mant
 
 Una instrucción común de los lenguajes de programación modernos, para controlar cómo se ejecuta un programa, es (if, else).
 
-### Herramientas profesionales
+## Herramientas profesionales
 
 La capacidad de desarrollar código rápidamente es fundamental. Tener una herramienta para ello no solo aporta velocidad, sino que también suele ayudarle con el formato y la exactitud.
 
 Un entorno de desarrollo es un conjunto único de herramientas y características que un desarrollador puede usar para escribir software. Algunas de estas herramientas se han personalizado para satisfacer las necesidades específicas del desarrollador. Pueden cambiar con el tiempo a medida que los desarrolladores cambian las prioridades en proyectos profesionales o personales, o cuando cambian a un lenguaje de programación diferente. Los entornos de desarrollo son tan particulares como los desarrolladores que los usan.
 
-#### Editores
+### Editores
 
 Una de las herramientas más cruciales para el desarrollo de software es el entorno de edición. Un editor es donde se escribe el código y, a veces, donde se ejecuta.
 
@@ -187,7 +187,7 @@ A continuación, se indican algunos editores y extensiones de desarrollo web pop
   * [Teletype](https://github.blog/2022-06-08-sunsetting-atom/)
   * [Atom-Beautify](https://github.blog/2022-06-08-sunsetting-atom/)
 
-### Tecnologías del explorador
+## Tecnologías del explorador
 
 La ejecución de los programas en Internet requiere algún tipo de cliente para ayudarle a ver la salida. Un tipo común de cliente es un explorador web, con el que puede ver el contenido e interactuar con él.
 
@@ -205,7 +205,7 @@ A continuación, se indican algunos exploradores y herramientas de desarrollo po
 * [Google Chrome](https://developer.chrome.com/docs/devtools/)
 * [Firefox](https://firefox-source-docs.mozilla.org/devtools-user/index.html)
 
-### Herramientas de la línea de comandos
+## Herramientas de la línea de comandos
 
 Como desarrollador, es probable que use herramientas de línea de comandos para realizar algunas o todas las tareas de programación. Dado que los entornos de desarrollo son únicos para cada desarrollador, algunos evitan usar la línea de comandos, otros se basan exclusivamente en ella y otros prefieren combinar ambas opciones.
 
