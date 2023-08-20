@@ -33,7 +33,60 @@ La programación consiste en escribir las indicaciones que debe de seguir un com
 
 Un algoritmo es una estrategia consistente de un conjunto de pasos ordenados que nos lleva a la solución de un problema o alcance de un objetivo.
 
-Para poder resolver un problema computacional debemos de realizar dos actividades hasta el momento:
+### Robustez de un algoritmo
+
+Quiere decir que un algoritmo debe contemplar todas las posibles facetas del
+problema que queremos resolver. Al elaborar un algoritmo no se nos debe escapar
+ningún detalle que provoque un funcionamiento malo en él. Si logramos construir un
+algoritmo robusto, cualquier giro inesperado del problema será controlado por el
+mismo, es decir, debe ser flexible a cambios.
+
+### Correctitud de un algoritmo
+
+Un algoritmos es correcto cuando da una solución al problema a tratar y cumple con
+todos los requerimientos especificados, de tal manera que logremos los objetivos
+planteados.
+
+### Completitud de un algoritmo
+
+Cuando un algoritmo cuenta con todos los recursos para poder llegar a una solución
+satisfactoria.
+
+### Eficiencia de un algoritmo
+
+Un algoritmo es eficiente cuando logra llegar a sus objetivos planteados utilizando
+la menor cantidad de recursos posibles, es decir, minimizando el uso memoria, de
+pasos y de esfuerzo humano.
+
+### Eficacia de un algoritmo
+
+Un algoritmo es eficaz cuando alcanza el objetivo primordial, el análisis de
+resolución del problema se lo realiza prioritariamente.
+
+### Diferencia entre eficiencia y eficacia
+La eficacia difiere de la eficiencia en el sentido que la eficiencia hace referencia a
+la mejor utilización de los recursos, en tanto, la eficacia hace referencia en la
+capacidad para alcanzar un objetivo sin importar si se le ha dado el mejor uso posible
+a los recursos.
+
+Para poder resolver un problema computacional debemos de realizar cuatro actividades hasta el momento:
+
+* **Comprender el problema**: Este paso puede ser muy difícil, pero es definitivamente
+el más crucial. En este caso se plantea el problema de forma general, además se identifica
+los datos resultantes, es decir a lo que se quiere llegar; así como, los datos con los que se
+cuenta (datos de estrada). También es necesario verificar que la información dada sea
+suficiente para resolver el problema.
+
+* **Idear una solución**: Una vez que se ha comprendido el problema, se debe pensar en un
+plan de acción para resolver el problema. Un plan está formado por procedimiento del
+dato para la obtención del resultado, de acuerdo a la relación que existe en ellos. Las
+técnicas más generales incluyen:
+
+  * Buscar si existe problemas similares conocidos.
+  * Relacionar el problema original de tal forma que se parezca a uno conocido.
+  * Restringir el problema para resolverlo en una forma particular.
+  * Generalizar un problema restringido.
+  * Buscar trabajos existentes que puedan ayudar en la búsqueda de una solución.
 
 * **Diseño del algoritmo**: Diseña o elige un algoritmo que ya exista para resolver el problema deseado (ojo, si vas a seleccionar un algoritmo ya hecho, asegúrate de que no tenga errores o trata de mejorarlo, añade un plus a esa creación).
 
@@ -72,6 +125,10 @@ FIN
 Se comienza con un título que describa el problema que el algoritmo resuelve, seguido por la palabra *COMENZAR*. Luego se detallan las acciones o instrucciones a seguir y se concluye con la palabra *FIN*.
 
 Es importante destacar la presencia de sangrías (sangrado) en el ejemplo anterior, que facilitan la lectura. Los algoritmos suelen ser representados también mediante *diagramas de flujo*.
+
+## Pseudocódigo
+
+## Diagrama de flujo
 
 ## Codificación
 
@@ -261,3 +318,7 @@ Los siguientes recursos son solo dos ejemplos de documentación para los desarro
 
 * Mozilla Developer Network
 * Frontend Masters
+
+## Más Información
+
+Si quiere consultar la lista de los diferentes lenguaje de programación que se han creado a lo largo de la historia puedes consultar en [Wikipedia](https://es.wikipedia.org/wiki/Anexo:Lenguajes_de_programaci%C3%B3n); aunque la información de este portal dudo al 100% de su veracidad. Poco a poco se estará subiendo la documentación de diferentes lenguajes de programación.
