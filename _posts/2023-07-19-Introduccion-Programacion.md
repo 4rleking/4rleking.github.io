@@ -8,16 +8,16 @@ header:
   teaser: /assets/images/20230719/Introduccion.jpg
   teaser_home_page: true
 categories:
-  - Programacion
+  - Programación
 tags:
   - Fundamentos
 ---
 
 ![](/assets/images/20230719/Introduccion.jpg)
 
-La mayoría de los dispositivos que utilizamos en nuestros días, contienen un software o aplicación que le indica que funciones debe de realizar, que acciones debe de hacer en cada cierto tiempo, o si el usuario presiona o selecciona un botón. 
+La mayoría de los dispositivos que utilizamos hoy en día, contienen un software o aplicación que le indica que funciones deben de realizar, las acciones que debe de hacer en cada cierto tiempo, o si el usuario presiona o selecciona un botón u opción. 
 
-Desde el software de una Smart Tv, consola de videojuegos, calculadoras científicas, automóviles autónomos, celulares, computadoras, servidores, microondas, lavadoras, por nombrar algunos.
+Desde el software de una Smart Tv, consola de videojuegos, calculadoras científicas, automóviles autónomos, celulares, computadoras, servidores, hornos microondas, lavadoras, por nombrar algunos.
 
 Es demasiado sencillo para el usuario operar este tipo de aplicaciones o dispositivos, pero que hay por detrás de esto.
 
@@ -43,7 +43,7 @@ mismo, es decir, debe ser flexible a cambios.
 
 ### Correctitud de un algoritmo
 
-Un algoritmos es correcto cuando da una solución al problema a tratar y cumple con
+Un algoritmo es correcto cuando da una solución al problema a tratar y cumple con
 todos los requerimientos especificados, de tal manera que logremos los objetivos
 planteados.
 
@@ -98,7 +98,7 @@ Al aprender programación estamos destinados a enfrentarnos a problemas con dife
 
 Cotidianamente, utilizamos los algoritmos para realizar casi todas las actividades diarias: preparar el desayuno, sacar a pasear la mascota, encender la tv y poner una película, etc. Cada una de estas tareas requiere llevar acciones de forma ordenada, aunque no hagamos un listado de las mismas y procedamos casi sin pensar.
 
-Sin embargo, cuando pensamos en la solución de un problema que va a resolver una computadora, debemos ser claros y concretos, para asegurarnos de que los pasos del algoritmo llegue a la solución y para que quien tenga que codificarlo, nosotros mismos u otras personas, lo pueda entender sin problemas. 
+Sin embargo, cuando pensamos en la solución de un problema que va a resolver una computadora, debemos ser claros y concretos, para asegurarnos de que los pasos del algoritmo lleguen a la solución y para que quien tenga que codificarlo, nosotros mismos u otras personas, lo pueda entender sin problemas. 
 
 Por eso, el primer paso es idear un algoritmo para su solución y expresarlo por escrito, por ejemplo, en español, pero adaptando el lenguaje humano a *formas lógicas* que se acerquen a las tareas que puede realizar una computadora. 
 
@@ -168,11 +168,11 @@ No importa lo cuidadosos que seamos, ni cuánta experiencia tengamos, los errore
 
 A los errores en programación se los suele llamar *bugs* (insecto en inglés) y el proceso de la corrección de los mismos se conoce como *debugging* (depuración). 
 
-A continuación se presenta una de las posibles clasificaciones de los errores que se pueden cometer en programación:
+A continuación, se presenta una de las posibles clasificaciones de los errores que se pueden cometer en programación:
 
 * **Errores de sintaxis**. Tal como el lenguaje humano, los lenguajes de programación tienen su propio vocabulario y su propia sintaxis, se trata del conjunto de reglas gramaticales que establecen cómo se pueden combinar las distintas partes. Estas reglas sintácticas determinan que ciertas instrucciones están correctamente construidas, mientras que otras no. Cuando ejecutamos un programa, el compilador o el intérprete chequea si el mismo es sintácticamente correcto. Si hemos violado alguna regla, por ejemplo, nos faltó una coma o nos sobra un paréntesis, mostrará un mensaje de error y debemos editar nuestro programa para corregirlo. En estos casos, hay que interpretar el mensaje de error, revisar el código y corregir el error.
 
-* **Errores lógicos**. Se presentan cuando el programa puede ser compilado sin errores pero arroja resultados incorrectos o ningún resultado. El software no muestra mensajes de error, debido a que, por supuesto, no sabe cuál es el resultado deseado, sino que sólo se limita a hacer lo que hemos programado. En estos casos hay que revisar el programa para encontrar algún error en su lógica. Este tipo de errores suelen ser los más problemáticos. Algunas ideas para enfrentarlos incluyen volver a pensar paso por paso lo que se debería hacer para solucionar el problema y compararlo con lo que se ha programado, agregar pasos para mostrar resultados intermedios o emplear herramientas especializadas de debugging (*debugger*) para explorar el código paso a paso hasta identificar el error.
+* **Errores lógicos**. Se presentan cuando el programa puede ser compilado sin errores, pero arroja resultados incorrectos o ningún resultado. El software no muestra mensajes de error, debido a que, por supuesto, no sabe cuál es el resultado deseado, sino que sólo se limita a hacer lo que hemos programado. En estos casos hay que revisar el programa para encontrar algún error en su lógica. Este tipo de errores suelen ser los más problemáticos. Algunas ideas para enfrentarlos incluyen volver a pensar paso por paso lo que se debería hacer para solucionar el problema y compararlo con lo que se ha programado, agregar pasos para mostrar resultados intermedios o emplear herramientas especializadas de debugging (*debugger*) para explorar el código paso a paso hasta identificar el error.
 
 * **Errores en la ejecución**. Se presentan cuando el programa está bien escrito, sin errores lógicos ni sintácticos, pero igualmente se comporta de alguna forma incorrecta. Se dan a pesar de que el programa ande bien en el entorno de desarrollo del programador, pero no cuando algún usuario lo utiliza en algún contexto particular. Puede ser que se intente abrir un archivo que no existe, que el proceso supere la memoria disponible, que tomen lugar operaciones aritméticas no definidas como la división por cero, etc.
 
@@ -321,4 +321,12 @@ Los siguientes recursos son solo dos ejemplos de documentación para los desarro
 
 ## Más Información
 
-Si quiere consultar la lista de los diferentes lenguaje de programación que se han creado a lo largo de la historia puedes consultar en [Wikipedia](https://es.wikipedia.org/wiki/Anexo:Lenguajes_de_programaci%C3%B3n); aunque la información de este portal dudo al 100% de su veracidad. Poco a poco se estará subiendo la documentación de diferentes lenguajes de programación.
+Si quiere consultar la lista de los diferentes lenguajes de programación que se han creado a lo largo de la historia puedes consultar en [Wikipedia](https://es.wikipedia.org/wiki/Anexo:Lenguajes_de_programaci%C3%B3n); aunque la información de este portal dudo al 100% de su veracidad. Poco a poco se estará subiendo la documentación de diferentes lenguajes de programación.
+
+# Repositorio de Lenguajes de Programación
+
+* [HTML]()
+* [CSS]()
+* [PHP]()
+* [JavaScript]()
+* [Python]()
