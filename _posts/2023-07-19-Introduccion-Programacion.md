@@ -154,3 +154,110 @@ Es posible que un dispositivo no ejecute algunas instrucciones. Esto suele ocurr
 Controlar el flujo de una aplicación hace que sea más sólida y fácil de mantener. Los cambios en el control suelen producirse cuando se cumplen determinadas condiciones. 
 
 Una instrucción común de los lenguajes de programación modernos, para controlar cómo se ejecuta un programa, es (if, else).
+
+### Herramientas profesionales
+
+La capacidad de desarrollar código rápidamente es fundamental. Tener una herramienta para ello no solo aporta velocidad, sino que también suele ayudarle con el formato y la exactitud.
+
+Un entorno de desarrollo es un conjunto único de herramientas y características que un desarrollador puede usar para escribir software. Algunas de estas herramientas se han personalizado para satisfacer las necesidades específicas del desarrollador. Pueden cambiar con el tiempo a medida que los desarrolladores cambian las prioridades en proyectos profesionales o personales, o cuando cambian a un lenguaje de programación diferente. Los entornos de desarrollo son tan particulares como los desarrolladores que los usan.
+
+#### Editores
+
+Una de las herramientas más cruciales para el desarrollo de software es el entorno de edición. Un editor es donde se escribe el código y, a veces, donde se ejecuta.
+
+Los desarrolladores confían en los editores para sus características útiles, entre las que se incluyen:
+
+* **Depuración**: ayuda a detectar errores mediante la ejecución del código paso a paso, línea por línea. Algunos editores tienen funcionalidades de depuración o se pueden personalizar para lenguajes de programación específicos.
+
+* **Resaltado de sintaxis**: agrega colores y formato de texto al código, lo que facilita la lectura. La mayoría de los editores permiten el resaltado de sintaxis personalizado.
+
+* **Extensiones e integraciones**: agregue características especializadas que proporcionen acceso a otras herramientas que no están integradas en el editor base. Por ejemplo, muchos desarrolladores también necesitan una manera de documentar su código, explicar cómo funciona o instalar una extensión de corrección ortográfica para comprobar si hay errores tipográficos. La mayoría de estas adiciones están pensadas para su uso dentro de un editor específico, y la mayoría de los editores incluyen una manera de buscar las extensiones disponibles.
+
+* **Personalización**: la mayoría de los editores son personalizables, lo que permite a los desarrolladores crear sus propios entornos de desarrollo únicos. Muchos editores también permiten a los desarrolladores crear sus propias extensiones.
+
+A continuación, se indican algunos editores y extensiones de desarrollo web populares:
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+  * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+  * [Live Share](https://code.visualstudio.com/learn/collaboration/live-share)
+  * [Prettier: formateador de código](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+* [Atom](https://atom.io)
+  * [Corrector ortográfico](https://github.blog/2022-06-08-sunsetting-atom/)
+  * [Teletype](https://github.blog/2022-06-08-sunsetting-atom/)
+  * [Atom-Beautify](https://github.blog/2022-06-08-sunsetting-atom/)
+
+### Tecnologías del explorador
+
+La ejecución de los programas en Internet requiere algún tipo de cliente para ayudarle a ver la salida. Un tipo común de cliente es un explorador web, con el que puede ver el contenido e interactuar con él.
+
+### Exploradores para desarrolladores
+
+Los desarrolladores web confían en los exploradores para observar cómo se ejecuta su código en la Web. Los exploradores también se usan para ver elementos visuales de una página web que se escriben en el editor en lenguajes como *HTML*.
+
+### Herramientas para desarrolladores
+
+Muchos exploradores incluyen herramientas para desarrolladores que contienen características e información útiles para ayudar a los desarrolladores a recopilar y capturar información importante sobre sus aplicaciones. Por ejemplo, si una página web tiene errores, a veces resulta útil saber cuándo se produjeron. Las herramientas de desarrollo de un explorador se pueden configurar para capturar esta información.
+
+A continuación, se indican algunos exploradores y herramientas de desarrollo populares:
+
+* [Microsoft Edge](https://learn.microsoft.com/es-es/microsoft-edge/devtools-guide-chromium/landing/?WT.mc_id=academic-13441-cxa)
+* [Google Chrome](https://developer.chrome.com/docs/devtools/)
+* [Firefox](https://firefox-source-docs.mozilla.org/devtools-user/index.html)
+
+### Herramientas de la línea de comandos
+
+Como desarrollador, es probable que use herramientas de línea de comandos para realizar algunas o todas las tareas de programación. Dado que los entornos de desarrollo son únicos para cada desarrollador, algunos evitan usar la línea de comandos, otros se basan exclusivamente en ella y otros prefieren combinar ambas opciones.
+
+
+¿Por qué son útiles las herramientas de línea de comandos?
+
+La línea de comandos, en comparación con una interfaz gráfica de usuario, no tiene ningún elemento gráfico y se basa principalmente en texto. Las razones para usar la línea de comandos son muchas:
+
+* **Preferencia**: algunos desarrolladores prefieren una vista menos gráfica para sus tareas de programación diarias.
+
+* **Mejor flujo de trabajo**: el desarrollo de código requiere una cantidad significativa de escritura, y algunos desarrolladores prefieren no interrumpir su flujo en el teclado. Usan métodos abreviados de teclado para intercambiar entre ventanas de escritorio, trabajar en varios archivos y abrir herramientas.
+
+* **Evitar el uso excesivo de los botones del mouse**: la mayoría de las tareas se pueden completar con un mouse, pero una ventaja de usar la línea de comandos es que se pueden realizar muchas cosas con herramientas de línea de comandos sin tener que cambiar constantemente del mouse al teclado, y viceversa.
+
+* **Capacidad de configuración**: con las herramientas de línea de comandos, puede guardar la configuración personalizada, cambiarla más adelante e importarla a otras máquinas de desarrollo.
+
+### Opciones de línea de comandos
+
+Las opciones de la herramienta de línea de comandos difieren en función del sistema operativo que use. El icono de equipo (💻) indica que las herramientas de línea de comandos vienen preinstaladas en el sistema operativo.
+
+**Windows**
+
+* [PowerShell💻](https://learn.microsoft.com/es-es/powershell/scripting/overview?view=powershell-7.3&viewFallbackFrom=powershell-7&preserve-view=true&WT.mc_id=academic-13441-cxa)
+* [Línea de comandos (CMD) 💻](https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/windows-commands?WT.mc_id=academic-13441-cxa)
+* [Terminal Windows](https://learn.microsoft.com/es-es/windows/terminal/?WT.mc_id=academic-13441-cxa)
+* [mintty](https://mintty.github.io/)
+
+**macOS**
+
+* [Terminal💻](https://support.apple.com/es-mx/guide/terminal/apd5265185d-f365-44cb-8b09-71a064a42125/mac)
+* [iTerm](https://iterm2.com/)
+* [PowerShell](https://learn.microsoft.com/es-es/powershell/scripting/install/installing-powershell-on-macos?view=powershell-7.3&viewFallbackFrom=powershell-7&preserve-view=true&WT.mc_id=academic-13441-cxa)
+
+**Linux**
+
+* [Bash💻](https://www.gnu.org/software/bash/manual/html_node/index.html)
+* [Consola de KDE](https://docs.kde.org/trunk5/en/konsole/konsole/index.html)
+* [PowerShell](https://learn.microsoft.com/es-es/powershell/scripting/install/installing-powershell-on-linux?view=powershell-7.3&WT.mc_id=academic-13441-cxa)
+
+### Herramientas de línea de comandos populares
+
+* [Git (💻 en la mayoría de los sistemas operativos)](https://git-scm.com/)
+* [NPM](https://www.npmjs.com/)
+* [Yarn](https://classic.yarnpkg.com/en/docs/cli/)
+
+## Documentación del desarrollador
+
+Cuando los desarrolladores quieran aprender algo nuevo, lo más probable es que recurran a documentación de expertos. La documentación de expertos puede orientarlos en cómo usar los lenguajes y las herramientas de programación correctamente, y ayudarles a ampliar sus conocimientos sobre cómo encajan todos.
+
+### Documentación de desarrollo web popular
+
+Los siguientes recursos son solo dos ejemplos de documentación para los desarrolladores:
+
+* Mozilla Developer Network
+* Frontend Masters
