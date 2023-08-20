@@ -39,3 +39,35 @@ Para poder resolver un problema computacional debemos de realizar dos actividade
 * Codificación: Expresa el algoritmo en un lenguaje de programación pata que el ordenador lo pueda interpretar y ejecutar.
 
 Al aprender programación estamos destinados a enfrentarnos a problemas con diferentes grados de dificultad, mientras que la codificación se trata de aprender las múltiples reglas de cada uno de los lenguajes de programación.
+
+### Diseño algorítmico
+
+Cotidianamente, utilizamos los algoritmos para realizar casi todas las actividades diarias: preparar el desayuno, sacar a pasear la mascota, encender la tv y poner una película, etc. Cada una de estas tareas requiere llevar acciones de forma ordenada, aunque no hagamos un listado de las mismas y procedamos casi sin pensar.
+
+Sin embargo, cuando pensamos en la solución de un problema que va a resolver una computadora, debemos ser claros y concretos, para asegurarnos de que los pasos del algoritmo llegue a la solución y para que quien tenga que codificarlo, nosotros mismos u otras personas, lo pueda entender sin problemas. 
+
+Por eso, el primer paso es idear un algoritmo para su solución y expresarlo por escrito, por ejemplo, en español, pero adaptando el lenguaje humano a *formas lógicas* que se acerquen a las tareas que puede realizar una computadora. 
+
+En programación, el lenguaje artificial e informal que usan los desarrolladores en la confección de algoritmos recibe el nombre de **pseudocódigo**. Es la herramienta que utilizamos para describir los algoritmos mezclando el lenguaje común con instrucciones de programación.
+
+El pseudocódigo, como cualquier otro lenguaje, está compuesto por:
+
+* Léxico: conjunto de palabras o frases válidas para escribir las instrucciones.
+* Sintaxis: reglas que establecen cómo se pueden combinar las distintas partes.
+* Semántica: significado que se les da a las palabras o frases.
+
+El pseudocódigo sigue una *estructura secuencial* (define una acción o instrucción que sigue a otra en secuencia). Esta estructura puede representarse de la siguiente forma:
+
+```
+ALGORITMO: "Ejemplo"
+COMENZAR
+    Acción 1
+    Acción 2
+    ...
+    Acción N
+FIN
+```
+
+Se comienza con un título que describa el problema que el algoritmo resuelve, seguido por la palabra *COMENZAR*. Luego se detallan las acciones o instrucciones a seguir y se concluye con la palabra *FIN*.
+
+Es importante destacar la presencia de sangrías (sangrado) en el ejemplo anterior, que facilitan la lectura. Los algoritmos suelen ser representados también mediante *diagramas de flujo*.
