@@ -178,6 +178,10 @@ A continuación, se presenta una de las posibles clasificaciones de los errores 
 
 Los errores en la programación son tan comunes, que un científico de la computación muy reconocido, Edsger Dijkstra, dijo una vez: *“si la depuración es el proceso de eliminar errores, entonces la programación es el proceso de generarlos”*. Ante la presencia de uno, no hay más que respirar profundo y con paciencia revisar hasta encontrarlo y solucionarlo.
 
+## Lógica de programación
+
+## Variables y Constantes
+
 ## Programa
 
 Un programa puede ser cualquier cosa que se escriba con código. Algunos ejemplos de programas que se ejecutan en distintos dispositivos son:
@@ -267,7 +271,7 @@ A continuación, se indican algunos exploradores y herramientas de desarrollo po
 Como desarrollador, es probable que use herramientas de línea de comandos para realizar algunas o todas las tareas de programación. Dado que los entornos de desarrollo son únicos para cada desarrollador, algunos evitan usar la línea de comandos, otros se basan exclusivamente en ella y otros prefieren combinar ambas opciones.
 
 
-¿Por qué son útiles las herramientas de línea de comandos?
+**¿Por qué son útiles las herramientas de línea de comandos?**
 
 La línea de comandos, en comparación con una interfaz gráfica de usuario, no tiene ningún elemento gráfico y se basa principalmente en texto. Las razones para usar la línea de comandos son muchas:
 
@@ -321,7 +325,7 @@ Los siguientes recursos son solo dos ejemplos de documentación para los desarro
 
 ## Más Información
 
-Si quiere consultar la lista de los diferentes lenguajes de programación que se han creado a lo largo de la historia puedes consultar en [Wikipedia](https://es.wikipedia.org/wiki/Anexo:Lenguajes_de_programaci%C3%B3n); aunque la información de este portal dudo al 100% de su veracidad. Poco a poco se estará subiendo la documentación de diferentes lenguajes de programación.
+Si quiere consultar la lista de los diferentes lenguajes de programación que se han creado a lo largo de la historia puedes consultar en [Wikipedia](https://es.wikipedia.org/wiki/Anexo:Lenguajes_de_programaci%C3%B3n) (aunque la información de este portal dudo al 100% de su veracidad). Poco a poco se estará subiendo la documentación de diferentes lenguajes de programación.
 
 # Repositorio de Lenguajes de Programación
 
