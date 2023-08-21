@@ -74,7 +74,7 @@ Para poder resolver un problema computacional debemos de realizar cuatro activid
 * **Comprender el problema**: Este paso puede ser muy difícil, pero es definitivamente
 el más crucial. En este caso se plantea el problema de forma general, además se identifica
 los datos resultantes, es decir a lo que se quiere llegar; así como, los datos con los que se
-cuenta (datos de estrada). También es necesario verificar que la información dada sea
+cuenta (datos de entrada). También es necesario verificar que la información dada sea
 suficiente para resolver el problema.
 
 * **Idear una solución**: Una vez que se ha comprendido el problema, se debe pensar en un
@@ -90,7 +90,7 @@ técnicas más generales incluyen:
 
 * **Diseño del algoritmo**: Diseña o elige un algoritmo que ya exista para resolver el problema deseado (ojo, si vas a seleccionar un algoritmo ya hecho, asegúrate de que no tenga errores o trata de mejorarlo, añade un plus a esa creación).
 
-* **Codificación**: Expresa el algoritmo en un lenguaje de programación pata que el ordenador lo pueda interpretar y ejecutar.
+* **Codificación**: Expresa el algoritmo en un lenguaje de programación para que el ordenador lo pueda interpretar y ejecutar.
 
 Al aprender programación estamos destinados a enfrentarnos a problemas con diferentes grados de dificultad, mientras que la codificación se trata de aprender las múltiples reglas de cada uno de los lenguajes de programación.
 
@@ -102,7 +102,180 @@ Sin embargo, cuando pensamos en la solución de un problema que va a resolver un
 
 Por eso, el primer paso es idear un algoritmo para su solución y expresarlo por escrito, por ejemplo, en español, pero adaptando el lenguaje humano a *formas lógicas* que se acerquen a las tareas que puede realizar una computadora. 
 
-En programación, el lenguaje artificial e informal que usan los desarrolladores en la confección de algoritmos recibe el nombre de **pseudocódigo**. Es la herramienta que utilizamos para describir los algoritmos mezclando el lenguaje común con instrucciones de programación.
+En programación, el lenguaje artificial e informal que usan los desarrolladores en la confección de algoritmos recibe el nombre de **pseudocódigo**. 
+
+El pseudocódigo es una forma de expresar los distintos pasos que va a realizar un programa, de la forma más parecida a un lenguaje de programación. Su principal función es la de representar por pasos la solución a un problema o algoritmo, de la forma más detallada posible, utilizando un lenguaje cercano al de programación. 
+
+El pseudocódigo no puede ejecutarse en un ordenador ya que entonces dejaría de ser pseudocódigo, como su propio nombre indica, se trata de un código falso *(pseudo = falso)*, es un código escrito para que lo entienda el ser humano y no la máquina.
+
+Aprender a escribir pseudocódigo para la resolución de un problema permite hacer mucho más sencilla su programación en un lenguaje convencional, por lo que si estás interesado en comenzar tu formación como programador y no tienes conocimientos previos, resulta muy recomendable y conveniente formarse en pseudocódigo antes de empezar a estudiar cualquier lenguaje de programación.
+
+Podemos considerar al pseudocódigo como un lenguaje intermedio, que se encuentra en medio de nuestro propio lenguaje y el lenguaje de programación que entiende el ordenador.
+
+**Principales características del pseudocódigo**
+
+Su principal característica es permitir a los desarrolladores esbozar su código sin atascarse en la sintaxis y la estructura de un lenguaje concreto. Esto facilita la detección de errores en la lógica de un programa o función, sin tener que escribir o depurar código real.
+
+Es más, el pseudocódigo puede adaptarse fácilmente a distintos lenguajes de programación, lo que lo convierte en una herramienta útil para los desarrolladores que están familiarizados con varios lenguajes y necesitan trasladar sus ideas entre ellos. Esto puede ser especialmente útil para los equipos que trabajan juntos en un proyecto, ya que el pseudocódigo puede utilizarse como lenguaje común para comunicar ideas y funciones.
+
+**Ventajas y desventajas del pseudocódigo**
+
+Las tareas más complejas o repetitivas pueden representarse de forma más sencilla ya que está escrito en un lenguaje sencillo y no estructurado que permite una transición sencilla al lenguaje de programación, más complejo y estructurado. Tener un programa escrito en pseudocódigo facilita la tarea de programar en un lenguaje formal y mejora la calidad en la resolución de problemas, además de reducir el espacio necesario a la hora de desarrollar un problema.
+
+El pseudocódigo llega donde el diagrama de flujo no lo hace. La solución de un diagrama de flujo suele ser la ideal, pero no suele ser fácil de implementar al crear el programa. El pseudocódigo permite que el diseño del programa y su implementación sean muy parecidos.
+
+La curva de aprendizaje del pseudocódigo es baja por lo que facilitan enormemente el aprendizaje de la programación y la iniciación a lenguajes de programación más avanzados y complejos. Por lo tanto, se trata de una herramienta educativa interesante.
+
+Al escribir los pasos de un proceso en pseudocódigo, los desarrolladores pueden ahorrar tiempo planificando su código antes de sumergirse en los detalles o la sintaxis de un lenguaje de programación específico. Esto puede ayudar a los programadores a evitar errores y reducir la necesidad de depuración.
+
+El pseudocódigo, al ser independiente del lenguaje de programación, permite que su uso se pueda aplicar utilizando diferentes lenguajes y permitiendo que el programador no tenga que ser la misma persona que escribió el pseudocódigo.
+
+Al no ser ejecutable, tu pseudocódigo no necesitará alojarse online ni conectarse a ningún script externo como haría una aplicación completa. Puede crearse y guardarse en un archivo en tu máquina local, en un archivo en la Nube, o incluso copiarse en un correo electrónico.
+
+Una de las desventajas del uso de pseudocódigo es la falta de normas, que puede hacer que la lógica de un programa, resulte complicada de ver por el programador que va a implementar este pseudocódigo. Además, en el caso de problemas muy extensos, puede llegar a ser difícil de entender.
+
+**Componentes y sintaxis del pseudocódigo**
+
+Para escribir programas utilizando pseudocódigo es necesario seguir unas pautas o normas de sintaxis para que puedan ser leídos y comprendidos por los programadores a la hora de pasarlos a un lenguaje de programación. Es muy útil utilizar herramientas que faciliten esta escritura de pseudocódigo, como es el caso de PSeInt, que asiste con un simple e intuitivo pseudolenguaje en español y que además incluye un editor de diagramas de flujo.
+
+Un programa escrito en pseudocódigo debe permitir instrucciones primitivas, de proceso, de control, de descripción y compuestas.
+
+**Pasos para Escribir Pseudocódigo**
+
+Aquí hay algunos pasos generales que puedes seguir para escribir un buen pseudocódigo:
+
+1. **Abre tu editor de texto**: La mayoría de las veces, el pseudocódigo se escribe en un editor de texto o HTML. Puedes elegir tu favorito y abrir un nuevo archivo.
+
+2. **Define tu objetivo**: Determina la finalidad de tu programa o función. ¿Qué quieres que haga?
+
+3. **Sepáralo en partes**: Divide el problema en trozos más pequeños y manejables. Esto puede ayudarte a pensar en el problema con más claridad y facilitar la organización de las piezas para que funcionen donde y cuando deban.
+
+4. **Organízalo en pasos**: Escribe los pasos de tu programa en orden lógico. Utiliza un lenguaje natural y evita utilizar construcciones o métodos de programación específicos, como estructuras de control o conversión de tipos.
+
+5. **Sangría en las líneas**: Utiliza la sangría para mostrar la estructura de tu código. Por ejemplo, puedes sangrar las líneas de código que pertenecen a un bucle.
+
+6. **Pruébalo**: Prueba tu pseudocódigo para asegurarte de que es claro y lógico. Puedes hacerlo recorriéndolo verbalmente o pidiendo a otra persona que lo lea y te informe de lo que cree que debe hacer el pseudocódigo.
+
+Una vez escrito el pseudocódigo, tendrás que convertirlo en un script ejecutable. Puedes practicar esto fuera de tus proyectos contribuyendo a repositorios Git de código abierto, aceptando retos de código y haciendo/respondiendo preguntas en StackOverflow o dentro de tu comunidad de desarrollo.
+
+**Construcciones de pseudocódigo**
+
+A pesar de que el pseudocódigo carece de una sintaxis definida, hay varias construcciones de programación comunes que los desarrolladores suelen utilizar al escribir pseudocódigo. Veamos cada una de ellas.
+
+*Secuencias*
+
+Una secuencia es un grupo de sentencias que se ejecutan en un orden concreto. Se utilizan para realizar o repetir una serie de acciones sencillas. Algunos comandos de secuencia conocidos y utilizados habitualmente en pseudocódigo son:
+
+* INPUT
+* SET
+* PRINT
+* READ
+* DISPLAY
+* SHOW
+* CALCULATE
+
+*Condicionales*
+
+Las sentencias condicionales permiten que un programa tome decisiones basándose en determinadas condiciones, y luego dirigen el programa para que ejecute determinadas sentencias si se cumple (o no) una condición. 
+
+* IF-ELSE
+* IF-IF
+* ELSE-ELSE
+* CASE 
+
+se utilizan con frecuencia en el pseudocódigo.
+
+*Iteraciones*
+
+Las sentencias de iteración repiten un conjunto de pasos dentro de una función o proceso más amplio. A menudo se utilizan para realizar la misma operación en varios elementos de una lista o para repetir un proceso hasta que se cumplan determinadas condiciones.
+
+Las iteraciones son útiles para repetir un conjunto de pasos varias veces y pueden implementarse utilizando varios tipos de bucles, incluidos los bucles:
+
+* FOR
+* WHILE
+* DO-WHILE
+
+**Buenas Prácticas de Pseudocódigo**
+
+Como hemos dicho antes, no hay una sintaxis estricta para escribir pseudocódigo, ya que no es un lenguaje de programación propiamente dicho.
+
+Dicho esto, aquí tienes unas cuantas pautas generales que pueden ayudarte a escribir pseudocódigo claro y eficaz en cada ocasión:
+
+1. Utiliza un lenguaje natural: El pseudocódigo debe escribirse de forma que sea fácil de entender para cualquiera, utilizando lenguaje natural en lugar de jerga técnica.
+
+2. Hazlo sencillo: Evita utilizar lenguaje o sintaxis complejos, y céntrate en expresar los pasos del algoritmo o proceso de forma clara y concisa.
+
+3. Sé específico: Sé lo más específico posible al escribir el pseudocódigo, incluyendo información como nombres de variables y valores concretos.
+
+4. Omite los detalles innecesarios: Si te preocupas por la convención de mayúsculas y minúsculas que debes adoptar o por si debes usar punto y coma, estás dándole demasiadas vueltas. Haz que tu texto en pseudocódigo sea lo más sencillo y directo posible.
+
+5. Utiliza elementos similares a los de programación: Aunque el pseudocódigo no debe escribirse en un lenguaje de programación específico, puede ser útil utilizar elementos como bucles, sentencias condicionales y llamadas a funciones para facilitar a los lectores la comprensión de los pasos de tu programa.
+
+6. Utiliza la sangría para mostrar la jerarquía: La sangría puede utilizarse para mostrar la jerarquía de los pasos de tu programa, facilitando la comprensión de la lógica y la estructura.
+
+Siguiendo estas pautas, puedes escribir un pseudocódigo claro y eficaz que tú y otros podáis utilizar como guía para implementar tu función o algoritmo en un lenguaje de scripting o programación específico.
+
+**Opciones del lenguaje (perfiles)**
+
+El lenguaje que utilizamos para construir el pseudocódigo no es estándar. Podemos añadir o eliminar algunas reglas de sintaxis sin ningún problema. En la opción Configurar-Opciones del Lenguaje (perfiles), podemos escoger las características del pseudocódigo que vamos a utilizar. Tenemos tres alternativas:
+
+* Escoger un perfil que define un pseudocódigo utilizado en distintos centros educativos y universidades.
+
+* Perfil flexible: Está escogido por defecto, y no es muy exigente con las reglas que hay que utilizar para escribir el pseudocódigo.
+
+* Perfil estricto: Establece una reglas que hacen que el pseudocódigo se parezca más a un lenguaje de programación: se debe definir las variables y sus tipos, las instrucciones deben terminar en punto y coma,…
+
+**Estructura de un programa escrito con pseudocódigo**
+
+Ahora vamos a conocer la estructura formal de un programa escrito con pseudocódigo. Como todo programa informático, necesita una estructura determinada para su realización:
+
+Cabecera:
+
+* Programa:
+* Modulo
+* Tipos de datos
+* Constantes
+* Variables
+
+Cuerpo:
+
+* Inicio
+* Instrucciones
+* Fin
+
+Si queremos hacer un comentario dentro del pseudocódigo, iniciamos la línea del comentario con dos asteriscos (**).
+
+Un desarrollo de software escrito en pseudocódigo debe permitir la ejecución de instrucciones primitivas, de proceso, de control, de descripción y compuestas.
+
+Para ello, en la redacción de pseudocódigo, los usuarios tienen disponibles tres tipos de estructuras básicas de control:
+
+* Las secuenciales
+* Las selectivas
+* Las iterativas
+
+* **Estructuras secuenciales**. Las instrucciones se siguen en una secuencia fija que normalmente se encuentra definida por el número de renglón. Esto significa que las instrucciones se ejecutan de arriba hacia abajo.
+
+* **Estructuras selectivas**. Las instrucciones selectivas representan instrucciones que pueden o no ejecutarse, de acuerdo el cumplimiento de una condición.
+
+* **Selectiva doble (alternativa)**. La instrucción alternativa realiza una instrucción de dos posibles, de acuerdo al cumplimiento de una condición.
+
+* **Selectiva múltiple**. Otro uso común es también la utilización de una selección múltiple, lo que equivaldría a anidar varias funciones de selección. En este tipo de situaciones, existen una serie de condiciones que tienen que ser mutuamente excluyentes, si una de ellas se cumple las demás tienen que ser necesariamente falsas, hay un caso “Si no” que será verdadero cuando las demás condiciones sean falsas.
+
+* **Selectiva múltiple-Casos**.	Este caso es similar al anterior. Aquí nos encontramos con un “Indicador” que es una variable o una función cuyo valor es comparado en cada caso con los valores “Valor¡”. En el caso que coincidan ambos valores, entonces se ejecutarán las “Instrucciones¡” correspondientes.
+
+* **Estructuras iterativas**.	La estructura iterativa o de repetición permite ejecutar una o varias instrucciones un número determinado de veces o de forma indefinida mientras se cumpla una determinada condición.
+
+* **Bucle mientras**.	En este caso, el objetivo principal del bucle es repetir un bloque de código mientras una condición se mantenga verdadera.
+
+* **Bucle repetir**. El bucle repetir comprueba que las instrucciones del cuerpo del bucle hayan llegado a su final, entonces si es verdadera continua con la ejecución resto del programa.
+
+* **Bucle hacer**. El Bucle es utilizado en programación para repetir un bloque de código de un programa mientras se cumpla cierta condición.
+
+* **Bucle para**.	Este bucle es utilizado para cuando se desea iterar un número conocido de veces, empleando como índice una variable que aumenta o disminuye.
+
+* **Bucle para cada**. Esta sentencia, de uso muy extendido, es utilizada cuando se tiene una lista o un conjunto.
+
+* **El anidamiento**.	El anidamiento permite incorporar llamadas a funciones o procedimientos dentro de otros procedimientos, gracias a la inclusión de diversos niveles de paréntesis. Esto significa que cualquier instrucción puede ser sustituida por una estructura de control.
 
 El pseudocódigo, como cualquier otro lenguaje, está compuesto por:
 
