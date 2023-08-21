@@ -5,7 +5,7 @@ excerpt: "Todo Hacker o ciberdelincuente tiene un modus operandi a la hora de bu
 date: 2023-07-20
 classes: wide
 header:
-  teaser: /assets/images/20230720/Introduccion.jpg
+  teaser: /assets/images/20230720/Intro.jpg
   teaser_home_page: true
 categories:
   - Metodología
