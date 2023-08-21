@@ -8,7 +8,8 @@ header:
   teaser: /assets/images/20230720/Introduccion.jpg
   teaser_home_page: true
 categories:
-  - Programación
+  - Metodología
+  - Hacking
 tags:
   - Fundamentos
 ---
