@@ -104,9 +104,11 @@ Sin embargo, cuando pensamos en la solución de un problema que va a resolver un
 
 Por eso, el primer paso es idear un algoritmo para su solución y expresarlo por escrito, por ejemplo, en español, pero adaptando el lenguaje humano a *formas lógicas* que se acerquen a las tareas que puede realizar una computadora. 
 
-En programación, el lenguaje artificial e informal que usan los desarrolladores en la confección de algoritmos recibe el nombre de **pseudocódigo**. 
+En programación, el lenguaje artificial e informal que usan los desarrolladores en la confección de algoritmos recibe el nombre de pseudocódigo.
 
-El pseudocódigo es una forma de expresar los distintos pasos que va a realizar un programa, de la forma más parecida a un lenguaje de programación. Su principal función es la de representar por pasos la solución a un problema o algoritmo, de la forma más detallada posible, utilizando un lenguaje cercano al de programación. 
+![](/assets/images/20230719/Pseudocodigo.jpg)
+
+El **pseudocódigo** es una forma de expresar los distintos pasos que va a realizar un programa, de la forma más parecida a un lenguaje de programación. Su principal función es la de representar por pasos la solución a un problema o algoritmo, de la forma más detallada posible, utilizando un lenguaje cercano al de programación. 
 
 El pseudocódigo no puede ejecutarse en un ordenador ya que entonces dejaría de ser pseudocódigo, como su propio nombre indica, se trata de un código falso *(pseudo = falso)*, es un código escrito para que lo entienda el ser humano y no la máquina.
 
@@ -138,11 +140,11 @@ Una de las desventajas del uso de pseudocódigo es la falta de normas, que puede
 
 **Componentes y sintaxis del pseudocódigo**
 
-Para escribir programas utilizando pseudocódigo es necesario seguir unas pautas o normas de sintaxis para que puedan ser leídos y comprendidos por los programadores a la hora de pasarlos a un lenguaje de programación. Es muy útil utilizar herramientas que faciliten esta escritura de pseudocódigo, como es el caso de PSeInt, que asiste con un simple e intuitivo pseudolenguaje en español y que además incluye un editor de diagramas de flujo.
+Para escribir programas utilizando pseudocódigo es necesario seguir unas pautas o normas de sintaxis para que puedan ser leídos y comprendidos por los programadores a la hora de pasarlos a un lenguaje de programación.
 
 Un programa escrito en pseudocódigo debe permitir instrucciones primitivas, de proceso, de control, de descripción y compuestas.
 
-**Pasos para Escribir Pseudocódigo**
+**Pasos para escribir pseudocódigo**
 
 Aquí hay algunos pasos generales que puedes seguir para escribir un buen pseudocódigo:
 
@@ -233,7 +235,7 @@ Ahora vamos a conocer la estructura formal de un programa escrito con pseudocód
 
 Cabecera:
 
-* Programa:
+* Programa
 * Modulo
 * Tipos de datos
 * Constantes
@@ -254,6 +256,8 @@ Para ello, en la redacción de pseudocódigo, los usuarios tienen disponibles tr
 * Las secuenciales
 * Las selectivas
 * Las iterativas
+
+A continuación se describe cada una de ellas de forma más detallada:
 
 * **Estructuras secuenciales**. Las instrucciones se siguen en una secuencia fija que normalmente se encuentra definida por el número de renglón. Esto significa que las instrucciones se ejecutan de arriba hacia abajo.
 
@@ -301,11 +305,82 @@ Se comienza con un título que describa el problema que el algoritmo resuelve, s
 
 Es importante destacar la presencia de sangrías (sangrado) en el ejemplo anterior, que facilitan la lectura. Los algoritmos suelen ser representados también mediante *diagramas de flujo*.
 
-## Pseudocódigo
-
 ## Diagrama de flujo
 
+![](/assets/images/20230719/Diagrama.jpg)
+
+Si bien las variaciones y versiones de los diagramas de flujo son infinitas. Hay 4 tipos de diagramas de flujo que son particularmente versátiles. Estos cuatro diagramas comunes son excelentes para describir procesos comerciales, de fabricación o administrativos, ver cómo funciona una organización o cómo trabajan juntos los diferentes departamentos.
+
+1. El diagrama de flujo del proceso
+
+Un diagrama de flujo de proceso es probablemente el más versátil de los cuatro tipos de diagramas de flujo de uso común porque se puede aplicar a prácticamente cualquier cosa. Utilice un diagrama de flujo de proceso para:
+
+  * Trazar los roles y responsabilidades dentro de una organización para obtener claridad.
+  * Elaborar una propuesta para un nuevo proceso o proyecto para comprender su alcance y pasos.
+
+2. El diagrama de flujo de trabajo
+
+Ayuda a comprender cómo fluyen los datos y los documentos dentro de su organización. Un diagrama de flujo de trabajo muestra la forma en que funciona una empresa o un proceso. Este tipo de diagrama de flujo de trabajo se puede utilizar para:
+
+  * Capacitar a nuevos empleados
+  * Descubrir posibles áreas problemáticas
+  * Aclarar las operaciones comerciales mostrando una descripción general de alto nivel
+
+3. El diagrama de flujo de carriles
+
+Describe cómo interactúan departamentos, procesos o empleados separados. El diagrama de flujo de carriles resulta útil cuando necesita mostrar varios flujos de información uno al lado del otro. Los diagramas de carriles pueden sonar muy similares a un diagrama de flujo de trabajo, pero la clave aquí es que le permite crear diferentes categorías donde tiene lugar la actividad.
+
+Un diagrama de flujo o diagrama de carriles es excelente para documentar un proceso completo que interactúa con diferentes segmentos de una organización o requiere la colaboración entre diferentes equipos.
+
+4. El diagrama de flujo de datos
+
+Se pueden ver dónde entran y salen los datos de un sistema de información. Un diagrama de flujo de datos muestra la forma en que se procesan los datos. Resulta útil cuando desea diseñar o analizar un sistema. Aunque se utiliza con mayor frecuencia para el desarrollo y diseño de software, se puede utilizar para analizar cualquier tipo de flujo de información, como cómo se mueve la información a través de una empresa.
+
+**Beneficios**
+
+* Con un diagrama de flujo, los análisis del proceso o de un nuevo proyecto, se pueden entender mejor y con más efectividad.
+
+* No se pierde tiempo y reduce los costos.
+
+* Se tiene una mejor comunicación en cuanto a la lógica de un sistema entre todos los trabajadores.
+
+* Para los programadores, el diagrama de flujo ayuda a facilitar el mantenimiento del programa operativo. El proceso se hace más eficiente.
+
+* El proceso de depuración es mucho más fácil con el diagrama de flujo.
+
+* Hace que la codificación sea eficiente al desarrollar un programa o al analizar un sistema.
+
+* Hace que todo sea más eficiente, pues es una buena documentación.
+
+**Desventajas**
+
+* Lógica compleja: a veces, la lógica del programa es bastante complicada. En ese caso, el diagrama de flujo se vuelve complejo y torpe. Esto se convertirá en una molestia para el usuario, lo que resultará en una pérdida de tiempo y dinero al intentar corregir el problema.
+
+* Alteraciones y modificaciones: si se requieren alteraciones, el diagrama de flujo puede requerir que se vuelva a dibujar por completo. Esto normalmente hará perder un tiempo valioso.
+
+* Reproducción: Como los símbolos del diagrama de flujo no se pueden escribir, la reproducción del diagrama de flujo se convierte en un problema.
+
+![](/assets/images/20230719/simbolos.jpg)
+
+**¿Cuál es el procedimiento del diagrama de flujo?**
+
+El diagrama de flujo puede hacerse de manera manual en una pizarra o mediante el ordenador. El procedimiento básico es el siguiente:
+
+1. Primero que nada, define el proceso a diagramar. Escribe en la parte superior del diagrama el título de lo que se va a analizar.
+
+2. Analiza, discute y decide los límites que tendrá el proceso. Cuándo, cómo o dónde se va a llevar a cabo. Principio y fin.
+
+3. Anota las actividades y tareas que se llevarán a cabo.
+
+4. Organiza en secuencia todas las actividades anteriormente anotadas.
+
+5. Entre todos los trabajadores, se deberá estar de acuerdo con la secuencia de todas las actividades, de que están correctas. Luego empieza a dibujar las flechas para organizar el orden.
+
+6. Finalmente, puedes analizar y discutir el diagrama de flujo con otros trabajadores involucrados en el proceso, pueden ser clientes, supervisores, etc. Esto es para tener en mente de que si están de acuerdo a que todo está hecho con precisión.
+
 ## Codificación
+
+![](/assets/images/20230719/Codificacion.jpg)
 
 Si bien hay distintos lenguajes de programación, una computadora en definitiva es un aparato que sólo sabe hablar en *binario*, es decir, sólo interpreta señales eléctricas con dos estados posibles, los cuales son representados por los *dígitos binarios* (0, 1). Este sistema de código con ceros y unos que la computadora interpreta como instrucciones o conjuntos de datos se llama lenguaje de máquina (código de máquina).
 
@@ -354,6 +429,8 @@ A continuación, se presenta una de las posibles clasificaciones de los errores 
 Los errores en la programación son tan comunes, que un científico de la computación muy reconocido, Edsger Dijkstra, dijo una vez: *“si la depuración es el proceso de eliminar errores, entonces la programación es el proceso de generarlos”*. Ante la presencia de uno, no hay más que respirar profundo y con paciencia revisar hasta encontrarlo y solucionarlo.
 
 ## Lógica de programación
+
+![](/assets/images/20230719/logica.png)
 
 ## Variables y Constantes
 
