@@ -29,6 +29,8 @@ Desafortunadamente, las computadoras solo entienden ciertos lenguajes artificial
 
 ## Algoritmo
 
+![](/assets/images/20230719/algoritmo.png)
+
 La programación consiste en escribir las indicaciones que debe de seguir un computador para completar una tarea, problema o necesidad, pero para poder escribir este tipo de indicaciones, el primer paso es pensar detalladamente cuál puede ser la forma de resolverlo, es decir, crear un *algoritmo*.
 
 Un algoritmo es una estrategia consistente de un conjunto de pasos ordenados que nos lleva a la solución de un problema o alcance de un objetivo.
