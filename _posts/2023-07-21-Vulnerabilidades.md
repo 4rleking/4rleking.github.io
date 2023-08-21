@@ -2,7 +2,7 @@
 layout: single
 title: Tipos de Vulnerabilidades
 excerpt: "Ningún sistema es 100% seguro, al momento de crearse tiene fallas, errores, durante su ciclo de vida sigue teniendo fallas y errores, es por ello que aquí se explican que son este tipo de fallas y que tan grave puede afectar en los sistemas."
-date: 2023-07-20
+date: 2023-07-21
 classes: wide
 header:
   teaser: /assets/images/20230721/Intro.jpg
