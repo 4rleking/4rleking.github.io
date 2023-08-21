@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Tipos de Vulnerabilidades
-excerpt: "Todo Hacker o ciberdelincuente tiene un modus operandi a la hora de buscar un objetivo e intentar buscar o introducirse en sus sistemas, en este apartado se explicará a detalle como funciona este sistema"
+excerpt: "Ningún sistema es 100% seguro, al momento de crearse tiene fallas, errores, durante su ciclo de vida sigue teniendo fallas y errores, es por ello que aquí se explican que son este tipo de fallas y que tan grave puede afectar en los sistemas."
 date: 2023-07-20
 classes: wide
 header:
