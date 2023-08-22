@@ -267,7 +267,7 @@ Es importante destacar la presencia de sangrías (sangrado) en el ejemplo anteri
 ## Diagrama de flujo
 
 <center>
-    <img src='./../assets/images/20230719/Diagrama.jpg' width="30%" height="30%">
+    <img src='./../assets/images/20230719/Diagrama.jpg' width="40%" height="30%">
 </center>
 
 Si bien las variaciones y versiones de los diagramas de flujo son infinitas. Hay 4 tipos de diagramas de flujo que son particularmente versátiles. Estos cuatro diagramas comunes son excelentes para describir procesos comerciales, de fabricación o administrativos, ver cómo funciona una organización o cómo trabajan juntos los diferentes departamentos.
