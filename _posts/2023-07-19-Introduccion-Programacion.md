@@ -266,13 +266,17 @@ Es importante destacar la presencia de sangrías (sangrado) en el ejemplo anteri
 
 ## Diagrama de flujo
 
-![](/assets/images/20230719/Diagrama.jpg)
+<center>
+    <img src='./../assets/images/20230719/Diagrama.jpg' width="50%" height="50%">
+</center>
 
 Si bien las variaciones y versiones de los diagramas de flujo son infinitas. Hay 4 tipos de diagramas de flujo que son particularmente versátiles. Estos cuatro diagramas comunes son excelentes para describir procesos comerciales, de fabricación o administrativos, ver cómo funciona una organización o cómo trabajan juntos los diferentes departamentos.
 
 **El diagrama de flujo del proceso**. 
 
-![](/assets/images/20230719/flujo.jpg)
+<center>
+    <img src='./../assets/images/20230719/flujo.jpg'>
+</center>
 
 Un diagrama de flujo de proceso es probablemente el más versátil de los cuatro tipos de diagramas de flujo de uso común porque se puede aplicar a prácticamente cualquier cosa. Utilice un diagrama de flujo de proceso para:
 
@@ -281,7 +285,9 @@ Un diagrama de flujo de proceso es probablemente el más versátil de los cuatro
 
 **El diagrama de flujo de trabajo**. 
 
-![](/assets/images/20230719/trabajo.jpg)
+<center>
+    <img src='./../assets/images/20230719/trabajo.jpg'>
+</center>
 
 Ayuda a comprender cómo fluyen los datos y los documentos dentro de su organización. Un diagrama de flujo de trabajo muestra la forma en que funciona una empresa o un proceso. Este tipo de diagrama de flujo de trabajo se puede utilizar para:
 
@@ -291,7 +297,9 @@ Ayuda a comprender cómo fluyen los datos y los documentos dentro de su organiza
 
 **El diagrama de flujo de carriles**. 
 
-![](/assets/images/20230719/carril.jpg)
+<center>
+    <img src='./../assets/images/20230719/carril.jpg'>
+</center>
 
 Describe cómo interactúan departamentos, procesos o empleados separados. El diagrama de flujo de carriles resulta útil cuando necesita mostrar varios flujos de información uno al lado del otro. Los diagramas de carriles pueden sonar muy similares a un diagrama de flujo de trabajo, pero la clave aquí es que le permite crear diferentes categorías donde tiene lugar la actividad.
 
@@ -299,7 +307,9 @@ Un diagrama de flujo o diagrama de carriles es excelente para documentar un proc
 
 **El diagrama de flujo de datos**.
 
-![](/assets/images/20230719/datos.jpg)
+<center>
+    <img src='./../assets/images/20230719/datos.jpg'>
+</center>
 
 Se pueden ver dónde entran y salen los datos de un sistema de información. Un diagrama de flujo de datos muestra la forma en que se procesan los datos. Resulta útil cuando desea diseñar o analizar un sistema. Aunque se utiliza con mayor frecuencia para el desarrollo y diseño de software, se puede utilizar para analizar cualquier tipo de flujo de información, como cómo se mueve la información a través de una empresa.
 
