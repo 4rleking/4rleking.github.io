@@ -347,7 +347,7 @@ El diagrama de flujo puede hacerse de manera manual en una pizarra o mediante el
 ## Codificación
 
 <center>
-    <img src='./../assets/images/20230719/Codificacion.jpg' width="100%" height="80%">
+    <img src='./../assets/images/20230719/Codificacion.jpg' width="100%" height="60%">
 </center>
 
 Si bien hay distintos lenguajes de programación, una computadora en definitiva es un aparato que sólo sabe hablar en *binario*, es decir, sólo interpreta señales eléctricas con dos estados posibles, los cuales son representados por los *dígitos binarios* (0, 1). Este sistema de código con ceros y unos que la computadora interpreta como instrucciones o conjuntos de datos se llama lenguaje de máquina *(código de máquina)*.
