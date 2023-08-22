@@ -270,7 +270,7 @@ Es importante destacar la presencia de sangrías (sangrado) en el ejemplo anteri
 
 Si bien las variaciones y versiones de los diagramas de flujo son infinitas. Hay 4 tipos de diagramas de flujo que son particularmente versátiles. Estos cuatro diagramas comunes son excelentes para describir procesos comerciales, de fabricación o administrativos, ver cómo funciona una organización o cómo trabajan juntos los diferentes departamentos.
 
-1. **El diagrama de flujo del proceso**. 
+**El diagrama de flujo del proceso**. 
 
 ![](/assets/images/20230719/flujo.jpg)
 
@@ -279,7 +279,7 @@ Un diagrama de flujo de proceso es probablemente el más versátil de los cuatro
   * Trazar los roles y responsabilidades dentro de una organización para obtener claridad.
   * Elaborar una propuesta para un nuevo proceso o proyecto para comprender su alcance y pasos.
 
-2. **El diagrama de flujo de trabajo**. 
+**El diagrama de flujo de trabajo**. 
 
 ![](/assets/images/20230719/trabajo.jpg)
 
@@ -289,7 +289,7 @@ Ayuda a comprender cómo fluyen los datos y los documentos dentro de su organiza
   * Descubrir posibles áreas problemáticas.
   * Aclarar las operaciones comerciales mostrando una descripción general de alto nivel.
 
-3. **El diagrama de flujo de carriles**. 
+**El diagrama de flujo de carriles**. 
 
 ![](/assets/images/20230719/carril.jpg)
 
@@ -297,7 +297,7 @@ Describe cómo interactúan departamentos, procesos o empleados separados. El di
 
 Un diagrama de flujo o diagrama de carriles es excelente para documentar un proceso completo que interactúa con diferentes segmentos de una organización o requiere la colaboración entre diferentes equipos.
 
-4. **El diagrama de flujo de datos**. 
+**El diagrama de flujo de datos**.<hr>
 
 ![](/assets/images/20230719/datos.jpg)
 
