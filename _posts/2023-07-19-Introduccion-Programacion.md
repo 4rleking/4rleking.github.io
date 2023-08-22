@@ -297,7 +297,7 @@ Describe cómo interactúan departamentos, procesos o empleados separados. El di
 
 Un diagrama de flujo o diagrama de carriles es excelente para documentar un proceso completo que interactúa con diferentes segmentos de una organización o requiere la colaboración entre diferentes equipos.
 
-**El diagrama de flujo de datos**.<hr>
+**El diagrama de flujo de datos**.
 
 ![](/assets/images/20230719/datos.jpg)
 
