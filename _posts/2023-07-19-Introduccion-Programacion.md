@@ -275,7 +275,7 @@ Si bien las variaciones y versiones de los diagramas de flujo son infinitas. Hay
 **El diagrama de flujo del proceso**. 
 
 <center>
-    <img src='./../assets/images/20230719/flujo.jpg'  width="30%" height="30%">
+    <img src='./../assets/images/20230719/flujo.jpg' width="50%" height="50%">
 </center>
 
 Un diagrama de flujo de proceso es probablemente el más versátil de los cuatro tipos de diagramas de flujo de uso común porque se puede aplicar a prácticamente cualquier cosa. Utilice un diagrama de flujo de proceso para:
@@ -286,7 +286,7 @@ Un diagrama de flujo de proceso es probablemente el más versátil de los cuatro
 **El diagrama de flujo de trabajo**. 
 
 <center>
-    <img src='./../assets/images/20230719/trabajo.jpg'>
+    <img src='./../assets/images/20230719/trabajo.jpg' width="60%" height="60%">
 </center>
 
 Ayuda a comprender cómo fluyen los datos y los documentos dentro de su organización. Un diagrama de flujo de trabajo muestra la forma en que funciona una empresa o un proceso. Este tipo de diagrama de flujo de trabajo se puede utilizar para:
@@ -298,7 +298,7 @@ Ayuda a comprender cómo fluyen los datos y los documentos dentro de su organiza
 **El diagrama de flujo de carriles**. 
 
 <center>
-    <img src='./../assets/images/20230719/carril.jpg'>
+    <img src='./../assets/images/20230719/carril.jpg' width="50%" height="50%">
 </center>
 
 Describe cómo interactúan departamentos, procesos o empleados separados. El diagrama de flujo de carriles resulta útil cuando necesita mostrar varios flujos de información uno al lado del otro. Los diagramas de carriles pueden sonar muy similares a un diagrama de flujo de trabajo, pero la clave aquí es que le permite crear diferentes categorías donde tiene lugar la actividad.
@@ -313,7 +313,9 @@ Un diagrama de flujo o diagrama de carriles es excelente para documentar un proc
 
 Se pueden ver dónde entran y salen los datos de un sistema de información. Un diagrama de flujo de datos muestra la forma en que se procesan los datos. Resulta útil cuando desea diseñar o analizar un sistema. Aunque se utiliza con mayor frecuencia para el desarrollo y diseño de software, se puede utilizar para analizar cualquier tipo de flujo de información, como cómo se mueve la información a través de una empresa.
 
-![](/assets/images/20230719/simbolos.jpg)
+<center>
+    <img src='./../assets/images/20230719/simbolos.jpg'>
+</center>
 
 **Beneficios**
 
@@ -344,7 +346,9 @@ El diagrama de flujo puede hacerse de manera manual en una pizarra o mediante el
 
 ## Codificación
 
-![](/assets/images/20230719/Codificacion.jpg)
+<center>
+    <img src='./../assets/images/20230719/Codificacion.jpg' width="100%" height="80%">
+</center>
 
 Si bien hay distintos lenguajes de programación, una computadora en definitiva es un aparato que sólo sabe hablar en *binario*, es decir, sólo interpreta señales eléctricas con dos estados posibles, los cuales son representados por los *dígitos binarios* (0, 1). Este sistema de código con ceros y unos que la computadora interpreta como instrucciones o conjuntos de datos se llama lenguaje de máquina *(código de máquina)*.
 
