@@ -275,7 +275,7 @@ Si bien las variaciones y versiones de los diagramas de flujo son infinitas. Hay
 **El diagrama de flujo del proceso**. 
 
 <center>
-    <img src='./../assets/images/20230719/flujo.jpg'>
+    <img src='./../assets/images/20230719/flujo.jpg'  width="30%" height="30%">
 </center>
 
 Un diagrama de flujo de proceso es probablemente el más versátil de los cuatro tipos de diagramas de flujo de uso común porque se puede aplicar a prácticamente cualquier cosa. Utilice un diagrama de flujo de proceso para:
