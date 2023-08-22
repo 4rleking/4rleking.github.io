@@ -23,9 +23,9 @@ Es demasiado sencillo para el usuario operar este tipo de aplicaciones o disposi
 
 La *programación* es la actividad mediante la cual las personas le indican a una computadora el procedimiento o conjunto de instrucciones para que, al ejecutarlas, ésta pueda resolver cierto problema deseado.
 
-La programación, aunque no lo parezca es un proceso creativo, es decir, en la mayoría de las ocasiones la tarea puede cumplirse siguiendo distintos caminos y el programador es el que debe imaginar cuáles son y elegir uno (el mejor). Algunos de estos caminos pueden ser mejores que otros, pero en cualquier caso la computadora se limitará a seguir las instrucciones ideadas por el programador (aunque estas instrucciones estén mal planeadas).
+La programación, aunque no lo parezca es un proceso creativo, es decir, en la mayoría de las ocasiones la tarea puede cumplirse siguiendo distintos caminos y el programador es el que debe imaginar cuáles son y elegir uno (el mejor). Algunos de estos caminos pueden ser mejores que otros, pero en cualquier caso la computadora se limitará a seguir las instrucciones ideadas por el programador (aunque en ocasiones estas instrucciones estén mal planeadas).
 
-Desafortunadamente, las computadoras solo entienden ciertos lenguajes artificiales compuestos por una serie de expresiones; es por ello que a la hora de programar tenemos que ser muy específicos. Es necesario respetar las reglas de lenguaje de programación y ser claros en las indicaciones escritas.
+Desafortunadamente, las computadoras solo entienden ciertos lenguajes artificiales compuestos por una serie de expresiones; es por ello que a la hora de programar tenemos que ser muy específicos, es necesario respetar las reglas de lenguaje de programación y ser claros en las indicaciones escritas.
 
 ## Algoritmo
 
@@ -37,52 +37,32 @@ Un algoritmo es una estrategia consistente de un conjunto de pasos ordenados que
 
 ### Robustez de un algoritmo
 
-Quiere decir que un algoritmo debe contemplar todas las posibles facetas del
-problema que queremos resolver. Al elaborar un algoritmo no se nos debe escapar
-ningún detalle que provoque un funcionamiento malo en él. Si logramos construir un
-algoritmo robusto, cualquier giro inesperado del problema será controlado por el
-mismo, es decir, debe ser flexible a cambios.
+Un algoritmo debe contemplar todas las posibles facetas del problema que queremos resolver. Al elaborar un algoritmo no se nos debe escapar ningún detalle que provoque un funcionamiento malo en él. Si logramos construir un algoritmo robusto, cualquier giro inesperado del problema será controlado por el mismo, es decir, debe ser flexible a cambios.
 
 ### Correctitud de un algoritmo
 
-Un algoritmo es correcto cuando da una solución al problema a tratar y cumple con
-todos los requerimientos especificados, de tal manera que logremos los objetivos
-planteados.
+Un algoritmo es correcto cuando da una solución al problema a tratar y cumple con todos los requerimientos especificos, de tal manera que logremos los objetivos planteados.
 
 ### Completitud de un algoritmo
 
-Cuando un algoritmo cuenta con todos los recursos para poder llegar a una solución
-satisfactoria.
+Cuando un algoritmo cuenta con todos los recursos para poder llegar a una solución satisfactoria.
 
 ### Eficiencia de un algoritmo
 
-Un algoritmo es eficiente cuando logra llegar a sus objetivos planteados utilizando
-la menor cantidad de recursos posibles, es decir, minimizando el uso memoria, de
-pasos y de esfuerzo humano.
+Un algoritmo es eficiente cuando logra llegar a sus objetivos planteados utilizando la menor cantidad de recursos posibles, es decir, minimizando el uso de memoria, de pasos y de esfuerzo humano.
 
 ### Eficacia de un algoritmo
 
-Un algoritmo es eficaz cuando alcanza el objetivo primordial, el análisis de
-resolución del problema se lo realiza prioritariamente.
+Un algoritmo es eficaz cuando alcanza el objetivo primordial, el análisis de resolución del problema lo realiza prioritariamente.
 
 ### Diferencia entre eficiencia y eficacia
-La eficacia difiere de la eficiencia en el sentido que la eficiencia hace referencia a
-la mejor utilización de los recursos, en tanto, la eficacia hace referencia en la
-capacidad para alcanzar un objetivo sin importar si se le ha dado el mejor uso posible
-a los recursos.
+La eficacia difiere de la eficiencia en el sentido que la eficiencia hace referencia a la mejor utilización de los recursos, en tanto, la eficacia hace referencia en la capacidad para alcanzar un objetivo sin importar si se le ha dado el mejor uso posible a los recursos.
 
 Para poder resolver un problema computacional debemos de realizar cuatro actividades hasta el momento:
 
-* **Comprender el problema**: Este paso puede ser muy difícil, pero es definitivamente
-el más crucial. En este caso se plantea el problema de forma general, además se identifica
-los datos resultantes, es decir a lo que se quiere llegar; así como, los datos con los que se
-cuenta (datos de entrada). También es necesario verificar que la información dada sea
-suficiente para resolver el problema.
+* **Comprender el problema**: Este paso puede ser muy difícil, pero es definitivamente el más crucial. En este caso se plantea el problema de forma general, además se identifica los datos resultantes, es decir a lo que se quiere llegar; así como, los datos con los que se cuenta (datos de entrada). También es necesario verificar que la información dada sea suficiente para resolver el problema; y en caso de no tener la información necesaria (empezar a recolectarla).
 
-* **Idear una solución**: Una vez que se ha comprendido el problema, se debe pensar en un
-plan de acción para resolver el problema. Un plan está formado por procedimiento del
-dato para la obtención del resultado, de acuerdo a la relación que existe en ellos. Las
-técnicas más generales incluyen:
+* **Idear una solución**: Una vez que se ha comprendido el problema, se debe pensar en un plan de acción para resolverlo. Lo ideal sería visualizar o identificar diferentes soluciones que puedan llegar al mismo resultado, esto es para detectar si hubiera algún fallo o vulnerabilidad por algún camino, poderlo resolver con demasiada anticipación. Las técnicas más generales incluyen:
 
   * Buscar si existe problemas similares conocidos.
   * Relacionar el problema original de tal forma que se parezca a uno conocido.
@@ -108,13 +88,13 @@ En programación, el lenguaje artificial e informal que usan los desarrolladores
 
 ![](/assets/images/20230719/Pseudocodigo.jpg)
 
-El **pseudocódigo** es una forma de expresar los distintos pasos que va a realizar un programa, de la forma más parecida a un lenguaje de programación. Su principal función es la de representar por pasos la solución a un problema o algoritmo, de la forma más detallada posible, utilizando un lenguaje cercano al de programación. 
+El **pseudocódigo** es una forma de expresar los distintos pasos que va a realizar un programa, de la forma más parecida a un lenguaje de programación. 
 
-El pseudocódigo no puede ejecutarse en un ordenador ya que entonces dejaría de ser pseudocódigo, como su propio nombre indica, se trata de un código falso *(pseudo = falso)*, es un código escrito para que lo entienda el ser humano y no la máquina.
+El pseudocódigo no puede ejecutarse en un ordenador ya que entonces dejaría de ser pseudocódigo, como su propio nombre lo indica, se trata de un código falso *(pseudo = falso)*, es un código escrito para que lo entienda el ser humano y no la máquina.
 
-Aprender a escribir pseudocódigo para la resolución de un problema permite hacer mucho más sencilla su programación en un lenguaje convencional, por lo que si estás interesado en comenzar tu formación como programador y no tienes conocimientos previos, resulta muy recomendable y conveniente formarse en pseudocódigo antes de empezar a estudiar cualquier lenguaje de programación.
+Aprender a escribir pseudocódigo para la resolución de un problema permite hacer mucho más sencilla su programación en un lenguaje convencional, por lo que, si estás interesado en comenzar tu formación como programador y no tienes conocimientos previos, resulta muy recomendable y conveniente formarse en pseudocódigo antes de empezar a estudiar cualquier lenguaje de programación.
 
-Podemos considerar al pseudocódigo como un lenguaje intermedio, que se encuentra en medio de nuestro propio lenguaje y el lenguaje de programación que entiende el ordenador.
+Podemos considerar al pseudocódigo como un *lenguaje intermedio*, que se encuentra en medio de nuestro propio lenguaje y el lenguaje de programación que entiende el ordenador.
 
 **Principales características del pseudocódigo**
 
@@ -124,25 +104,23 @@ Es más, el pseudocódigo puede adaptarse fácilmente a distintos lenguajes de p
 
 **Ventajas y desventajas del pseudocódigo**
 
-Las tareas más complejas o repetitivas pueden representarse de forma más sencilla ya que está escrito en un lenguaje sencillo y no estructurado que permite una transición sencilla al lenguaje de programación, más complejo y estructurado. Tener un programa escrito en pseudocódigo facilita la tarea de programar en un lenguaje formal y mejora la calidad en la resolución de problemas, además de reducir el espacio necesario a la hora de desarrollar un problema.
+Las tareas más complejas o repetitivas pueden representarse de forma más sencilla ya que está escrito en un lenguaje sencillo y no estructurado que permite una transición sencilla al lenguaje de programación, más complejo y estructurado. 
+
+Tener un programa escrito en pseudocódigo facilita la tarea de programar en un lenguaje formal y mejora la calidad en la resolución de problemas, además de reducir el espacio necesario a la hora de desarrollar un problema.
 
 El pseudocódigo llega donde el diagrama de flujo no lo hace. La solución de un diagrama de flujo suele ser la ideal, pero no suele ser fácil de implementar al crear el programa. El pseudocódigo permite que el diseño del programa y su implementación sean muy parecidos.
 
-La curva de aprendizaje del pseudocódigo es baja por lo que facilitan enormemente el aprendizaje de la programación y la iniciación a lenguajes de programación más avanzados y complejos. Por lo tanto, se trata de una herramienta educativa interesante.
-
-Al escribir los pasos de un proceso en pseudocódigo, los desarrolladores pueden ahorrar tiempo planificando su código antes de sumergirse en los detalles o la sintaxis de un lenguaje de programación específico. Esto puede ayudar a los programadores a evitar errores y reducir la necesidad de depuración.
+La curva de aprendizaje del pseudocódigo es baja por lo que facilitan enormemente el aprendizaje de la programación y la iniciación a lenguajes de programación más avanzados y complejos.
 
 El pseudocódigo, al ser independiente del lenguaje de programación, permite que su uso se pueda aplicar utilizando diferentes lenguajes y permitiendo que el programador no tenga que ser la misma persona que escribió el pseudocódigo.
 
-Al no ser ejecutable, tu pseudocódigo no necesitará alojarse online ni conectarse a ningún script externo como haría una aplicación completa. Puede crearse y guardarse en un archivo en tu máquina local, en un archivo en la Nube, o incluso copiarse en un correo electrónico.
+Al no ser ejecutable, tu pseudocódigo no necesitará alojarse online ni conectarse a ningún *script* externo como haría una aplicación completa. Puede crearse y guardarse en un archivo en tu máquina local, en un archivo en la Nube, o incluso copiarse en un correo electrónico.
 
-Una de las desventajas del uso de pseudocódigo es la falta de normas, que puede hacer que la lógica de un programa, resulte complicada de ver por el programador que va a implementar este pseudocódigo. Además, en el caso de problemas muy extensos, puede llegar a ser difícil de entender.
+Una de las desventajas del uso de pseudocódigo es el caso de problemas muy extensos, puede llegar a ser difícil de entender.
 
 **Componentes y sintaxis del pseudocódigo**
 
 Para escribir programas utilizando pseudocódigo es necesario seguir unas pautas o normas de sintaxis para que puedan ser leídos y comprendidos por los programadores a la hora de pasarlos a un lenguaje de programación.
-
-Un programa escrito en pseudocódigo debe permitir instrucciones primitivas, de proceso, de control, de descripción y compuestas.
 
 **Pasos para escribir pseudocódigo**
 
@@ -150,7 +128,7 @@ Aquí hay algunos pasos generales que puedes seguir para escribir un buen pseudo
 
 1. **Abre tu editor de texto**: La mayoría de las veces, el pseudocódigo se escribe en un editor de texto o HTML. Puedes elegir tu favorito y abrir un nuevo archivo.
 
-2. **Define tu objetivo**: Determina la finalidad de tu programa o función. ¿Qué quieres que haga?
+2. **Define tu objetivo**: Determina la finalidad de tu programa o función. *¿Qué quieres que haga?*
 
 3. **Sepáralo en partes**: Divide el problema en trozos más pequeños y manejables. Esto puede ayudarte a pensar en el problema con más claridad y facilitar la organización de las piezas para que funcionen donde y cuando deban.
 
@@ -160,7 +138,7 @@ Aquí hay algunos pasos generales que puedes seguir para escribir un buen pseudo
 
 6. **Pruébalo**: Prueba tu pseudocódigo para asegurarte de que es claro y lógico. Puedes hacerlo recorriéndolo verbalmente o pidiendo a otra persona que lo lea y te informe de lo que cree que debe hacer el pseudocódigo.
 
-Una vez escrito el pseudocódigo, tendrás que convertirlo en un script ejecutable. Puedes practicar esto fuera de tus proyectos contribuyendo a repositorios Git de código abierto, aceptando retos de código y haciendo/respondiendo preguntas en StackOverflow o dentro de tu comunidad de desarrollo.
+Una vez escrito el pseudocódigo, tendrás que convertirlo en un *script ejecutable*. Puedes practicar esto fuera de tus proyectos contribuyendo a repositorios Git de código abierto, aceptando retos de código y haciendo/respondiendo preguntas en StackOverflow o dentro de tu comunidad de desarrollo.
 
 **Construcciones de pseudocódigo**
 
@@ -170,24 +148,22 @@ A pesar de que el pseudocódigo carece de una sintaxis definida, hay varias cons
 
 Una secuencia es un grupo de sentencias que se ejecutan en un orden concreto. Se utilizan para realizar o repetir una serie de acciones sencillas. Algunos comandos de secuencia conocidos y utilizados habitualmente en pseudocódigo son:
 
-* INPUT
-* SET
-* PRINT
-* READ
-* DISPLAY
-* SHOW
-* CALCULATE
+* INPUT (Entrada)
+* SET (Colocar)
+* PRINT (Imprimir)
+* READ (Leer)
+* DISPLAY (Mostrar)
+* SHOW (Mostrar)
+* CALCULATE (Calcular)
 
 *Condicionales*
 
 Las sentencias condicionales permiten que un programa tome decisiones basándose en determinadas condiciones, y luego dirigen el programa para que ejecute determinadas sentencias si se cumple (o no) una condición. 
 
-* IF-ELSE
-* IF-IF
-* ELSE-ELSE
-* CASE 
-
-se utilizan con frecuencia en el pseudocódigo.
+* IF-ELSE (si-entonces)
+* IF-IF ()
+* ELSE-ELSE ()
+* CASE ()
 
 *Iteraciones*
 
@@ -195,39 +171,22 @@ Las sentencias de iteración repiten un conjunto de pasos dentro de una función
 
 Las iteraciones son útiles para repetir un conjunto de pasos varias veces y pueden implementarse utilizando varios tipos de bucles, incluidos los bucles:
 
-* FOR
-* WHILE
-* DO-WHILE
+* FOR (Para)
+* WHILE (Mientras)
+* DO-WHILE (Hacer mientras)
 
 **Buenas Prácticas de Pseudocódigo**
 
-Como hemos dicho antes, no hay una sintaxis estricta para escribir pseudocódigo, ya que no es un lenguaje de programación propiamente dicho.
+Aquí tienes unas cuantas pautas generales que pueden ayudarte a escribir pseudocódigo claro y eficaz en cada ocasión:
 
-Dicho esto, aquí tienes unas cuantas pautas generales que pueden ayudarte a escribir pseudocódigo claro y eficaz en cada ocasión:
+1. **Utiliza un lenguaje natural**: El pseudocódigo debe escribirse de forma que sea fácil de entender para cualquiera, utilizando lenguaje natural en lugar de jerga técnica.
+2. **Hazlo sencillo**: Evita utilizar lenguaje o sintaxis complejos, y céntrate en expresar los pasos del algoritmo o proceso de forma clara y concisa.
+3. **Sé específico**: Sé lo más específico posible al escribir el pseudocódigo, incluyendo información como nombres de variables y valores concretos.
+4. **Omite los detalles innecesarios**: Si te preocupas por la convención de mayúsculas y minúsculas que debes adoptar o por si debes usar punto y coma, estás dándole demasiadas vueltas. Haz que tu texto en pseudocódigo sea lo más sencillo y directo posible.
+5. **Utiliza elementos similares a los de programación**: Aunque el pseudocódigo no debe escribirse en un lenguaje de programación específico, puede ser útil utilizar elementos como bucles, sentencias condicionales y llamadas a funciones para facilitar a los lectores la comprensión de los pasos de tu programa.
+6. **Utiliza la sangría para mostrar la jerarquía**: La sangría puede utilizarse para mostrar la jerarquía de los pasos de tu programa, facilitando la comprensión de la lógica y la estructura.
 
-1. Utiliza un lenguaje natural: El pseudocódigo debe escribirse de forma que sea fácil de entender para cualquiera, utilizando lenguaje natural en lugar de jerga técnica.
-
-2. Hazlo sencillo: Evita utilizar lenguaje o sintaxis complejos, y céntrate en expresar los pasos del algoritmo o proceso de forma clara y concisa.
-
-3. Sé específico: Sé lo más específico posible al escribir el pseudocódigo, incluyendo información como nombres de variables y valores concretos.
-
-4. Omite los detalles innecesarios: Si te preocupas por la convención de mayúsculas y minúsculas que debes adoptar o por si debes usar punto y coma, estás dándole demasiadas vueltas. Haz que tu texto en pseudocódigo sea lo más sencillo y directo posible.
-
-5. Utiliza elementos similares a los de programación: Aunque el pseudocódigo no debe escribirse en un lenguaje de programación específico, puede ser útil utilizar elementos como bucles, sentencias condicionales y llamadas a funciones para facilitar a los lectores la comprensión de los pasos de tu programa.
-
-6. Utiliza la sangría para mostrar la jerarquía: La sangría puede utilizarse para mostrar la jerarquía de los pasos de tu programa, facilitando la comprensión de la lógica y la estructura.
-
-Siguiendo estas pautas, puedes escribir un pseudocódigo claro y eficaz que tú y otros podáis utilizar como guía para implementar tu función o algoritmo en un lenguaje de scripting o programación específico.
-
-**Opciones del lenguaje (perfiles)**
-
-El lenguaje que utilizamos para construir el pseudocódigo no es estándar. Podemos añadir o eliminar algunas reglas de sintaxis sin ningún problema. En la opción Configurar-Opciones del Lenguaje (perfiles), podemos escoger las características del pseudocódigo que vamos a utilizar. Tenemos tres alternativas:
-
-* Escoger un perfil que define un pseudocódigo utilizado en distintos centros educativos y universidades.
-
-* Perfil flexible: Está escogido por defecto, y no es muy exigente con las reglas que hay que utilizar para escribir el pseudocódigo.
-
-* Perfil estricto: Establece una reglas que hacen que el pseudocódigo se parezca más a un lenguaje de programación: se debe definir las variables y sus tipos, las instrucciones deben terminar en punto y coma,…
+Siguiendo estas pautas, puedes escribir un pseudocódigo claro y eficaz que tú y otros puedan utilizar como guía para implementar una función o algoritmo en un lenguaje de *scripting* o programación específico.
 
 **Estructura de un programa escrito con pseudocódigo**
 
@@ -247,9 +206,9 @@ Cuerpo:
 * Instrucciones
 * Fin
 
-Si queremos hacer un comentario dentro del pseudocódigo, iniciamos la línea del comentario con dos asteriscos (**).
+**Nota**: Si queremos hacer un comentario dentro del pseudocódigo, iniciamos la línea del comentario con dos asteriscos (**).
 
-Un desarrollo de software escrito en pseudocódigo debe permitir la ejecución de instrucciones primitivas, de proceso, de control, de descripción y compuestas.
+Un desarrollo de software escrito en pseudocódigo debe permitir la ejecución de instrucciones *primitivas*, *de proceso*, *de control*, *de descripción* y *compuestas*.
 
 Para ello, en la redacción de pseudocódigo, los usuarios tienen disponibles tres tipos de estructuras básicas de control:
 
@@ -257,7 +216,7 @@ Para ello, en la redacción de pseudocódigo, los usuarios tienen disponibles tr
 * Las selectivas
 * Las iterativas
 
-A continuación se describe cada una de ellas de forma más detallada:
+A continuación, se describe cada una de ellas de forma más detallada:
 
 * **Estructuras secuenciales**. Las instrucciones se siguen en una secuencia fija que normalmente se encuentra definida por el número de renglón. Esto significa que las instrucciones se ejecutan de arriba hacia abajo.
 
@@ -265,9 +224,9 @@ A continuación se describe cada una de ellas de forma más detallada:
 
 * **Selectiva doble (alternativa)**. La instrucción alternativa realiza una instrucción de dos posibles, de acuerdo al cumplimiento de una condición.
 
-* **Selectiva múltiple**. Otro uso común es también la utilización de una selección múltiple, lo que equivaldría a anidar varias funciones de selección. En este tipo de situaciones, existen una serie de condiciones que tienen que ser mutuamente excluyentes, si una de ellas se cumple las demás tienen que ser necesariamente falsas, hay un caso “Si no” que será verdadero cuando las demás condiciones sean falsas.
+* **Selectiva múltiple**. Otro uso común es también la utilización de una selección múltiple, lo que equivaldría a anidar varias funciones de selección. En este tipo de situaciones, existen una serie de condiciones que tienen que ser mutuamente excluyentes, si una de ellas se cumple las demás tienen que ser necesariamente falsas, hay un caso *“Si no”* que será verdadero cuando las demás condiciones sean falsas.
 
-* **Selectiva múltiple-Casos**.	Este caso es similar al anterior. Aquí nos encontramos con un “Indicador” que es una variable o una función cuyo valor es comparado en cada caso con los valores “Valor¡”. En el caso que coincidan ambos valores, entonces se ejecutarán las “Instrucciones¡” correspondientes.
+* **Selectiva múltiple-Casos**.	Este caso es similar al anterior. Aquí nos encontramos con un *“Indicador”* que es una variable o una función cuyo valor es comparado en cada caso con los valores *(Valor)*. En el caso que coincidan ambos valores, entonces se ejecutarán las *(Instrucciones)* correspondientes.
 
 * **Estructuras iterativas**.	La estructura iterativa o de repetición permite ejecutar una o varias instrucciones un número determinado de veces o de forma indefinida mientras se cumpla una determinada condición.
 
@@ -311,76 +270,79 @@ Es importante destacar la presencia de sangrías (sangrado) en el ejemplo anteri
 
 Si bien las variaciones y versiones de los diagramas de flujo son infinitas. Hay 4 tipos de diagramas de flujo que son particularmente versátiles. Estos cuatro diagramas comunes son excelentes para describir procesos comerciales, de fabricación o administrativos, ver cómo funciona una organización o cómo trabajan juntos los diferentes departamentos.
 
-1. **El diagrama de flujo del proceso**. Un diagrama de flujo de proceso es probablemente el más versátil de los cuatro tipos de diagramas de flujo de uso común porque se puede aplicar a prácticamente cualquier cosa. Utilice un diagrama de flujo de proceso para:
+1. **El diagrama de flujo del proceso**. 
+
+![](/assets/images/20230719/flujo.jpg)
+
+Un diagrama de flujo de proceso es probablemente el más versátil de los cuatro tipos de diagramas de flujo de uso común porque se puede aplicar a prácticamente cualquier cosa. Utilice un diagrama de flujo de proceso para:
 
   * Trazar los roles y responsabilidades dentro de una organización para obtener claridad.
   * Elaborar una propuesta para un nuevo proceso o proyecto para comprender su alcance y pasos.
 
-2. **El diagrama de flujo de trabajo**. Ayuda a comprender cómo fluyen los datos y los documentos dentro de su organización. Un diagrama de flujo de trabajo muestra la forma en que funciona una empresa o un proceso. Este tipo de diagrama de flujo de trabajo se puede utilizar para:
+2. **El diagrama de flujo de trabajo**. 
+
+![](/assets/images/20230719/trabajo.jpg)
+
+Ayuda a comprender cómo fluyen los datos y los documentos dentro de su organización. Un diagrama de flujo de trabajo muestra la forma en que funciona una empresa o un proceso. Este tipo de diagrama de flujo de trabajo se puede utilizar para:
 
   * Capacitar a nuevos empleados
-  * Descubrir posibles áreas problemáticas
-  * Aclarar las operaciones comerciales mostrando una descripción general de alto nivel
+  * Descubrir posibles áreas problemáticas.
+  * Aclarar las operaciones comerciales mostrando una descripción general de alto nivel.
 
-3. **El diagrama de flujo de carriles**. Describe cómo interactúan departamentos, procesos o empleados separados. El diagrama de flujo de carriles resulta útil cuando necesita mostrar varios flujos de información uno al lado del otro. Los diagramas de carriles pueden sonar muy similares a un diagrama de flujo de trabajo, pero la clave aquí es que le permite crear diferentes categorías donde tiene lugar la actividad.
+3. **El diagrama de flujo de carriles**. 
+
+![](/assets/images/20230719/carril.jpg)
+
+Describe cómo interactúan departamentos, procesos o empleados separados. El diagrama de flujo de carriles resulta útil cuando necesita mostrar varios flujos de información uno al lado del otro. Los diagramas de carriles pueden sonar muy similares a un diagrama de flujo de trabajo, pero la clave aquí es que le permite crear diferentes categorías donde tiene lugar la actividad.
 
 Un diagrama de flujo o diagrama de carriles es excelente para documentar un proceso completo que interactúa con diferentes segmentos de una organización o requiere la colaboración entre diferentes equipos.
 
-4. **El diagrama de flujo de datos**. Se pueden ver dónde entran y salen los datos de un sistema de información. Un diagrama de flujo de datos muestra la forma en que se procesan los datos. Resulta útil cuando desea diseñar o analizar un sistema. Aunque se utiliza con mayor frecuencia para el desarrollo y diseño de software, se puede utilizar para analizar cualquier tipo de flujo de información, como cómo se mueve la información a través de una empresa.
+4. **El diagrama de flujo de datos**. 
+
+![](/assets/images/20230719/datos.jpg)
+
+Se pueden ver dónde entran y salen los datos de un sistema de información. Un diagrama de flujo de datos muestra la forma en que se procesan los datos. Resulta útil cuando desea diseñar o analizar un sistema. Aunque se utiliza con mayor frecuencia para el desarrollo y diseño de software, se puede utilizar para analizar cualquier tipo de flujo de información, como cómo se mueve la información a través de una empresa.
+
+![](/assets/images/20230719/simbolos.jpg)
 
 **Beneficios**
 
 * Con un diagrama de flujo, los análisis del proceso o de un nuevo proyecto, se pueden entender mejor y con más efectividad.
-
 * No se pierde tiempo y reduce los costos.
-
 * Se tiene una mejor comunicación en cuanto a la lógica de un sistema entre todos los trabajadores.
-
 * Para los programadores, el diagrama de flujo ayuda a facilitar el mantenimiento del programa operativo. El proceso se hace más eficiente.
-
 * El proceso de depuración es mucho más fácil con el diagrama de flujo.
-
 * Hace que la codificación sea eficiente al desarrollar un programa o al analizar un sistema.
-
 * Hace que todo sea más eficiente, pues es una buena documentación.
 
 **Desventajas**
 
 * Lógica compleja: a veces, la lógica del programa es bastante complicada. En ese caso, el diagrama de flujo se vuelve complejo y torpe. Esto se convertirá en una molestia para el usuario, lo que resultará en una pérdida de tiempo y dinero al intentar corregir el problema.
-
 * Alteraciones y modificaciones: si se requieren alteraciones, el diagrama de flujo puede requerir que se vuelva a dibujar por completo. Esto normalmente hará perder un tiempo valioso.
-
 * Reproducción: Como los símbolos del diagrama de flujo no se pueden escribir, la reproducción del diagrama de flujo se convierte en un problema.
-
-![](/assets/images/20230719/simbolos.jpg)
 
 **¿Cuál es el procedimiento del diagrama de flujo?**
 
 El diagrama de flujo puede hacerse de manera manual en una pizarra o mediante el ordenador. El procedimiento básico es el siguiente:
 
 1. Primero que nada, define el proceso a diagramar. Escribe en la parte superior del diagrama el título de lo que se va a analizar.
-
-2. Analiza, discute y decide los límites que tendrá el proceso. Cuándo, cómo o dónde se va a llevar a cabo. Principio y fin.
-
+2. Analiza, discute y decide los límites que tendrá el proceso. Cuando, cómo o dónde se va a llevar a cabo. Principio y fin.
 3. Anota las actividades y tareas que se llevarán a cabo.
-
 4. Organiza en secuencia todas las actividades anteriormente anotadas.
-
 5. Entre todos los trabajadores, se deberá estar de acuerdo con la secuencia de todas las actividades, de que están correctas. Luego empieza a dibujar las flechas para organizar el orden.
-
 6. Finalmente, puedes analizar y discutir el diagrama de flujo con otros trabajadores involucrados en el proceso, pueden ser clientes, supervisores, etc. Esto es para tener en mente de que si están de acuerdo a que todo está hecho con precisión.
 
 ## Codificación
 
 ![](/assets/images/20230719/Codificacion.jpg)
 
-Si bien hay distintos lenguajes de programación, una computadora en definitiva es un aparato que sólo sabe hablar en *binario*, es decir, sólo interpreta señales eléctricas con dos estados posibles, los cuales son representados por los *dígitos binarios* (0, 1). Este sistema de código con ceros y unos que la computadora interpreta como instrucciones o conjuntos de datos se llama lenguaje de máquina (código de máquina).
+Si bien hay distintos lenguajes de programación, una computadora en definitiva es un aparato que sólo sabe hablar en *binario*, es decir, sólo interpreta señales eléctricas con dos estados posibles, los cuales son representados por los *dígitos binarios* (0, 1). Este sistema de código con ceros y unos que la computadora interpreta como instrucciones o conjuntos de datos se llama lenguaje de máquina *(código de máquina)*.
 
 A principios de la década de 1950 se inventaron los *lenguajes ensambladores*, que usan palabras para representar simbólicamente las operaciones que debe realizar la computadora. Cada una de estas palabras reemplaza un código de máquina binario, siendo un poco más fácil de programar.
 
 En programación, la idea de simplificar un proceso complejo ignorando algunas de sus partes para comprender mejor lo que hay que realizar y así resolver un problema se conoce como *abstracción*. Los lenguajes de programación pueden tener distintos niveles de abstracción:
 
-* **Lenguajes de bajo nivel**: permiten controlar directamente el hardware de la computadora, son específicos para cada tipo de máquina, y son más rígidos y complicados de entender para nosotros. El lenguaje ensamblador entra en esta categoría.
+* **Lenguajes de bajo nivel**: permiten controlar directamente el hardware de la computadora, son específicos para cada tipo de máquina, y son más rígidos y complicados de entender para nosotros. El *lenguaje ensamblador* entra en esta categoría.
 
 * **Lenguajes de alto nivel**: diseñados para que sea fácil para los humanos expresar los algoritmos sin necesidad de entender en detalle cómo hace exactamente el hardware para ejecutarlos.
 
@@ -388,7 +350,7 @@ En programación, la idea de simplificar un proceso complejo ignorando algunas d
 
 Si bien podemos programar usando un lenguaje de alto nivel para que nos resulte más sencillo, alguien o algo debe traducirlo a lenguaje de máquina para que la computadora, que sólo entiende de ceros y unos, pueda realizar las tareas. Para estos procesos de traducción se crearon los *compiladores* e *intérpretes*.
 
-Un **compilador** es un programa que toma el código escrito en un lenguaje de alto nivel y lo traduce a código de máquina, guardándolo en un archivo que la computadora ejecutará posteriormente (archivo ejecutable). 
+Un **compilador** es un programa que toma el código escrito en un lenguaje de alto nivel y lo traduce a código de máquina, guardándolo en un archivo que la computadora ejecutará posteriormente (archivo ejecutable ".exe").
 
 Para ilustrar el rol del compilador, imaginemos que alguien que sólo habla español le quiere mandar una carta escrita en español a alguien que vive en Alemania y sólo habla alemán. Cuando esta persona la reciba, no la va a entender. Se necesita de un intermediario que tome la carta en español, la traduzca y la escriba en alemán y luego se la mande al destinatario, quien ahora sí la podrá entender. Ese es el rol de un compilador en la computadora. 
 
@@ -398,7 +360,7 @@ Un **intérprete** es un programa que traduce el código escrito en lenguaje de 
 
 Siguiendo con el ejemplo anterior, es similar a viajar a Alemania con un intérprete que nos vaya traduciendo en vivo y en directo cada vez que le queramos decir algo a alguien de ese país.
 
-Concluyendo, gracias al concepto de la abstracción podemos escribir programas en un lenguaje que nos resulte fácil entender, y gracias al trabajo de los compiladores e intérpretes la computadora podrá llevar adelante las tareas necesarias.
+Concluyendo, gracias al concepto de la abstracción podemos escribir programas en un lenguaje que nos resulte fácil entender, y gracias al trabajo de los compiladores e intérpretes la computadora podrá llevar a cabo las tareas necesarias.
 
 Cada una de las acciones que componen al algoritmo son codificadas con una o varias instrucciones, expresadas en el lenguaje de programación elegido, y el conjunto de todas ellas constituye un programa. 
 
