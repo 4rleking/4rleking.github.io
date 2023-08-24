@@ -416,11 +416,9 @@ Por eso organizar la información de forma clara y en el orden adecuado es primo
 
 Seguramente ya has escuchado hablar sobre variables y constantes cuando se trata de programación, ¿no es verdad? Son valores que componen cálculos o condiciones y están presentes en todas las partes del programa.
 
-Una variable es un espacio para almacenar un tipo de dato que puede ser modificado cuando sea necesario.
+Una *variable* es un espacio para almacenar un tipo de dato que puede ser modificado cuando sea necesario.
 
-En cambio la constante posee un dato definido al inicio del programa y no podrá ser alterado.
-
-Utilizando el ejemplo de la papa frita, podemos decir que el aceite es una variable, ya que puede estar caliente o frío. Y el tiempo que demoran las papas fritas en estar listas es una constante; pues siempre serán 10 minutos, por ejemplo. 
+En cambio la *constante* posee un dato definido al inicio del programa y no podrá ser alterado.
 
 ## Programa
 
