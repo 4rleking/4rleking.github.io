@@ -571,6 +571,8 @@ Si quiere consultar la lista de los diferentes lenguajes de programación que se
     <img src='./../assets/images/20230719/HTML.jpg'>
 </center>
 
+![HTML](/assets/images/20230719/HTML.jpg)
+
 ## [HTML]()
 ## [CSS]()
 ## [PHP]()
