@@ -568,7 +568,7 @@ Si quiere consultar la lista de los diferentes lenguajes de programación que se
 # Repositorio de Lenguajes de Programación
 
 <center>
-    <img src='./../assets/images/20230719/HTML.jpg'>
+    <a href=><img src='./../assets/images/20230719/HTML.jpg'></a>
 </center>
 
 ## [HTML]()
