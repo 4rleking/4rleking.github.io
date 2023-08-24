@@ -402,7 +402,25 @@ Los errores en la programación son tan comunes, que un científico de la comput
     <img src='./../assets/images/20230719/logica.png'>
 </center>
 
+Es importante tener en cuenta que practicar y aprender de los errores son aspectos esenciales para aprender sobre lógica de programación, y una cierta afinidad con las **matemáticas** y el **inglés** ayudarán bastente en la lógica y comprensión de los lenguajes de programación.
+
+El estudio de la programación está conectado directamente al área de las *ciencias exactas*; y las matemáticas, con sus reglas, estarán presente en diversos momentos. Por otro lado el inglés, es fundamental en cualquier profesión, también será importante, ya que al programar encontrarás una mayor variedad de cursos y materiales en este idioma. Y además, la mayoría de los lenguajes de programación utilizan el inglés como base.
+
+La lógica es la base de todo el conocimiento en programación, ya que es posible aprender a escribir un código para que la computadora interprete correctamente. Es decir que aprendes a comunicarte con la máquina a partir de un lenguaje.
+
+El gran desafío del programador es entonces montar la estructura del programa para que este sea ejecutado por la computadora. Y es necesario partir del principio de que la computadora no piensa de la misma forma que el ser humano, y no es inteligente para saber qué es lo que tiene que hacer, ni comprender mensajes subjetivos.
+
+Por eso organizar la información de forma clara y en el orden adecuado es primordial para que la acción sea ejecutada correctamente.
+
 ## Variables y Constantes
+
+Seguramente ya has escuchado hablar sobre variables y constantes cuando se trata de programación, ¿no es verdad? Son valores que componen cálculos o condiciones y están presentes en todas las partes del programa.
+
+Una variable es un espacio para almacenar un tipo de dato que puede ser modificado cuando sea necesario.
+
+En cambio la constante posee un dato definido al inicio del programa y no podrá ser alterado.
+
+Utilizando el ejemplo de la papa frita, podemos decir que el aceite es una variable, ya que puede estar caliente o frío. Y el tiempo que demoran las papas fritas en estar listas es una constante; pues siempre serán 10 minutos, por ejemplo. 
 
 ## Programa
 
