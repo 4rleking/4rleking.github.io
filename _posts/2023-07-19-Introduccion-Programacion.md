@@ -567,8 +567,4 @@ Si quiere consultar la lista de los diferentes lenguajes de programación que se
 
 # Repositorio de Lenguajes de Programación
 
-### [HTML](https://4rleking.github.io/HTML.github.io/)
-### [CSS]()
-### [PHP]()
-### [JavaScript]()
-### [Python]()
+* [HTML](https://4rleking.github.io/HTML.github.io/)
