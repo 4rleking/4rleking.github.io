@@ -31,7 +31,9 @@ Desafortunadamente, las computadoras solo entienden ciertos lenguajes artificial
 
 ## Algoritmo
 
-![](/assets/images/20230719/algoritmo.png)
+<center>
+    <img src='./../assets/images/Porgramacion/algoritmo.png'>
+</center>
 
 La programación consiste en escribir las indicaciones que debe de seguir un computador para completar una tarea, problema o necesidad, pero para poder escribir este tipo de indicaciones, el primer paso es pensar detalladamente cuál puede ser la forma de resolverlo, es decir, crear un *algoritmo*.
 
@@ -58,6 +60,7 @@ Un algoritmo es eficiente cuando logra llegar a sus objetivos planteados utiliza
 Un algoritmo es eficaz cuando alcanza el objetivo primordial, el análisis de resolución del problema lo realiza prioritariamente.
 
 ### Diferencia entre eficiencia y eficacia
+
 La eficacia difiere de la eficiencia en el sentido que la eficiencia hace referencia a la mejor utilización de los recursos, en tanto, la eficacia hace referencia en la capacidad para alcanzar un objetivo sin importar si se le ha dado el mejor uso posible a los recursos.
 
 Para poder resolver un problema computacional debemos de realizar cuatro actividades hasta el momento:
@@ -88,7 +91,9 @@ Por eso, el primer paso es idear un algoritmo para su solución y expresarlo por
 
 En programación, el lenguaje artificial e informal que usan los desarrolladores en la confección de algoritmos recibe el nombre de pseudocódigo.
 
-![](/assets/images/20230719/Pseudocodigo.jpg)
+<center>
+    <img src='./../assets/images/Porgramacion/Pseudocodigo.jpg'>
+</center>
 
 El **pseudocódigo** es una forma de expresar los distintos pasos que va a realizar un programa, de la forma más parecida a un lenguaje de programación. 
 
@@ -106,7 +111,7 @@ Es más, el pseudocódigo puede adaptarse fácilmente a distintos lenguajes de p
 
 **Ventajas y desventajas del pseudocódigo**
 
-Las tareas más complejas o repetitivas pueden representarse de forma más sencilla ya que está escrito en un lenguaje sencillo y no estructurado que permite una transición sencilla al lenguaje de programación, más complejo y estructurado. 
+Las tareas más complejas o repetitivas pueden representarse de forma más sencilla ya que está escrito en un lenguaje sencillo y no estructurado que permite una transición sencilla al lenguaje de programación, más complejo y estructurado.
 
 Tener un programa escrito en pseudocódigo facilita la tarea de programar en un lenguaje formal y mejora la calidad en la resolución de problemas, además de reducir el espacio necesario a la hora de desarrollar un problema.
 
@@ -252,7 +257,7 @@ El pseudocódigo, como cualquier otro lenguaje, está compuesto por:
 
 El pseudocódigo sigue una *estructura secuencial* (define una acción o instrucción que sigue a otra en secuencia). Esta estructura puede representarse de la siguiente forma:
 
-```
+```text
 ALGORITMO: "Ejemplo"
 COMENZAR
     Acción 1
@@ -269,7 +274,7 @@ Es importante destacar la presencia de sangrías (sangrado) en el ejemplo anteri
 ## Diagrama de flujo
 
 <center>
-    <img src='./../assets/images/20230719/Diagrama.jpg' width="40%" height="30%">
+    <img src='./../assets/images/Porgramacion/Diagrama.jpg' width="40%" height="30%">
 </center>
 
 Si bien las variaciones y versiones de los diagramas de flujo son infinitas. Hay 4 tipos de diagramas de flujo que son particularmente versátiles. Estos cuatro diagramas comunes son excelentes para describir procesos comerciales, de fabricación o administrativos, ver cómo funciona una organización o cómo trabajan juntos los diferentes departamentos.
@@ -277,7 +282,7 @@ Si bien las variaciones y versiones de los diagramas de flujo son infinitas. Hay
 **El diagrama de flujo del proceso**. 
 
 <center>
-    <img src='./../assets/images/20230719/flujo.jpg' width="50%" height="50%">
+    <img src='./../assets/images/Porgramacion/flujo.jpg' width="50%" height="50%">
 </center>
 
 Un diagrama de flujo de proceso es probablemente el más versátil de los cuatro tipos de diagramas de flujo de uso común porque se puede aplicar a prácticamente cualquier cosa. Utilice un diagrama de flujo de proceso para:
@@ -288,7 +293,7 @@ Un diagrama de flujo de proceso es probablemente el más versátil de los cuatro
 **El diagrama de flujo de trabajo**. 
 
 <center>
-    <img src='./../assets/images/20230719/trabajo.jpg' width="60%" height="60%">
+    <img src='./../assets/images/Porgramacion/trabajo.jpg' width="60%" height="60%">
 </center>
 
 Ayuda a comprender cómo fluyen los datos y los documentos dentro de su organización. Un diagrama de flujo de trabajo muestra la forma en que funciona una empresa o un proceso. Este tipo de diagrama de flujo de trabajo se puede utilizar para:
@@ -300,7 +305,7 @@ Ayuda a comprender cómo fluyen los datos y los documentos dentro de su organiza
 **El diagrama de flujo de carriles**. 
 
 <center>
-    <img src='./../assets/images/20230719/carril.jpg' width="50%" height="50%">
+    <img src='./../assets/images/Porgramacion/carril.jpg' width="50%" height="50%">
 </center>
 
 Describe cómo interactúan departamentos, procesos o empleados separados. El diagrama de flujo de carriles resulta útil cuando necesita mostrar varios flujos de información uno al lado del otro. Los diagramas de carriles pueden sonar muy similares a un diagrama de flujo de trabajo, pero la clave aquí es que le permite crear diferentes categorías donde tiene lugar la actividad.
@@ -310,13 +315,13 @@ Un diagrama de flujo o diagrama de carriles es excelente para documentar un proc
 **El diagrama de flujo de datos**.
 
 <center>
-    <img src='./../assets/images/20230719/datos.jpg'>
+    <img src='./../assets/images/Porgramacion/datos.jpg'>
 </center>
 
 Se pueden ver dónde entran y salen los datos de un sistema de información. Un diagrama de flujo de datos muestra la forma en que se procesan los datos. Resulta útil cuando desea diseñar o analizar un sistema. Aunque se utiliza con mayor frecuencia para el desarrollo y diseño de software, se puede utilizar para analizar cualquier tipo de flujo de información, como cómo se mueve la información a través de una empresa.
 
 <center>
-    <img src='./../assets/images/20230719/simbolos.jpg'>
+    <img src='./../assets/images/Porgramacion/simbolos.jpg'>
 </center>
 
 **Beneficios**
@@ -349,7 +354,7 @@ El diagrama de flujo puede hacerse de manera manual en una pizarra o mediante el
 ## Codificación
 
 <center>
-    <img src='./../assets/images/20230719/Codificacion.jpg'>
+    <img src='./../assets/images/Porgramacion/Codificacion.jpg'>
 </center>
 
 Si bien hay distintos lenguajes de programación, una computadora en definitiva es un aparato que sólo sabe hablar en *binario*, es decir, sólo interpreta señales eléctricas con dos estados posibles, los cuales son representados por los *dígitos binarios* (0, 1). Este sistema de código con ceros y unos que la computadora interpreta como instrucciones o conjuntos de datos se llama lenguaje de máquina *(código de máquina)*.
@@ -401,7 +406,7 @@ Los errores en la programación son tan comunes, que un científico de la comput
 ## Lógica de programación
 
 <center>
-    <img src='./../assets/images/20230719/logica.png'>
+    <img src='./../assets/images/Porgramacion/logica.png'>
 </center>
 
 Es importante tener en cuenta que practicar y aprender de los errores son aspectos esenciales para aprender sobre lógica de programación, y una cierta afinidad con las **matemáticas** y el **inglés** ayudarán bastente en la lógica y comprensión de los lenguajes de programación.
@@ -509,7 +514,6 @@ A continuación, se indican algunos exploradores y herramientas de desarrollo po
 ## Herramientas de la línea de comandos
 
 Como desarrollador, es probable que use herramientas de línea de comandos para realizar algunas o todas las tareas de programación. Dado que los entornos de desarrollo son únicos para cada desarrollador, algunos evitan usar la línea de comandos, otros se basan exclusivamente en ella y otros prefieren combinar ambas opciones.
-
 
 **¿Por qué son útiles las herramientas de línea de comandos?**
 
