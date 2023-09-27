@@ -63,13 +63,13 @@ Un algoritmo es eficaz cuando alcanza el objetivo primordial, el análisis de re
 
 #### Diferencia entre eficiencia y eficacia
 
-La eficacia difiere de la eficiencia en el sentido que la eficiencia hace referencia a la mejor utilización de los recursos, en tanto, la eficacia hace referencia en la capacidad para alcanzar un objetivo sin importar si se le ha dado el mejor uso posible a los recursos.
+La eficacia difiere de la eficiencia en el sentido que la `eficiencia` hace referencia a la mejor utilización de los recursos, en tanto, la `eficacia` hace referencia en la capacidad para alcanzar un objetivo sin importar si se le ha dado el mejor uso posible a los recursos.
 
 Para poder resolver un problema computacional debemos de realizar cuatro actividades hasta el momento:
 
-* **Comprender el problema**: Este paso puede ser muy difícil, pero es definitivamente el más crucial. En este caso se plantea el problema de forma general, además se identifica los datos resultantes, es decir a lo que se quiere llegar; así como, los datos con los que se cuenta (datos de entrada). También es necesario verificar que la información dada sea suficiente para resolver el problema; y en caso de no tener la información necesaria (empezar a recolectarla).
+* `Comprender el problema`: Este paso puede ser muy difícil, pero es definitivamente el más crucial. En este caso se plantea el problema de forma general, además se identifica los datos resultantes, es decir a lo que se quiere llegar; así como, los datos con los que se cuenta (datos de entrada). También es necesario verificar que la información dada sea suficiente para resolver el problema; y en caso de no tener la información necesaria (empezar a recolectarla).
 
-* **Idear una solución**: Una vez que se ha comprendido el problema, se debe pensar en un plan de acción para resolverlo. Lo ideal sería visualizar o identificar diferentes soluciones que puedan llegar al mismo resultado, esto es para detectar si hubiera algún fallo o vulnerabilidad por algún camino, poderlo resolver con demasiada anticipación. Las técnicas más generales incluyen:
+* `Idear una solución`: Una vez que se ha comprendido el problema, se debe pensar en un plan de acción para resolverlo. Lo ideal sería visualizar o identificar diferentes soluciones que puedan llegar al mismo resultado, esto es para detectar si hubiera algún fallo o vulnerabilidad por algún camino, poderlo resolver con demasiada anticipación. Las técnicas más generales incluyen:
 
   * Buscar si existe problemas similares conocidos.
   * Relacionar el problema original de tal forma que se parezca a uno conocido.
@@ -77,9 +77,9 @@ Para poder resolver un problema computacional debemos de realizar cuatro activid
   * Generalizar un problema restringido.
   * Buscar trabajos existentes que puedan ayudar en la búsqueda de una solución.
 
-* **Diseño del algoritmo**: Diseña o elige un algoritmo que ya exista para resolver el problema deseado (ojo, si vas a seleccionar un algoritmo ya hecho, asegúrate de que no tenga errores o trata de mejorarlo, añade un plus a esa creación).
+* `Diseño del algoritmo`: Diseña o elige un algoritmo que ya exista para resolver el problema deseado (ojo, si vas a seleccionar un algoritmo ya hecho, asegúrate de que no tenga errores o trata de mejorarlo, añade un plus a esa creación).
 
-* **Codificación**: Expresa el algoritmo en un lenguaje de programación para que el ordenador lo pueda interpretar y ejecutar.
+* `Codificación`: Expresa el algoritmo en un lenguaje de programación para que el ordenador lo pueda interpretar y ejecutar.
 
 Al aprender programación estamos destinados a enfrentarnos a problemas con diferentes grados de dificultad, mientras que la codificación se trata de aprender las múltiples reglas de cada uno de los lenguajes de programación.
 
