@@ -17,17 +17,17 @@ tags:
     <img src='./../assets/images/Porgramacion/Introduccion.jpg'>
 </center>
 
-La mayoría de los dispositivos que utilizamos hoy en día, contienen un software o aplicación que le indica que funciones deben de realizar, las acciones que debe de hacer en cada cierto tiempo, o si el usuario presiona o selecciona un botón u opción. 
+La mayoría de los dispositivos que utilizamos hoy en día, contienen un software o aplicación que le indica que funciones deben de realizar, las acciones que debe de hacer en cada cierto tiempo, o si el usuario presiona o selecciona un botón u opción.
 
 Desde el software de una Smart Tv, consola de videojuegos, calculadoras científicas, automóviles autónomos, celulares, computadoras, servidores, hornos microondas, lavadoras, por nombrar algunos.
 
 Es demasiado sencillo para el usuario operar este tipo de aplicaciones o dispositivos, pero que hay por detrás de esto.
 
-La *programación* es la actividad mediante la cual las personas le indican a una computadora el procedimiento o conjunto de instrucciones para que, al ejecutarlas, ésta pueda resolver cierto problema deseado.
+La `programación` es la actividad mediante la cual las personas le indican a una computadora el procedimiento o conjunto de instrucciones para que, al ejecutarlas, ésta pueda resolver cierto problema  o necesidad deseadas.
 
 La programación, aunque no lo parezca es un proceso creativo, es decir, en la mayoría de las ocasiones la tarea puede cumplirse siguiendo distintos caminos y el programador es el que debe imaginar cuáles son y elegir uno (el mejor). Algunos de estos caminos pueden ser mejores que otros, pero en cualquier caso la computadora se limitará a seguir las instrucciones ideadas por el programador (aunque en ocasiones estas instrucciones estén mal planeadas).
 
-Desafortunadamente, las computadoras solo entienden ciertos lenguajes artificiales compuestos por una serie de expresiones; es por ello que a la hora de programar tenemos que ser muy específicos, es necesario respetar las reglas de lenguaje de programación y ser claros en las indicaciones escritas.
+Desafortunadamente, las computadoras solo entienden ciertos lenguajes artificiales compuestos por una serie de expresiones; es por ello que a la hora de programar tenemos que ser `muy específicos`, es necesario `respetar las reglas de lenguaje de programación` y `ser claros en las indicaciones escritas`.
 
 ## Algoritmo
 
@@ -35,31 +35,33 @@ Desafortunadamente, las computadoras solo entienden ciertos lenguajes artificial
     <img src='./../assets/images/Porgramacion/algoritmo.png'>
 </center>
 
-La programación consiste en escribir las indicaciones que debe de seguir un computador para completar una tarea, problema o necesidad, pero para poder escribir este tipo de indicaciones, el primer paso es pensar detalladamente cuál puede ser la forma de resolverlo, es decir, crear un *algoritmo*.
+La programación consiste en escribir las indicaciones que debe de seguir un computador para completar una tarea, problema o necesidad, pero para poder escribir este tipo de indicaciones, el primer paso es pensar detalladamente cuál puede ser la forma de resolverlo, es decir, crear un `algoritmo`.
 
 Un algoritmo es una estrategia consistente de un conjunto de pasos ordenados que nos lleva a la solución de un problema o alcance de un objetivo.
 
-### Robustez de un algoritmo
+Un algoritmo debe de cumplir ciertos requisitos para que pueda ser correcto a prueba de fallas y errores, como se describen a continuación:
 
-Un algoritmo debe contemplar todas las posibles facetas del problema que queremos resolver. Al elaborar un algoritmo no se nos debe escapar ningún detalle que provoque un funcionamiento malo en él. Si logramos construir un algoritmo robusto, cualquier giro inesperado del problema será controlado por el mismo, es decir, debe ser flexible a cambios.
+### Robustez
 
-### Correctitud de un algoritmo
+Un algoritmo debe contemplar todas las posibles facetas del problema que queremos resolver. Al elaborar un algoritmo no se nos debe escapar ningún detalle que provoque un funcionamiento deficiente o malo en él. Si logramos construir un algoritmo robusto, cualquier giro inesperado del problema será controlado por el mismo, es decir, debe ser `flexible a cambios`.
+
+### Correctitud
 
 Un algoritmo es correcto cuando da una solución al problema a tratar y cumple con todos los requerimientos especificos, de tal manera que logremos los objetivos planteados.
 
-### Completitud de un algoritmo
+### Completitud
 
 Cuando un algoritmo cuenta con todos los recursos para poder llegar a una solución satisfactoria.
 
-### Eficiencia de un algoritmo
+### Eficiencia
 
-Un algoritmo es eficiente cuando logra llegar a sus objetivos planteados utilizando la menor cantidad de recursos posibles, es decir, minimizando el uso de memoria, de pasos y de esfuerzo humano.
+Un algoritmo es eficiente cuando logra llegar a sus objetivos planteados utilizando la menor cantidad de recursos posibles, es decir, minimizando el uso de memoria, pasos y esfuerzo humano.
 
-### Eficacia de un algoritmo
+### Eficacia
 
 Un algoritmo es eficaz cuando alcanza el objetivo primordial, el análisis de resolución del problema lo realiza prioritariamente.
 
-### Diferencia entre eficiencia y eficacia
+#### Diferencia entre eficiencia y eficacia
 
 La eficacia difiere de la eficiencia en el sentido que la eficiencia hace referencia a la mejor utilización de los recursos, en tanto, la eficacia hace referencia en la capacidad para alcanzar un objetivo sin importar si se le ha dado el mejor uso posible a los recursos.
 
