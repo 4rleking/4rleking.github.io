@@ -13,7 +13,9 @@ tags:
   - Fundamentos
 ---
 
-![](/assets/images/20230719/Introduccion.jpg)
+<center>
+    <img src='./../assets/images/Porgramacion/Introduccion.jpg'>
+</center>
 
 La mayoría de los dispositivos que utilizamos hoy en día, contienen un software o aplicación que le indica que funciones deben de realizar, las acciones que debe de hacer en cada cierto tiempo, o si el usuario presiona o selecciona un botón u opción. 
 
