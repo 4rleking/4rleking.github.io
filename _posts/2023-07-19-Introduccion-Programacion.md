@@ -87,31 +87,31 @@ Al aprender programación estamos destinados a enfrentarnos a problemas con dife
 
 Cotidianamente, utilizamos los algoritmos para realizar casi todas las actividades diarias: preparar el desayuno, sacar a pasear la mascota, encender la tv y poner una película, etc. Cada una de estas tareas requiere llevar acciones de forma ordenada, aunque no hagamos un listado de las mismas y procedamos casi sin pensar.
 
-Sin embargo, cuando pensamos en la solución de un problema que va a resolver una computadora, debemos ser claros y concretos, para asegurarnos de que los pasos del algoritmo lleguen a la solución y para que quien tenga que codificarlo, nosotros mismos u otras personas, lo pueda entender sin problemas. 
+Sin embargo, cuando pensamos en la solución de un problema que va a resolver una computadora, debemos ser claros y concretos, para asegurarnos de que los pasos del algoritmo lleguen a la solución y para que quien tenga que codificarlo, nosotros mismos u otras personas, lo pueda entender sin problemas.
 
-Por eso, el primer paso es idear un algoritmo para su solución y expresarlo por escrito, por ejemplo, en español, pero adaptando el lenguaje humano a *formas lógicas* que se acerquen a las tareas que puede realizar una computadora. 
+Por eso, el primer paso es idear un algoritmo para su solución y expresarlo por escrito, por ejemplo, en español, pero adaptando el lenguaje humano a `formas lógicas` que se acerquen a las tareas que puede realizar una computadora.
 
-En programación, el lenguaje artificial e informal que usan los desarrolladores en la confección de algoritmos recibe el nombre de pseudocódigo.
+En programación, el lenguaje artificial e informal que usan los desarrolladores en la confección de algoritmos recibe el nombre de `pseudocódigo`.
 
 <center>
     <img src='./../assets/images/Porgramacion/Pseudocodigo.jpg'>
 </center>
 
-El **pseudocódigo** es una forma de expresar los distintos pasos que va a realizar un programa, de la forma más parecida a un lenguaje de programación. 
+El `pseudocódigo` es una forma de expresar los distintos pasos que va a realizar un programa, de la forma más parecida a un lenguaje de programación.
 
 El pseudocódigo no puede ejecutarse en un ordenador ya que entonces dejaría de ser pseudocódigo, como su propio nombre lo indica, se trata de un código falso *(pseudo = falso)*, es un código escrito para que lo entienda el ser humano y no la máquina.
 
 Aprender a escribir pseudocódigo para la resolución de un problema permite hacer mucho más sencilla su programación en un lenguaje convencional, por lo que, si estás interesado en comenzar tu formación como programador y no tienes conocimientos previos, resulta muy recomendable y conveniente formarse en pseudocódigo antes de empezar a estudiar cualquier lenguaje de programación.
 
-Podemos considerar al pseudocódigo como un *lenguaje intermedio*, que se encuentra en medio de nuestro propio lenguaje y el lenguaje de programación que entiende el ordenador.
+Podemos considerar al pseudocódigo como un `lenguaje intermedio`, que se encuentra en medio de nuestro propio lenguaje y el lenguaje de programación que entiende el ordenador.
 
-**Principales características del pseudocódigo**
+### Principales características
 
-Su principal característica es permitir a los desarrolladores esbozar su código sin atascarse en la sintaxis y la estructura de un lenguaje concreto. Esto facilita la detección de errores en la lógica de un programa o función, sin tener que escribir o depurar código real.
+Su principal característica es permitir a los desarrolladores `esbozar su código sin atascarse en la sintaxis` y la estructura de un lenguaje concreto. Esto facilita la detección de errores en la lógica de un programa o función, sin tener que escribir o depurar código real.
 
 Es más, el pseudocódigo puede adaptarse fácilmente a distintos lenguajes de programación, lo que lo convierte en una herramienta útil para los desarrolladores que están familiarizados con varios lenguajes y necesitan trasladar sus ideas entre ellos. Esto puede ser especialmente útil para los equipos que trabajan juntos en un proyecto, ya que el pseudocódigo puede utilizarse como lenguaje común para comunicar ideas y funciones.
 
-**Ventajas y desventajas del pseudocódigo**
+### Ventajas y desventajas
 
 Las tareas más complejas o repetitivas pueden representarse de forma más sencilla ya que está escrito en un lenguaje sencillo y no estructurado que permite una transición sencilla al lenguaje de programación, más complejo y estructurado.
 
@@ -121,39 +121,39 @@ El pseudocódigo llega donde el diagrama de flujo no lo hace. La solución de un
 
 La curva de aprendizaje del pseudocódigo es baja por lo que facilitan enormemente el aprendizaje de la programación y la iniciación a lenguajes de programación más avanzados y complejos.
 
-El pseudocódigo, al ser independiente del lenguaje de programación, permite que su uso se pueda aplicar utilizando diferentes lenguajes y permitiendo que el programador no tenga que ser la misma persona que escribió el pseudocódigo.
+El pseudocódigo, al ser independiente del lenguaje de programación, permite que su uso se pueda aplicar utilizando diferentes lenguajes y permitiendo que el programador no tenga que ser la misma persona que escriba el pseudocódigo.
 
-Al no ser ejecutable, tu pseudocódigo no necesitará alojarse online ni conectarse a ningún *script* externo como haría una aplicación completa. Puede crearse y guardarse en un archivo en tu máquina local, en un archivo en la Nube, o incluso copiarse en un correo electrónico.
+Al no ser ejecutable, tu pseudocódigo no necesitará alojarse online ni conectarse a ningún `script` externo como haría una aplicación completa. Puede crearse y guardarse en un archivo en tu máquina local, en un archivo en la nube, o incluso copiarse en un correo electrónico.
 
 Una de las desventajas del uso de pseudocódigo es el caso de problemas muy extensos, puede llegar a ser difícil de entender.
 
-**Componentes y sintaxis del pseudocódigo**
+### Componentes y sintaxis
 
 Para escribir programas utilizando pseudocódigo es necesario seguir unas pautas o normas de sintaxis para que puedan ser leídos y comprendidos por los programadores a la hora de pasarlos a un lenguaje de programación.
 
-**Pasos para escribir pseudocódigo**
+#### Pasos para escribir
 
 Aquí hay algunos pasos generales que puedes seguir para escribir un buen pseudocódigo:
 
-1. **Abre tu editor de texto**: La mayoría de las veces, el pseudocódigo se escribe en un editor de texto o HTML. Puedes elegir tu favorito y abrir un nuevo archivo.
+1. `Abre tu editor de texto`: La mayoría de las veces, el pseudocódigo se escribe en un editor de texto o HTML. Puedes elegir tu favorito y abrir un nuevo archivo.
 
-2. **Define tu objetivo**: Determina la finalidad de tu programa o función. *¿Qué quieres que haga?*
+2. `Define tu objetivo`: Determina la finalidad de tu programa o función. *¿Qué quieres que haga?*
 
-3. **Sepáralo en partes**: Divide el problema en trozos más pequeños y manejables. Esto puede ayudarte a pensar en el problema con más claridad y facilitar la organización de las piezas para que funcionen donde y cuando deban.
+3. `Sepáralo en partes`: Divide el problema en trozos más pequeños y manejables. Esto puede ayudarte a pensar en el problema con más claridad y facilitar la organización de las piezas para que funcionen donde y cuando deban.
 
-4. **Organízalo en pasos**: Escribe los pasos de tu programa en orden lógico. Utiliza un lenguaje natural y evita utilizar construcciones o métodos de programación específicos, como estructuras de control o conversión de tipos.
+4. `Organízalo en pasos`: Escribe los pasos de tu programa en orden lógico. Utiliza un lenguaje natural y evita utilizar construcciones o métodos de programación específicos, como estructuras de control o conversión de tipos.
 
-5. **Sangría en las líneas**: Utiliza la sangría para mostrar la estructura de tu código. Por ejemplo, puedes sangrar las líneas de código que pertenecen a un bucle.
+5. `Sangría en las líneas`: Utiliza la sangría para mostrar la estructura de tu código. Por ejemplo, puedes sangrar las líneas de código que pertenecen a un bucle.
 
-6. **Pruébalo**: Prueba tu pseudocódigo para asegurarte de que es claro y lógico. Puedes hacerlo recorriéndolo verbalmente o pidiendo a otra persona que lo lea y te informe de lo que cree que debe hacer el pseudocódigo.
+6. `Pruébalo`: Prueba tu pseudocódigo para asegurarte de que es claro y lógico. Puedes hacerlo recorriéndolo verbalmente o pidiendo a otra persona que lo lea y te informe de lo que cree que debe hacer el pseudocódigo.
 
-Una vez escrito el pseudocódigo, tendrás que convertirlo en un *script ejecutable*. Puedes practicar esto fuera de tus proyectos contribuyendo a repositorios Git de código abierto, aceptando retos de código y haciendo/respondiendo preguntas en StackOverflow o dentro de tu comunidad de desarrollo.
+Una vez escrito el pseudocódigo, tendrás que convertirlo en un `script ejecutable`. Puedes practicar esto fuera de tus proyectos contribuyendo a repositorios Git de código abierto, aceptando retos de código y haciendo/respondiendo preguntas en [StackOverflow](https://stackoverflow.com/) o dentro de tu comunidad de desarrollo.
 
-**Construcciones de pseudocódigo**
+### Construcciones de pseudocódigo
 
-A pesar de que el pseudocódigo carece de una sintaxis definida, hay varias construcciones de programación comunes que los desarrolladores suelen utilizar al escribir pseudocódigo. Veamos cada una de ellas.
+Existen varias construcciones de programación comunes que los desarrolladores suelen utilizar al escribir pseudocódigo. Veamos cada una de ellas.
 
-*Secuencias*
+#### Secuencias
 
 Una secuencia es un grupo de sentencias que se ejecutan en un orden concreto. Se utilizan para realizar o repetir una serie de acciones sencillas. Algunos comandos de secuencia conocidos y utilizados habitualmente en pseudocódigo son:
 
@@ -165,39 +165,39 @@ Una secuencia es un grupo de sentencias que se ejecutan en un orden concreto. Se
 * SHOW (Mostrar)
 * CALCULATE (Calcular)
 
-*Condicionales*
+#### Condicionales
 
-Las sentencias condicionales permiten que un programa tome decisiones basándose en determinadas condiciones, y luego dirigen el programa para que ejecute determinadas sentencias si se cumple (o no) una condición. 
+Las sentencias condicionales permiten que un programa tome decisiones basándose en determinadas condiciones, y luego dirigen el programa para que ejecute determinadas sentencias si se cumple (o no) una condición.
 
 * IF-ELSE (si-entonces)
 * IF-IF ()
 * ELSE-ELSE ()
 * CASE ()
 
-*Iteraciones*
+#### Iteraciones
 
 Las sentencias de iteración repiten un conjunto de pasos dentro de una función o proceso más amplio. A menudo se utilizan para realizar la misma operación en varios elementos de una lista o para repetir un proceso hasta que se cumplan determinadas condiciones.
 
-Las iteraciones son útiles para repetir un conjunto de pasos varias veces y pueden implementarse utilizando varios tipos de bucles, incluidos los bucles:
+Las iteraciones son útiles para repetir un conjunto de pasos varias veces y pueden implementarse utilizando varios tipos de bucles:
 
 * FOR (Para)
 * WHILE (Mientras)
 * DO-WHILE (Hacer mientras)
 
-**Buenas Prácticas de Pseudocódigo**
+### Buenas Prácticas de Pseudocódigo
 
 Aquí tienes unas cuantas pautas generales que pueden ayudarte a escribir pseudocódigo claro y eficaz en cada ocasión:
 
-1. **Utiliza un lenguaje natural**: El pseudocódigo debe escribirse de forma que sea fácil de entender para cualquiera, utilizando lenguaje natural en lugar de jerga técnica.
-2. **Hazlo sencillo**: Evita utilizar lenguaje o sintaxis complejos, y céntrate en expresar los pasos del algoritmo o proceso de forma clara y concisa.
-3. **Sé específico**: Sé lo más específico posible al escribir el pseudocódigo, incluyendo información como nombres de variables y valores concretos.
-4. **Omite los detalles innecesarios**: Si te preocupas por la convención de mayúsculas y minúsculas que debes adoptar o por si debes usar punto y coma, estás dándole demasiadas vueltas. Haz que tu texto en pseudocódigo sea lo más sencillo y directo posible.
-5. **Utiliza elementos similares a los de programación**: Aunque el pseudocódigo no debe escribirse en un lenguaje de programación específico, puede ser útil utilizar elementos como bucles, sentencias condicionales y llamadas a funciones para facilitar a los lectores la comprensión de los pasos de tu programa.
-6. **Utiliza la sangría para mostrar la jerarquía**: La sangría puede utilizarse para mostrar la jerarquía de los pasos de tu programa, facilitando la comprensión de la lógica y la estructura.
+1. `Utiliza un lenguaje natural`: El pseudocódigo debe escribirse de forma que sea fácil de entender para cualquiera, utilizando lenguaje natural en lugar de jerga técnica.
+2. `Hazlo sencillo`: Evita utilizar lenguaje o sintaxis complejos, y céntrate en expresar los pasos del algoritmo o proceso de forma clara y concisa.
+3. `Sé específico`: Sé lo más específico posible al escribir el pseudocódigo, incluyendo información como nombres de variables y valores concretos.
+4. `Omite los detalles innecesarios`: Si te preocupas por la convención de mayúsculas y minúsculas que debes adoptar o por si debes usar punto y coma, estás dándole demasiadas vueltas. Haz que tu texto en pseudocódigo sea lo más sencillo y directo posible.
+5. `Utiliza elementos similares a los de programación`: Aunque el pseudocódigo no debe escribirse en un lenguaje de programación específico, puede ser útil utilizar elementos como bucles, sentencias condicionales y llamadas a funciones para facilitar a los lectores la comprensión de los pasos de tu programa.
+6. `Utiliza la sangría para mostrar la jerarquía`: La sangría puede utilizarse para mostrar la jerarquía de los pasos de tu programa, facilitando la comprensión de la lógica y la estructura.
 
-Siguiendo estas pautas, puedes escribir un pseudocódigo claro y eficaz que tú y otros puedan utilizar como guía para implementar una función o algoritmo en un lenguaje de *scripting* o programación específico.
+Siguiendo estas pautas, puedes escribir un pseudocódigo claro y eficaz que tú y otros puedan utilizar como guía para implementar una función o algoritmo en un `lenguaje de scripting` o programación específico.
 
-**Estructura de un programa escrito con pseudocódigo**
+### Estructura de un programa escrito con pseudocódigo
 
 Ahora vamos a conocer la estructura formal de un programa escrito con pseudocódigo. Como todo programa informático, necesita una estructura determinada para su realización:
 
@@ -215,9 +215,15 @@ Cuerpo:
 * Instrucciones
 * Fin
 
-**Nota**: Si queremos hacer un comentario dentro del pseudocódigo, iniciamos la línea del comentario con dos asteriscos (**).
+`Nota`: Si queremos hacer un comentario dentro del pseudocódigo, iniciamos la línea del comentario con dos asteriscos (**).
 
-Un desarrollo de software escrito en pseudocódigo debe permitir la ejecución de instrucciones *primitivas*, *de proceso*, *de control*, *de descripción* y *compuestas*.
+Un desarrollo de software escrito en pseudocódigo debe permitir la ejecución de instrucciones
+
+* Primitivas
+* De proceso
+* De control
+* De descripción
+* Compuestas
 
 Para ello, en la redacción de pseudocódigo, los usuarios tienen disponibles tres tipos de estructuras básicas de control:
 
@@ -227,35 +233,35 @@ Para ello, en la redacción de pseudocódigo, los usuarios tienen disponibles tr
 
 A continuación, se describe cada una de ellas de forma más detallada:
 
-* **Estructuras secuenciales**. Las instrucciones se siguen en una secuencia fija que normalmente se encuentra definida por el número de renglón. Esto significa que las instrucciones se ejecutan de arriba hacia abajo.
+* `Estructuras secuenciales`. Las instrucciones se siguen en una secuencia fija que normalmente se encuentra definida por el número de renglón. Esto significa que las instrucciones se ejecutan de arriba hacia abajo.
 
-* **Estructuras selectivas**. Las instrucciones selectivas representan instrucciones que pueden o no ejecutarse, de acuerdo el cumplimiento de una condición.
+* `Estructuras selectivas`. Las instrucciones selectivas representan instrucciones que pueden o no ejecutarse, de acuerdo el cumplimiento de una condición.
 
-* **Selectiva doble (alternativa)**. La instrucción alternativa realiza una instrucción de dos posibles, de acuerdo al cumplimiento de una condición.
+* `Selectiva doble (alternativa)`. La instrucción alternativa realiza una instrucción de dos posibles, de acuerdo al cumplimiento de una condición.
 
-* **Selectiva múltiple**. Otro uso común es también la utilización de una selección múltiple, lo que equivaldría a anidar varias funciones de selección. En este tipo de situaciones, existen una serie de condiciones que tienen que ser mutuamente excluyentes, si una de ellas se cumple las demás tienen que ser necesariamente falsas, hay un caso *“Si no”* que será verdadero cuando las demás condiciones sean falsas.
+* `Selectiva múltiple`. Otro uso común es también la utilización de una selección múltiple, lo que equivaldría a anidar varias funciones de selección. En este tipo de situaciones, existen una serie de condiciones que tienen que ser mutuamente excluyentes, si una de ellas se cumple las demás tienen que ser necesariamente falsas, hay un caso *“Si no”* que será verdadero cuando las demás condiciones sean falsas.
 
-* **Selectiva múltiple-Casos**.	Este caso es similar al anterior. Aquí nos encontramos con un *“Indicador”* que es una variable o una función cuyo valor es comparado en cada caso con los valores *(Valor)*. En el caso que coincidan ambos valores, entonces se ejecutarán las *(Instrucciones)* correspondientes.
+* `Selectiva múltiple-Casos`. Este caso es similar al anterior. Aquí nos encontramos con un *“Indicador”* que es una variable o una función cuyo valor es comparado en cada caso con los valores *(Valor)*. En el caso que coincidan ambos valores, entonces se ejecutarán las *(Instrucciones)* correspondientes.
 
-* **Estructuras iterativas**.	La estructura iterativa o de repetición permite ejecutar una o varias instrucciones un número determinado de veces o de forma indefinida mientras se cumpla una determinada condición.
+* `Estructuras iterativas`. La estructura iterativa o de repetición permite ejecutar una o varias instrucciones un número determinado de veces o de forma indefinida mientras se cumpla una determinada condición.
 
-* **Bucle mientras**.	En este caso, el objetivo principal del bucle es repetir un bloque de código mientras una condición se mantenga verdadera.
+* `Bucle mientras`. En este caso, el objetivo principal del bucle es repetir un bloque de código mientras una condición se mantenga verdadera.
 
-* **Bucle repetir**. El bucle repetir comprueba que las instrucciones del cuerpo del bucle hayan llegado a su final, entonces si es verdadera continua con la ejecución resto del programa.
+* `Bucle repetir`. El bucle repetir comprueba que las instrucciones del cuerpo del bucle hayan llegado a su final, entonces si es verdadera continua con la ejecución del resto del programa.
 
-* **Bucle hacer**. El Bucle es utilizado en programación para repetir un bloque de código de un programa mientras se cumpla cierta condición.
+* `Bucle hacer`. El Bucle es utilizado para repetir un bloque de código de un programa mientras se cumpla cierta condición.
 
-* **Bucle para**.	Este bucle es utilizado para cuando se desea iterar un número conocido de veces, empleando como índice una variable que aumenta o disminuye.
+* `Bucle para`. Este bucle es utilizado cuando se desea iterar un número conocido de veces, empleando como índice una variable que aumenta o disminuye.
 
-* **Bucle para cada**. Esta sentencia, de uso muy extendido, es utilizada cuando se tiene una lista o un conjunto.
+* `Bucle para cada`. Esta sentencia, de uso muy extendido, es utilizada cuando se tiene una lista o un conjunto.
 
-* **El anidamiento**.	El anidamiento permite incorporar llamadas a funciones o procedimientos dentro de otros procedimientos, gracias a la inclusión de diversos niveles de paréntesis. Esto significa que cualquier instrucción puede ser sustituida por una estructura de control.
+* `El anidamiento`. El anidamiento permite incorporar llamadas a funciones o procedimientos dentro de otros procedimientos, gracias a la inclusión de diversos niveles de paréntesis. Esto significa que cualquier instrucción puede ser sustituida por una estructura de control.
 
 El pseudocódigo, como cualquier otro lenguaje, está compuesto por:
 
-* **Léxico**: conjunto de palabras o frases válidas para escribir las instrucciones.
-* **Sintaxis**: reglas que establecen cómo se pueden combinar las distintas partes.
-* **Semántica**: significado que se les da a las palabras o frases.
+* `Léxico`: conjunto de palabras o frases válidas para escribir las instrucciones.
+* `Sintaxis`: reglas que establecen cómo se pueden combinar las distintas partes.
+* `Semántica`: significado que se les da a las palabras o frases.
 
 El pseudocódigo sigue una *estructura secuencial* (define una acción o instrucción que sigue a otra en secuencia). Esta estructura puede representarse de la siguiente forma:
 
@@ -263,6 +269,10 @@ El pseudocódigo sigue una *estructura secuencial* (define una acción o instruc
 ALGORITMO: "Ejemplo"
 COMENZAR
     Acción 1
+      Si se cumple
+        Acción 1.1
+      Si no
+        Acción 1.2
     Acción 2
     ...
     Acción N
@@ -271,78 +281,38 @@ FIN
 
 Se comienza con un título que describa el problema que el algoritmo resuelve, seguido por la palabra *COMENZAR*. Luego se detallan las acciones o instrucciones a seguir y se concluye con la palabra *FIN*.
 
-Es importante destacar la presencia de sangrías (sangrado) en el ejemplo anterior, que facilitan la lectura. Los algoritmos suelen ser representados también mediante *diagramas de flujo*.
+Es importante destacar la presencia de sangrías (sangrado) como en el ejemplo anterior, que facilitan la lectura. Los algoritmos suelen ser representados también mediante *diagramas de flujo*.
 
 ## Diagrama de flujo
 
 <center>
-    <img src='./../assets/images/Porgramacion/Diagrama.jpg' width="40%" height="30%">
+    <img src='./../assets/images/Porgramacion/Diagrama.webp' width="40%" height="30%">
 </center>
 
-Si bien las variaciones y versiones de los diagramas de flujo son infinitas. Hay 4 tipos de diagramas de flujo que son particularmente versátiles. Estos cuatro diagramas comunes son excelentes para describir procesos comerciales, de fabricación o administrativos, ver cómo funciona una organización o cómo trabajan juntos los diferentes departamentos.
+Un Diagrama de Flujo representa la esquematización gráfica de un algoritmo, el cual muestra gráficamente los pasos o procesos a seguir para alcanzar la solución de un problema. Su correcta construcción es sumamente importante porque, a partir del mismo se escribe un programa en algún Lenguaje de Programación. Si el Diagrama de Flujo está completo y correcto, el paso del mismo a un Lenguaje de Programación es relativamente simple y directo.
 
-**El diagrama de flujo del proceso**. 
+Es importante resaltar que el Diagrama de Flujo muestra el sistema como una red de procesos funcionales conectados entre sí por *"Tuberías"* y *"Depósitos"* de datos que permite describir el movimiento de los datos a través del Sistema.
 
-<center>
-    <img src='./../assets/images/Porgramacion/flujo.jpg' width="50%" height="50%">
-</center>
+Este describirá:
 
-Un diagrama de flujo de proceso es probablemente el más versátil de los cuatro tipos de diagramas de flujo de uso común porque se puede aplicar a prácticamente cualquier cosa. Utilice un diagrama de flujo de proceso para:
+* Lugares de Origen y Destino de los datos
+* Transformaciones a las que son sometidos los datos
+* Lugares en los que se almacenan los datos dentro del sistema
+* Los canales por donde circulan los datos.
 
-  * Trazar los roles y responsabilidades dentro de una organización para obtener claridad.
-  * Elaborar una propuesta para un nuevo proceso o proyecto para comprender su alcance y pasos.
+Se basan en la utilización de diversos símbolos para representar operaciones específicas, es decir, es la representación grafica de las distintas operaciones que se tienen que realizar para resolver un problema, con indicación expresa el orden lógico en que deben realizarse.
 
-**El diagrama de flujo de trabajo**. 
+Se les llama diagramas de flujo porque los símbolos utilizados se conectan por medio de flechas para indicar la secuencia de operación. Para hacer comprensibles los diagramas a todas las personas, los símbolos se someten a una normalización; es decir, se hicieron símbolos casi universales, ya que, en un principio cada usuario podría tener sus propios símbolos para representar sus procesos en forma de Diagrama de flujo.
 
-<center>
-    <img src='./../assets/images/Porgramacion/trabajo.jpg' width="60%" height="60%">
-</center>
+Esto trajo como consecuencia que sólo aquel que conocía sus símbolos, los podía interpretar. La simbología utilizada para la elaboración de diagramas de flujo es variable y debe ajustarse a un patrón definido previamente.
 
-Ayuda a comprender cómo fluyen los datos y los documentos dentro de su organización. Un diagrama de flujo de trabajo muestra la forma en que funciona una empresa o un proceso. Este tipo de diagrama de flujo de trabajo se puede utilizar para:
+El diagrama de flujo representa la forma más tradicional y duradera para especificar los detalles algorítmicos de un proceso. Se utiliza principalmente en programación, economía y procesos industriales.
 
-  * Capacitar a nuevos empleados
-  * Descubrir posibles áreas problemáticas.
-  * Aclarar las operaciones comerciales mostrando una descripción general de alto nivel.
+### Importancia
 
-**El diagrama de flujo de carriles**. 
+Los diagramas de flujo son importantes porque nos facilita la manera de representar visualmente el flujo de datos por medio de un sistema de tratamiento de información, en este realizamos un análisis de los procesos o procedimientos que requerimos para realizar un programa o un objetivo.
 
-<center>
-    <img src='./../assets/images/Porgramacion/carril.jpg' width="50%" height="50%">
-</center>
-
-Describe cómo interactúan departamentos, procesos o empleados separados. El diagrama de flujo de carriles resulta útil cuando necesita mostrar varios flujos de información uno al lado del otro. Los diagramas de carriles pueden sonar muy similares a un diagrama de flujo de trabajo, pero la clave aquí es que le permite crear diferentes categorías donde tiene lugar la actividad.
-
-Un diagrama de flujo o diagrama de carriles es excelente para documentar un proceso completo que interactúa con diferentes segmentos de una organización o requiere la colaboración entre diferentes equipos.
-
-**El diagrama de flujo de datos**.
-
-<center>
-    <img src='./../assets/images/Porgramacion/datos.jpg'>
-</center>
-
-Se pueden ver dónde entran y salen los datos de un sistema de información. Un diagrama de flujo de datos muestra la forma en que se procesan los datos. Resulta útil cuando desea diseñar o analizar un sistema. Aunque se utiliza con mayor frecuencia para el desarrollo y diseño de software, se puede utilizar para analizar cualquier tipo de flujo de información, como cómo se mueve la información a través de una empresa.
-
-<center>
-    <img src='./../assets/images/Porgramacion/simbolos.jpg'>
-</center>
-
-**Beneficios**
-
-* Con un diagrama de flujo, los análisis del proceso o de un nuevo proyecto, se pueden entender mejor y con más efectividad.
-* No se pierde tiempo y reduce los costos.
-* Se tiene una mejor comunicación en cuanto a la lógica de un sistema entre todos los trabajadores.
-* Para los programadores, el diagrama de flujo ayuda a facilitar el mantenimiento del programa operativo. El proceso se hace más eficiente.
-* El proceso de depuración es mucho más fácil con el diagrama de flujo.
-* Hace que la codificación sea eficiente al desarrollar un programa o al analizar un sistema.
-* Hace que todo sea más eficiente, pues es una buena documentación.
-
-**Desventajas**
-
-* Lógica compleja: a veces, la lógica del programa es bastante complicada. En ese caso, el diagrama de flujo se vuelve complejo y torpe. Esto se convertirá en una molestia para el usuario, lo que resultará en una pérdida de tiempo y dinero al intentar corregir el problema.
-* Alteraciones y modificaciones: si se requieren alteraciones, el diagrama de flujo puede requerir que se vuelva a dibujar por completo. Esto normalmente hará perder un tiempo valioso.
-* Reproducción: Como los símbolos del diagrama de flujo no se pueden escribir, la reproducción del diagrama de flujo se convierte en un problema.
-
-**¿Cuál es el procedimiento del diagrama de flujo?**
+### ¿Cuál es el procedimiento del diagrama de flujo?
 
 El diagrama de flujo puede hacerse de manera manual en una pizarra o mediante el ordenador. El procedimiento básico es el siguiente:
 
@@ -352,6 +322,56 @@ El diagrama de flujo puede hacerse de manera manual en una pizarra o mediante el
 4. Organiza en secuencia todas las actividades anteriormente anotadas.
 5. Entre todos los trabajadores, se deberá estar de acuerdo con la secuencia de todas las actividades, de que están correctas. Luego empieza a dibujar las flechas para organizar el orden.
 6. Finalmente, puedes analizar y discutir el diagrama de flujo con otros trabajadores involucrados en el proceso, pueden ser clientes, supervisores, etc. Esto es para tener en mente de que si están de acuerdo a que todo está hecho con precisión.
+
+### Método de ordenación por burbuja
+
+El método de ordenación por burbuja es un algoritmo de ordenamiento, que funciona revisando cada elemento de la lista que va a ser ordenada con el siguiente, e intercambiándolos de posición si esta está en el orden erróneo. Es estrictamente necesario realizar este proceso varias veces de modo que no necesite mas intercambios, hasta que este ordenada. En este método de ordenación se realiza el intercambio entre los más grandes y los mas pequeños (los más grandes quedan arriba y los pequeños abajo).
+
+Estos intercambios suceden en dos ciclos un ciclo que es interno que realiza las comparaciones y
+se asegura de que en la primera revisión que los elementos mas grandes suban a la posición
+más alta, y el otro ciclo que es un poco mas externo se encarga de realizar las revisiones.
+
+### Elementos
+
+Principalmente, un diagrama de flujos está formado por diferentes elementos que nos permiten dar forma a la idea del algoritmo:
+
+* `Línea o flechas del flujo`: Indica la instrucción que se va a realizar, o la dirección del flujo del proceso.
+
+<center>
+    <img src='./../assets/images/Porgramacion/flecha.png'>
+</center>
+
+* `Conectores de flechas del flujo`: Cuando las dos tareas a unir están demasiado lejos o cuando resulta confuso cruzar muchas flechas, entonces se utilizan dos círculos con un mismo número, para indicar el comienzo y el final de la flecha:
+
+Cada flecha debe tener un número diferente, de forma que debe haber solo 2 círculos con un mismo número: un círculo de comienzo y otro de finalización.
+
+<center>
+    <img src='./../assets/images/Porgramacion/Conectores.png'>
+</center>
+
+* `Inicio y final`: Es la forma en la cual se indica el “inicio del proceso” y “final del proceso”. Su icono suele ser un rectángulo con las esquinas redondeadas.
+
+<center>
+    <img src='./../assets/images/Porgramacion/inicio.png'>
+</center>
+
+* `Asignación/ definición`: Permite asignar un valor o definir una variable, son los procesos o actividades que se necesitan para resolver el problema. En este caso, suele estar representado con un rectángulo.
+
+<center>
+    <img src='./../assets/images/Porgramacion/tarea.png'>
+</center>
+
+* `Datos de entrada o de salida`: Representa la impresión de datos en la salida. Se representa con un recuadro con las esquinas inclinadas y una flecha hacia fuera.
+
+<center>
+    <img src='./../assets/images/Porgramacion/Entrada.png'>
+</center>
+
+* `Decisión`: Indica que del punto en donde nos encontramos, puede haber más de un camino para seguir, según la condición dada. En este caso se usa un rombo.
+
+<center>
+    <img src='./../assets/images/Porgramacion/Desicion.png'>
+</center>
 
 ## Codificación
 
