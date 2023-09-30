@@ -373,6 +373,12 @@ Cada flecha debe tener un número diferente, de forma que debe haber solo 2 cír
     <img src='./../assets/images/Porgramacion/Desicion.png' width="40%" height="40%">
 </center>
 
+En seguida se mostrarán los simbolos que se pueden llegar a utilizar al momento de elaborar un diagrama de flujo.
+
+<center>
+    <img src='./../assets/images/Porgramacion/flujo.png'>
+</center>
+
 ## Codificación
 
 <center>
