@@ -5,7 +5,7 @@ excerpt: "La programación para muchos nos ha parecido un sueño imposible, o qu
 date: 2023-07-19
 classes: wide
 header:
-  teaser: /assets/images/20230719/Introduccion.jpg
+  teaser: /assets/images/Porgramacion/Introduccion.jpg
   teaser_home_page: true
 categories:
   - Programación
