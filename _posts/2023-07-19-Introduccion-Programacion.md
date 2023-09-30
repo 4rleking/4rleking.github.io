@@ -376,7 +376,7 @@ Cada flecha debe tener un número diferente, de forma que debe haber solo 2 cír
 En seguida se mostrarán los simbolos que se pueden llegar a utilizar al momento de elaborar un diagrama de flujo.
 
 <center>
-    <img src='./../assets/images/Porgramacion/flujo.png' width="120%" height="110%">
+    <img src='./../assets/images/Porgramacion/flujo.png' width="110%" height="100%">
 </center>
 
 ### Estructura Condicional
