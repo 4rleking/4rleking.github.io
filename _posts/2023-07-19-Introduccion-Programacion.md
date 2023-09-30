@@ -379,6 +379,80 @@ En seguida se mostrarán los simbolos que se pueden llegar a utilizar al momento
     <img src='./../assets/images/Porgramacion/flujo.png'>
 </center>
 
+### Estructura Condicional
+
+ Las estructuras lógicas selectivas se encuentran en la solución algorítmica de casi todo tipo de problemas. Las utilizamos cuando en el desarrollo de la solución de un problema debemos tomar una decisión, para establecer un proceso o señalar un camino alternativo a seguir.
+
+Esta toma de decisión se basa en la evaluación de una o más condiciones que nos señalarán como alternativa o consecuencia, la rama a seguir.
+
+Hay situaciones en las que la toma de decisiones se realiza en cascada. Es decir, se toma una decisión, se marca la rama correspondiente a seguir, se vuelve a tomar otra decisión y así sucesivamente. Por lo que para alcanzar la solución de un problema o subproblema debemos aplicar prácticamente un árbol de decisión.
+
+La estructura si entonces permite que el flujo del diagrama siga un camino específico si se cumple una condición o un conjunto de condiciones. Si al evaluar la condición el resultado es verdadero se ejecuta(n) cierta(s) operación(es). Esta estructura se dice que es binaria dado que solo tiene dos posibles respuestas: si o no.
+
+<center>
+    <img src='./../assets/images/Porgramacion/Condicion.png'>
+</center>
+
+### Estructura Condicional Múltiple
+
+La estructura selectiva permite que el flujo del diagrama se bifurque por varias ramas en el punto de la toma de decisión(es), esto en función del valor que tome el selector. El selector múltiple, a diferencia del selector simple, no es binario sino que tiene 3 o más posibles ramas para la decisión. Este tipo de selector permite elegir entre un número determinado de posibilidades, un número discreto (finito) de ellas. Por esta razón es que si se necesita evaluar un conjunto contínuo (infinito) de posibles valores, este tipo de selector no es apropiado para ello.
+
+<center>
+    <img src='./../assets/images/Porgramacion/Condicion_multiple.png'>
+</center>
+
+### Estructuras Algorítmicas Repetitivas
+
+ En la construcción de algoritmos para resolver un problema específico es muy común encontrarse con la necesidad de repetir alguna operación para la realización de esa tarea. En dicha repetición, que a partir de ahora llamaremos iteración, puede ser necesario resolver alguna(s) operación(es) aritmética(s) o la evaluación de alguna decisión. En cualquier caso se necesitan de las estructuras algorítmicas repetitivas.
+
+Todo ciclo debe terminar de ejcutarse luego de un número finito de iteraciones, por lo que es necesario verificar la(s) condición(es) en cada iteración para determinar si se debe continuar la ejecución o detenerse.
+
+De esta forma todos los ciclos tienen estos tres elementos:
+
+* Condición Inicial: Es el punto de partida del ciclo, debe ser una condición verdadera para que el ciclo pueda iniciar.
+* Condición Final: Establece el punto final del ciclo, una vez que se cumpla la condición el ciclo deberá terminar.
+* Incremento/Decremento/Cambio: Es el cambio de las variables que controlan el ciclo. El cambio puede ser un incremento, decremento o alguna otra condición.
+
+### Estructura Repetitiva repetir
+
+La estructura repetir conocida comúnmente como for, es la estructura algorítmica cuya característica principal es que se sabe de antemano el número de iteraciones que ocurrirán. Este tipo de estrcutura está presente en todos los lenguajes de programación.
+
+El diagrama de flujo de la estructura repetir es el siguiente: 
+
+<center>
+    <img src='./../assets/images/Porgramacion/repetir.png'>
+</center>
+
+ Para utilizar este ciclo se debe establecer un punto de partida, un fin y como se progresará desde el inicio al final; es decir, una condición incial, una condición final y un cambio. Como se sabe toda esta información de antemano, por lo tanto se sabe el número de iteraciones que realizará el ciclo. El control de las iteraciónes lo realiza una variable de control.
+
+Para comenzar el ciclo, la variable de control toma el valor establecido en la condición inicial y se evalúa contra la condición final, y si el resultado de dicha evaluación es verdadero se realiza una iteración del ciclo. Dentro del ciclo hay una o muchas operaciones que se pueden llevar a cabo, y al final de todas ellas debe ocurrir un incremento, decremento o un cambio en la variable que controla el ciclo.
+
+Por ejemplo, considere que existe una operación X que necesita ser realizada 10 veces. Debemos definir la variable de control del ciclo, digamos i. Dicha variable i deberá contar el número de iteraciones, es decir, deberá comenzar con un valor de 1 y terminará cuando valga 10. Por lo tanto, la condición inicial es i=1, la condición final i=10 y el cambio de la variable es un incremento en 1.
+
+El diagrama de flujo correspondiente es el siguiente:
+
+<center>
+    <img src='./../assets/images/Porgramacion/repetir_2.png'>
+</center>
+
+ Observe que la condición final se estableció como i<=10 siendo quizás la manera más obvia i!=10, para entender el porque considere lo siguiente. Dado que la variable i comienza en 1 y el incremento también es en 1, todos los valores que tomará la variable i dentro del ciclo son menores o iguales que 10, razón por la cual se establece de esa forma.
+
+Considere además que si pusieramos como condición i!=10 el ciclo funcionaría de manera idéntica para este ejemplo, pero si por alguna razón en algún momento de la ejecución del ciclo la variable i tomara un valor distinto a los esperados, no tendríamos forma de saberlo y esto ocasionaría que el ciclo se comportara de maneras inesperadas. Este tipo de situaciones son comunes sobre todo cuando los algoritmos son más complejos y existen más operaciones dentro del ciclo. Por esta razón es más conveniente optar por esta convención ya que nos evitará problemas en el futuro.
+
+### Estructura Repetitiva Mientras
+
+ La estructura mientras conocida comúnmente como while, es la estructura algorímtica cuya característica principal es que no se sabe de antemano el número de iteraciones que ocurrirán. Esta estructura también se encuentra presente en todos los lenguajes de programación.
+
+El diagrama de flujo de la estructura mientras es el siguiente:
+
+<center>
+    <img src='./../assets/images/Porgramacion/mientras.png'>
+</center>
+
+ Para utilizar este ciclo se debe establecer un punto de partida y un final; es decir, una condición incial y una condición final. El control de las iteraciónes lo realiza una variable de control. Para comenzar el ciclo la variable de control toma el valor de la condición inicial y en cada iteración se evalúa esta variable de control contra la condición final. El ciclo realizará iteraciones mientras tal evaluación sea verdadera.
+
+A diferencia de repetir, en el ciclo mientras no se sabe necesariamente con exactitud como cambia la variable de control, lo que si se debe saber con precisión es donde comienza el ciclo y donde termina. Por lo tanto, como no se sabe toda esa información, tampoco se sabe el número de iteraciones que realizará el ciclo.
+
 ## Codificación
 
 <center>
