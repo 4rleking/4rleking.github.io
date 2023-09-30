@@ -376,7 +376,7 @@ Cada flecha debe tener un número diferente, de forma que debe haber solo 2 cír
 ## Codificación
 
 <center>
-    <img src='./../assets/images/Porgramacion/Codificacion.jpg' width="40%" height="40%">
+    <img src='./../assets/images/Porgramacion/Codificacion.jpg' width="100%" height="50%">
 </center>
 
 Si bien hay distintos lenguajes de programación, una computadora en definitiva es un aparato que sólo sabe hablar en *binario*, es decir, sólo interpreta señales eléctricas con dos estados posibles, los cuales son representados por los *dígitos binarios* (0, 1). Este sistema de código con ceros y unos que la computadora interpreta como instrucciones o conjuntos de datos se llama lenguaje de máquina *(código de máquina)*.
