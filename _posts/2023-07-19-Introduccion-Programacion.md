@@ -286,7 +286,7 @@ Es importante destacar la presencia de sangrías (sangrado) como en el ejemplo a
 ## Diagrama de flujo
 
 <center>
-    <img src='./../assets/images/Porgramacion/Diagrama.webp'>
+    <img src='./../assets/images/Porgramacion/Diagrama.webp' height="80%">
 </center>
 
 Un Diagrama de Flujo representa la esquematización gráfica de un algoritmo, el cual muestra gráficamente los pasos o procesos a seguir para alcanzar la solución de un problema. Su correcta construcción es sumamente importante porque, a partir del mismo se escribe un programa en algún Lenguaje de Programación. Si el Diagrama de Flujo está completo y correcto, el paso del mismo a un Lenguaje de Programación es relativamente simple y directo.
