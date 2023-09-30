@@ -346,31 +346,31 @@ Principalmente, un diagrama de flujos está formado por diferentes elementos que
 Cada flecha debe tener un número diferente, de forma que debe haber solo 2 círculos con un mismo número: un círculo de comienzo y otro de finalización.
 
 <center>
-    <img src='./../assets/images/Porgramacion/Conectores.png' width="80%" height="50%">
+    <img src='./../assets/images/Porgramacion/Conectores.png' width="50%" height="50%">
 </center>
 
 * `Inicio y final`: Es la forma en la cual se indica el “inicio del proceso” y “final del proceso”. Su icono suele ser un rectángulo con las esquinas redondeadas.
 
 <center>
-    <img src='./../assets/images/Porgramacion/inicio.png' width="80%" height="50%">
+    <img src='./../assets/images/Porgramacion/inicio.png' width="50%" height="50%">
 </center>
 
 * `Asignación/ definición`: Permite asignar un valor o definir una variable, son los procesos o actividades que se necesitan para resolver el problema. En este caso, suele estar representado con un rectángulo.
 
 <center>
-    <img src='./../assets/images/Porgramacion/tarea.png' width="80%" height="50%">
+    <img src='./../assets/images/Porgramacion/tarea.png' width="50%" height="50%">
 </center>
 
 * `Datos de entrada o de salida`: Representa la impresión de datos en la salida. Se representa con un recuadro con las esquinas inclinadas y una flecha hacia fuera.
 
 <center>
-    <img src='./../assets/images/Porgramacion/Entrada.png' width="80%" height="50%">
+    <img src='./../assets/images/Porgramacion/Entrada.png' width="50%" height="50%">
 </center>
 
 * `Decisión`: Indica que del punto en donde nos encontramos, puede haber más de un camino para seguir, según la condición dada. En este caso se usa un rombo.
 
 <center>
-    <img src='./../assets/images/Porgramacion/Desicion.png' width="80%" height="50%">
+    <img src='./../assets/images/Porgramacion/Desicion.png' width="50%" height="50%">
 </center>
 
 ## Codificación
