@@ -338,7 +338,7 @@ Principalmente, un diagrama de flujos está formado por diferentes elementos que
 * `Línea o flechas del flujo`: Indica la instrucción que se va a realizar, o la dirección del flujo del proceso.
 
 <center>
-    <img src='./../assets/images/Porgramacion/flecha.png'>
+    <img src='./../assets/images/Porgramacion/flecha.png' width="80%" height="50%">
 </center>
 
 * `Conectores de flechas del flujo`: Cuando las dos tareas a unir están demasiado lejos o cuando resulta confuso cruzar muchas flechas, entonces se utilizan dos círculos con un mismo número, para indicar el comienzo y el final de la flecha:
@@ -346,37 +346,37 @@ Principalmente, un diagrama de flujos está formado por diferentes elementos que
 Cada flecha debe tener un número diferente, de forma que debe haber solo 2 círculos con un mismo número: un círculo de comienzo y otro de finalización.
 
 <center>
-    <img src='./../assets/images/Porgramacion/Conectores.png'>
+    <img src='./../assets/images/Porgramacion/Conectores.png' width="80%" height="50%">
 </center>
 
 * `Inicio y final`: Es la forma en la cual se indica el “inicio del proceso” y “final del proceso”. Su icono suele ser un rectángulo con las esquinas redondeadas.
 
 <center>
-    <img src='./../assets/images/Porgramacion/inicio.png'>
+    <img src='./../assets/images/Porgramacion/inicio.png' width="80%" height="50%">
 </center>
 
 * `Asignación/ definición`: Permite asignar un valor o definir una variable, son los procesos o actividades que se necesitan para resolver el problema. En este caso, suele estar representado con un rectángulo.
 
 <center>
-    <img src='./../assets/images/Porgramacion/tarea.png'>
+    <img src='./../assets/images/Porgramacion/tarea.png' width="80%" height="50%">
 </center>
 
 * `Datos de entrada o de salida`: Representa la impresión de datos en la salida. Se representa con un recuadro con las esquinas inclinadas y una flecha hacia fuera.
 
 <center>
-    <img src='./../assets/images/Porgramacion/Entrada.png'>
+    <img src='./../assets/images/Porgramacion/Entrada.png' width="80%" height="50%">
 </center>
 
 * `Decisión`: Indica que del punto en donde nos encontramos, puede haber más de un camino para seguir, según la condición dada. En este caso se usa un rombo.
 
 <center>
-    <img src='./../assets/images/Porgramacion/Desicion.png'>
+    <img src='./../assets/images/Porgramacion/Desicion.png' width="80%" height="50%">
 </center>
 
 ## Codificación
 
 <center>
-    <img src='./../assets/images/Porgramacion/Codificacion.jpg'>
+    <img src='./../assets/images/Porgramacion/Codificacion.jpg' width="80%" height="50%">
 </center>
 
 Si bien hay distintos lenguajes de programación, una computadora en definitiva es un aparato que sólo sabe hablar en *binario*, es decir, sólo interpreta señales eléctricas con dos estados posibles, los cuales son representados por los *dígitos binarios* (0, 1). Este sistema de código con ceros y unos que la computadora interpreta como instrucciones o conjuntos de datos se llama lenguaje de máquina *(código de máquina)*.
