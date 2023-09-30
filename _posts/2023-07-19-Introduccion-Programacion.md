@@ -41,23 +41,23 @@ Un algoritmo es una estrategia consistente de un conjunto de pasos ordenados que
 
 Un algoritmo debe de cumplir ciertos requisitos para que pueda ser correcto a prueba de fallas y errores, como se describen a continuación:
 
-### Robustez
+### 1. Robustez
 
 Un algoritmo debe contemplar todas las posibles facetas del problema que queremos resolver. Al elaborar un algoritmo no se nos debe escapar ningún detalle que provoque un funcionamiento deficiente o malo en él. Si logramos construir un algoritmo robusto, cualquier giro inesperado del problema será controlado por el mismo, es decir, debe ser `flexible a cambios`.
 
-### Correctitud
+### 2. Correctitud
 
 Un algoritmo es correcto cuando da una solución al problema a tratar y cumple con todos los requerimientos especificos, de tal manera que logremos los objetivos planteados.
 
-### Completitud
+### 3. Completitud
 
 Cuando un algoritmo cuenta con todos los recursos para poder llegar a una solución satisfactoria.
 
-### Eficiencia
+### 4. Eficiencia
 
 Un algoritmo es eficiente cuando logra llegar a sus objetivos planteados utilizando la menor cantidad de recursos posibles, es decir, minimizando el uso de memoria, pasos y esfuerzo humano.
 
-### Eficacia
+### 5. Eficacia
 
 Un algoritmo es eficaz cuando alcanza el objetivo primordial, el análisis de resolución del problema lo realiza prioritariamente.
 
@@ -286,7 +286,7 @@ Es importante destacar la presencia de sangrías (sangrado) como en el ejemplo a
 ## Diagrama de flujo
 
 <center>
-    <img src='./../assets/images/Porgramacion/Diagrama.webp' width="40%" height="30%">
+    <img src='./../assets/images/Porgramacion/Diagrama.webp'>
 </center>
 
 Un Diagrama de Flujo representa la esquematización gráfica de un algoritmo, el cual muestra gráficamente los pasos o procesos a seguir para alcanzar la solución de un problema. Su correcta construcción es sumamente importante porque, a partir del mismo se escribe un programa en algún Lenguaje de Programación. Si el Diagrama de Flujo está completo y correcto, el paso del mismo a un Lenguaje de Programación es relativamente simple y directo.
