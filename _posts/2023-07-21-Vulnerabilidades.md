@@ -105,3 +105,7 @@ Son debilidades en la parte humana muy difíciles de corregir que pueden ser apr
 * Realice una copia de seguridad de sus archivos. Si bien el software actualizado le protegerá de los ataques de exploit conocidos, no hay mucho que hacer cuando un hacker descubre una vulnerabilidad de día cero. Pero con una copia de seguridad actualizada de todos los archivos más importantes, estará cubierto en caso de que un ciberdelincuente use un exploit para instalar en su ordenador ransomware u otro tipo de malware que dañe los archivos. Cuando realice la copia de seguridad en una unidad externa, desconecte la unidad cuando no la esté usando y almacénela por separado del ordenador. Esto evitará que el malware afecte al contenido de la unidad.
 
 * Utilice software de proveedores de confianza. Este consejo se aplica a aplicaciones independientes, así como a extensiones y conectores de navegador. Los desarrolladores de software confiables garantizan que sus productos cuentan con la máxima resistencia posible frente a los exploits. Y, si se produce un exploit de día cero, responderán en seguida con un parche de seguridad.
+
+# Siguiente Nivel
+
+* [HTML](https://html.4rlekiing.net/)
