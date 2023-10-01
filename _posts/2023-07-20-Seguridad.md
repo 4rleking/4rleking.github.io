@@ -209,3 +209,23 @@ DevSecOps es el proceso de integración de medidas de seguridad en cada paso del
 ### Análisis de comportamiento de usuario y entidad (UEBA)
 
 UEBA es el proceso de observación del comportamiento típico de un usuario para detectar acciones que se salen de lo normal. Esto ayuda a las empresas a identificar amenazas potenciales.
+
+## Tipos de seguridad de datos
+
+### Cifrado
+
+Al utilizar un algoritmo para transformar caracteres de texto normales en un formato ilegible, las claves de cifrado codifican los datos para que solo los usuarios autorizados puedan leerlos.
+
+Las soluciones de cifrado de archivos y bases de datos  sirven como una última línea de defensa para volúmenes de datos confidenciales al ocultar su contenido mediante cifrado o tokenización. La mayoría de las soluciones también incluyen funcionalidades de gestión de claves de seguridad.
+
+### Eliminación de datos
+
+Más seguro que el borrado de datos estándar, la eliminación de datos utiliza software para sobrescribir completamente los datos en cualquier dispositivo de almacenamiento. Asegura que los datos sean irrecuperables.
+
+### Enmascaramiento de datos
+
+Al enmascarar los datos, las organizaciones pueden permitir que los equipos desarrollen aplicaciones o capaciten a las personas con el uso de datos reales. Enmascara la información de identificación personal (PII) cuando sea necesario para que el desarrollo pueda ocurrir en entornos que mantienen la conformidad.
+
+### Resiliencia de datos
+
+La resiliencia está determinada por qué tan bien una organización aguanta o se recupera de cualquier tipo de falla, desde problemas de hardware hasta cortes de energía y otros eventos que afectan la disponibilidad de los datos. La velocidad de recuperación es fundamental para minimizar el impacto.
