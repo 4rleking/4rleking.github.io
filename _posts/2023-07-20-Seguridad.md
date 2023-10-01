@@ -5,7 +5,7 @@ excerpt: "La información se ha convertido en el recurso más valioso hoy en dí
 date: 2023-09-29
 classes: wide
 header:
-  teaser: /assets/images/Seguridad/Intro.jpg
+  teaser: /assets/images/Seguridad/Seguridad.jpeg
   teaser_home_page: true
 categories:
   - Fundamentos
