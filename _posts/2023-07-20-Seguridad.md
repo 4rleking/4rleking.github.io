@@ -99,7 +99,7 @@ La PSI debe describir todos los procedimientos a aplicar en la vida diaria de lo
 
 Esta normativa es tan importante que incluso algunos países tienen su propia Ley de Seguridad Informática.
 
-### las mejores tecnologías en seguridad de la información
+### Las mejores tecnologías en seguridad de la información
 
 Para saber, de hecho, qué es la seguridad de la información, es muy importante saber también qué tecnologías se utilizan para este fin.
 
@@ -117,7 +117,7 @@ Entre los recursos tecnológicos que se pueden utilizar para promover este tipo 
 
 La elección de la tecnología de seguridad de la información más adecuada debe ser compatible con el nivel de protección que la empresa necesita y pretende alcanzar, considerando su perfil y condiciones actuales.
 
-### errores más comunes
+### Errores más comunes
 
 Aunque es extremadamente importante para todas las empresas, muchas aún cometen errores con respecto a la seguridad de la información. Los más recurrentes son:
 
