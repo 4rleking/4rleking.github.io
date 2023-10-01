@@ -8,10 +8,10 @@ header:
   teaser: /assets/images/Seguridad/Seguridad.jpeg
   teaser_home_page: true
 categories:
-  - Fundamentos
-  - Hacking
+  - 
 tags:
   - CIA
+  - ISO 27001
 ---
 
 <center>
@@ -229,3 +229,7 @@ Al enmascarar los datos, las organizaciones pueden permitir que los equipos desa
 ### Resiliencia de datos
 
 La resiliencia está determinada por qué tan bien una organización aguanta o se recupera de cualquier tipo de falla, desde problemas de hardware hasta cortes de energía y otros eventos que afectan la disponibilidad de los datos. La velocidad de recuperación es fundamental para minimizar el impacto.
+
+# Siguiente Nivel
+
+* [ISO 27001](https://iso27001.4rlekiing.net/)
