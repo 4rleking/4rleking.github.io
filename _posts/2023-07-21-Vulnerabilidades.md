@@ -108,4 +108,4 @@ Son debilidades en la parte humana muy difíciles de corregir que pueden ser apr
 
 # Siguiente Nivel
 
-* [HTML](https://html.4rlekiing.net/)
+* [Vulnerabilidades a Detalle](https://vulnerabilidades.4rlekiing.net/)
