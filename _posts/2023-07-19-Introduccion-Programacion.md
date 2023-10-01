@@ -379,6 +379,8 @@ En seguida se mostrarán los simbolos que se pueden llegar a utilizar al momento
     <img src='./../assets/images/Porgramacion/flujo.png' width="110%" height="100%">
 </center>
 
+### Estructuras de Diagramas de Flujo
+
 ### Estructura Condicional
 
  Las estructuras lógicas selectivas se encuentran en la solución algorítmica de casi todo tipo de problemas. Las utilizamos cuando en el desarrollo de la solución de un problema debemos tomar una decisión, para establecer un proceso o señalar un camino alternativo a seguir.
@@ -387,7 +389,7 @@ Esta toma de decisión se basa en la evaluación de una o más condiciones que n
 
 Hay situaciones en las que la toma de decisiones se realiza en cascada. Es decir, se toma una decisión, se marca la rama correspondiente a seguir, se vuelve a tomar otra decisión y así sucesivamente. Por lo que para alcanzar la solución de un problema o subproblema debemos aplicar prácticamente un árbol de decisión.
 
-La estructura si entonces permite que el flujo del diagrama siga un camino específico si se cumple una condición o un conjunto de condiciones. Si al evaluar la condición el resultado es verdadero se ejecuta(n) cierta(s) operación(es). Esta estructura se dice que es binaria dado que solo tiene dos posibles respuestas: si o no.
+La estructura permite que el flujo del diagrama siga un camino específico si se cumple una condición o un conjunto de condiciones. Si al evaluar la condición el resultado es verdadero se ejecuta(n) cierta(s) operación(es). Esta estructura se dice que es binaria dado que solo tiene dos posibles respuestas: si o no.
 
 <center>
     <img src='./../assets/images/Porgramacion/Condicion.png'>
@@ -395,7 +397,11 @@ La estructura si entonces permite que el flujo del diagrama siga un camino espec
 
 ### Estructura Condicional Múltiple
 
-La estructura selectiva permite que el flujo del diagrama se bifurque por varias ramas en el punto de la toma de decisión(es), esto en función del valor que tome el selector. El selector múltiple, a diferencia del selector simple, no es binario sino que tiene 3 o más posibles ramas para la decisión. Este tipo de selector permite elegir entre un número determinado de posibilidades, un número discreto (finito) de ellas. Por esta razón es que si se necesita evaluar un conjunto contínuo (infinito) de posibles valores, este tipo de selector no es apropiado para ello.
+La estructura selectiva permite que el flujo del diagrama se bifurque por varias ramas en el punto de la toma de decisión(es), esto en función del valor que tome el selector.
+
+El selector múltiple, a diferencia del selector simple, no es binario sino que tiene 3 o más posibles ramas para la decisión.
+
+Este tipo de selector permite elegir entre un número determinado de posibilidades, un número discreto (finito) de ellas. Por esta razón es que si se necesita evaluar un conjunto contínuo (infinito) de posibles valores, este tipo de selector no es apropiado para ello.
 
 <center>
     <img src='./../assets/images/Porgramacion/Condicion_multiple.png'>
@@ -403,31 +409,31 @@ La estructura selectiva permite que el flujo del diagrama se bifurque por varias
 
 ### Estructuras Algorítmicas Repetitivas
 
- En la construcción de algoritmos para resolver un problema específico es muy común encontrarse con la necesidad de repetir alguna operación para la realización de esa tarea. En dicha repetición, que a partir de ahora llamaremos iteración, puede ser necesario resolver alguna(s) operación(es) aritmética(s) o la evaluación de alguna decisión. En cualquier caso se necesitan de las estructuras algorítmicas repetitivas.
+En la construcción de algoritmos para resolver un problema específico es muy común encontrarse con la necesidad de repetir alguna operación para la realización de esa tarea. En dicha repetición, que a partir de ahora llamaremos `iteración`, puede ser necesario resolver alguna(s) operación(es) aritmética(s) o la evaluación de alguna decisión. En cualquier caso se necesitan de las estructuras algorítmicas repetitivas.
 
 Todo ciclo debe terminar de ejcutarse luego de un número finito de iteraciones, por lo que es necesario verificar la(s) condición(es) en cada iteración para determinar si se debe continuar la ejecución o detenerse.
 
 De esta forma todos los ciclos tienen estos tres elementos:
 
-* Condición Inicial: Es el punto de partida del ciclo, debe ser una condición verdadera para que el ciclo pueda iniciar.
-* Condición Final: Establece el punto final del ciclo, una vez que se cumpla la condición el ciclo deberá terminar.
-* Incremento/Decremento/Cambio: Es el cambio de las variables que controlan el ciclo. El cambio puede ser un incremento, decremento o alguna otra condición.
+* `Condición Inicial`: Es el punto de partida del ciclo, debe ser una condición verdadera para que el ciclo pueda iniciar.
+* `Condición Final`: Establece el punto final del ciclo, una vez que se cumpla la condición el ciclo deberá terminar.
+* `Incremento`/`Decremento`/`Cambio`: Es el cambio de las variables que controlan el ciclo. El cambio puede ser un incremento, decremento o alguna otra condición.
 
 ### Estructura Repetitiva repetir
 
-La estructura repetir conocida comúnmente como for, es la estructura algorítmica cuya característica principal es que se sabe de antemano el número de iteraciones que ocurrirán. Este tipo de estrcutura está presente en todos los lenguajes de programación.
+La estructura repetir conocida comúnmente como `for`, es la estructura algorítmica cuya característica principal es que se sabe de antemano el número de iteraciones que ocurrirán. Este tipo de estrcutura está presente en todos los lenguajes de programación.
 
-El diagrama de flujo de la estructura repetir es el siguiente: 
+El diagrama de flujo de la estructura repetir es el siguiente:
 
 <center>
     <img src='./../assets/images/Porgramacion/repetir.png'>
 </center>
 
- Para utilizar este ciclo se debe establecer un punto de partida, un fin y como se progresará desde el inicio al final; es decir, una condición incial, una condición final y un cambio. Como se sabe toda esta información de antemano, por lo tanto se sabe el número de iteraciones que realizará el ciclo. El control de las iteraciónes lo realiza una variable de control.
+ Para utilizar este ciclo se debe establecer un punto de partida, un fin y como se progresará desde el inicio al final; es decir, una condición incial, una condición final y un cambio. Como se sabe toda esta información de antemano, por lo tanto se sabe el número de iteraciones que realizará el ciclo. El control de las iteraciónes lo realiza una `variable de control`.
 
 Para comenzar el ciclo, la variable de control toma el valor establecido en la condición inicial y se evalúa contra la condición final, y si el resultado de dicha evaluación es verdadero se realiza una iteración del ciclo. Dentro del ciclo hay una o muchas operaciones que se pueden llevar a cabo, y al final de todas ellas debe ocurrir un incremento, decremento o un cambio en la variable que controla el ciclo.
 
-Por ejemplo, considere que existe una operación X que necesita ser realizada 10 veces. Debemos definir la variable de control del ciclo, digamos i. Dicha variable i deberá contar el número de iteraciones, es decir, deberá comenzar con un valor de 1 y terminará cuando valga 10. Por lo tanto, la condición inicial es i=1, la condición final i=10 y el cambio de la variable es un incremento en 1.
+Por ejemplo, considere que existe una operación `X` que necesita ser realizada 10 veces. Debemos definir la variable de control del ciclo, digamos `i`. Dicha variable i deberá contar el número de iteraciones, es decir, deberá comenzar con un valor de 1 y terminará cuando valga 10. Por lo tanto, la condición inicial es i=1, la condición final i=10 y el cambio de la variable es un incremento en 1.
 
 El diagrama de flujo correspondiente es el siguiente:
 
@@ -435,13 +441,15 @@ El diagrama de flujo correspondiente es el siguiente:
     <img src='./../assets/images/Porgramacion/repetir_2.png'>
 </center>
 
- Observe que la condición final se estableció como i<=10 siendo quizás la manera más obvia i!=10, para entender el porque considere lo siguiente. Dado que la variable i comienza en 1 y el incremento también es en 1, todos los valores que tomará la variable i dentro del ciclo son menores o iguales que 10, razón por la cual se establece de esa forma.
+Observe que la condición final se estableció como `i<=10` siendo quizás la manera más obvia i!=10, para entender el porque considere lo siguiente. Dado que la variable i comienza en 1 y el incremento también es en 1, todos los valores que tomará la variable i dentro del ciclo son menores o iguales que 10, razón por la cual se establece de esa forma.
 
-Considere además que si pusieramos como condición i!=10 el ciclo funcionaría de manera idéntica para este ejemplo, pero si por alguna razón en algún momento de la ejecución del ciclo la variable i tomara un valor distinto a los esperados, no tendríamos forma de saberlo y esto ocasionaría que el ciclo se comportara de maneras inesperadas. Este tipo de situaciones son comunes sobre todo cuando los algoritmos son más complejos y existen más operaciones dentro del ciclo. Por esta razón es más conveniente optar por esta convención ya que nos evitará problemas en el futuro.
+Considere además que si pusieramos como condición `i!=10` el ciclo funcionaría de manera idéntica para este ejemplo, pero si por alguna razón en algún momento de la ejecución del ciclo la variable i tomara un valor distinto a los esperados, no tendríamos forma de saberlo y esto ocasionaría que el ciclo se comportara de maneras inesperadas.
+
+Este tipo de situaciones son comunes sobre todo cuando los algoritmos son más complejos y existen más operaciones dentro del ciclo. Por esta razón es más conveniente optar por esta convención ya que nos evitará problemas en el futuro.
 
 ### Estructura Repetitiva Mientras
 
- La estructura mientras conocida comúnmente como while, es la estructura algorímtica cuya característica principal es que no se sabe de antemano el número de iteraciones que ocurrirán. Esta estructura también se encuentra presente en todos los lenguajes de programación.
+La estructura `mientras` conocida comúnmente como `while`, es la estructura algorímtica cuya característica principal es que no se sabe de antemano el número de iteraciones que ocurrirán. Esta estructura también se encuentra presente en todos los lenguajes de programación.
 
 El diagrama de flujo de la estructura mientras es el siguiente:
 
@@ -449,7 +457,7 @@ El diagrama de flujo de la estructura mientras es el siguiente:
     <img src='./../assets/images/Porgramacion/mientras.png'>
 </center>
 
- Para utilizar este ciclo se debe establecer un punto de partida y un final; es decir, una condición incial y una condición final. El control de las iteraciónes lo realiza una variable de control. Para comenzar el ciclo la variable de control toma el valor de la condición inicial y en cada iteración se evalúa esta variable de control contra la condición final. El ciclo realizará iteraciones mientras tal evaluación sea verdadera.
+Para utilizar este ciclo se debe establecer un punto de partida y un final; es decir, una condición incial y una condición final. El control de las iteraciónes lo realiza una variable de control. Para comenzar el ciclo la variable de control toma el valor de la condición inicial y en cada iteración se evalúa esta variable de control contra la condición final. El ciclo realizará iteraciones mientras tal evaluación sea verdadera.
 
 A diferencia de repetir, en el ciclo mientras no se sabe necesariamente con exactitud como cambia la variable de control, lo que si se debe saber con precisión es donde comienza el ciclo y donde termina. Por lo tanto, como no se sabe toda esa información, tampoco se sabe el número de iteraciones que realizará el ciclo.
 
@@ -459,51 +467,63 @@ A diferencia de repetir, en el ciclo mientras no se sabe necesariamente con exac
     <img src='./../assets/images/Porgramacion/Codificacion.jpg' width="100%" height="50%">
 </center>
 
-Si bien hay distintos lenguajes de programación, una computadora en definitiva es un aparato que sólo sabe hablar en *binario*, es decir, sólo interpreta señales eléctricas con dos estados posibles, los cuales son representados por los *dígitos binarios* (0, 1). Este sistema de código con ceros y unos que la computadora interpreta como instrucciones o conjuntos de datos se llama lenguaje de máquina *(código de máquina)*.
+Si bien hay distintos lenguajes de programación; una computadora en definitiva es un aparato que sólo sabe hablar en `binario`, es decir, sólo interpreta señales eléctricas con dos estados posibles, los cuales son representados por los `dígitos binarios (0, 1)`. Este sistema de código con ceros y unos que la computadora interpreta como instrucciones o conjuntos de datos se llama lenguaje de máquina *(código de máquina)*.
 
 A principios de la década de 1950 se inventaron los *lenguajes ensambladores*, que usan palabras para representar simbólicamente las operaciones que debe realizar la computadora. Cada una de estas palabras reemplaza un código de máquina binario, siendo un poco más fácil de programar.
 
-En programación, la idea de simplificar un proceso complejo ignorando algunas de sus partes para comprender mejor lo que hay que realizar y así resolver un problema se conoce como *abstracción*. Los lenguajes de programación pueden tener distintos niveles de abstracción:
+En programación, la idea de simplificar un proceso complejo ignorando algunas de sus partes para comprender mejor lo que hay que realizar y así resolver un problema se conoce como `abstracción`. Los lenguajes de programación pueden tener distintos niveles de abstracción:
 
-* **Lenguajes de bajo nivel**: permiten controlar directamente el hardware de la computadora, son específicos para cada tipo de máquina, y son más rígidos y complicados de entender para nosotros. El *lenguaje ensamblador* entra en esta categoría.
+* `Lenguajes de bajo nivel`: permiten controlar directamente el hardware de la computadora, son específicos para cada tipo de máquina, y son más rígidos y complicados de entender para nosotros. El *lenguaje ensamblador* entra en esta categoría.
 
-* **Lenguajes de alto nivel**: diseñados para que sea fácil para los humanos expresar los algoritmos sin necesidad de entender en detalle cómo hace exactamente el hardware para ejecutarlos.
+* `Lenguajes de alto nivel`: diseñados para que sea fácil para los humanos expresar los algoritmos sin necesidad de entender en detalle cómo hace exactamente el hardware para ejecutarlos.
 
-* **Lenguajes de nivel medio**: son lenguajes con características mixtas entre ambos grupos anteriores.
+* `Lenguajes de nivel medio`: son lenguajes con características mixtas entre ambos grupos anteriores.
 
-Si bien podemos programar usando un lenguaje de alto nivel para que nos resulte más sencillo, alguien o algo debe traducirlo a lenguaje de máquina para que la computadora, que sólo entiende de ceros y unos, pueda realizar las tareas. Para estos procesos de traducción se crearon los *compiladores* e *intérpretes*.
+Si bien podemos programar usando un lenguaje de alto nivel para que nos resulte más sencillo, alguien o algo debe traducirlo a lenguaje de máquina para que la computadora, que sólo entiende de ceros y unos, pueda realizar las tareas. Para estos procesos de traducción se crearon los `compiladores` e `intérpretes`.
 
-Un **compilador** es un programa que toma el código escrito en un lenguaje de alto nivel y lo traduce a código de máquina, guardándolo en un archivo que la computadora ejecutará posteriormente (archivo ejecutable ".exe").
+Un `compilador` es un programa que toma el código escrito en un lenguaje de alto nivel y lo traduce a código de máquina, guardándolo en un archivo que la computadora ejecutará posteriormente (archivo ejecutable ".exe").
 
-Para ilustrar el rol del compilador, imaginemos que alguien que sólo habla español le quiere mandar una carta escrita en español a alguien que vive en Alemania y sólo habla alemán. Cuando esta persona la reciba, no la va a entender. Se necesita de un intermediario que tome la carta en español, la traduzca y la escriba en alemán y luego se la mande al destinatario, quien ahora sí la podrá entender. Ese es el rol de un compilador en la computadora. 
+Para ilustrar el rol del compilador, imaginemos que alguien que sólo habla español le quiere mandar una carta escrita en español a alguien que vive en Alemania y sólo habla alemán. Cuando esta persona la reciba, no la va a entender. Se necesita de un intermediario que tome la carta en español, la traduzca y la escriba en alemán y luego se la mande al destinatario, quien ahora sí la podrá entender. Ese es el rol de un compilador en la computadora.
 
 Ahora bien, el resultado de la traducción, que es la carta escrita en alemán, sólo sirve para gente que hable alemán. Si se quiere enviar el mismo mensaje a personas que hablen otros idiomas, necesitaremos hacer la traducción que corresponda. De la misma forma, el código generado por un compilador es específico para cada máquina, depende de su arquitectura.
 
-Un **intérprete** es un programa que traduce el código escrito en lenguaje de alto nivel a código de máquina, pero lo va haciendo a medida que se necesita, es decir, su resultado reside en la memoria temporal de la computadora y no se genera ningún archivo ejecutable. 
+Un `intérprete` es un programa que traduce el código escrito en lenguaje de alto nivel a código de máquina, pero lo va haciendo a medida que se necesita, es decir, su resultado reside en la memoria temporal de la computadora y no se genera ningún archivo ejecutable.
 
 Siguiendo con el ejemplo anterior, es similar a viajar a Alemania con un intérprete que nos vaya traduciendo en vivo y en directo cada vez que le queramos decir algo a alguien de ese país.
 
 Concluyendo, gracias al concepto de la abstracción podemos escribir programas en un lenguaje que nos resulte fácil entender, y gracias al trabajo de los compiladores e intérpretes la computadora podrá llevar a cabo las tareas necesarias.
 
-Cada una de las acciones que componen al algoritmo son codificadas con una o varias instrucciones, expresadas en el lenguaje de programación elegido, y el conjunto de todas ellas constituye un programa. 
+Cada una de las acciones que componen al algoritmo son codificadas con una o varias instrucciones, expresadas en el lenguaje de programación elegido, y el conjunto de todas ellas constituye un programa.
 
 ### Errores de programación
 
-Apenas iniciemos nuestro camino en el mundo de la programación nos daremos cuenta que tendremos siempre ciertos compañeros de viaje: **los errores**. Muchas veces nos pasará que queremos ejecutar nuestro código y el mismo no se ejecuta o no se obtiene el resultado esperado. 
+Apenas iniciemos nuestro camino en el mundo de la programación nos daremos cuenta que tendremos siempre ciertos compañeros de viaje: `los errores`. Muchas veces nos pasará que queremos ejecutar nuestro código y el mismo no se ejecuta o no se obtiene el resultado esperado.
 
 No importa lo cuidadosos que seamos, ni cuánta experiencia tengamos, los errores están siempre presentes. Con el tiempo y práctica, vamos a poder identificarlos y corregirlos con mayor facilidad, pero probablemente nunca dejemos de cometerlos.
 
-A los errores en programación se los suele llamar *bugs* (insecto en inglés) y el proceso de la corrección de los mismos se conoce como *debugging* (depuración). 
+A los errores en programación se los suele llamar `bugs` (insecto en inglés) y el proceso de la corrección de los mismos se conoce como `debugging` (depuración).
 
 A continuación, se presenta una de las posibles clasificaciones de los errores que se pueden cometer en programación:
 
-* **Errores de sintaxis**. Tal como el lenguaje humano, los lenguajes de programación tienen su propio vocabulario y su propia sintaxis, se trata del conjunto de reglas gramaticales que establecen cómo se pueden combinar las distintas partes. Estas reglas sintácticas determinan que ciertas instrucciones están correctamente construidas, mientras que otras no. Cuando ejecutamos un programa, el compilador o el intérprete chequea si el mismo es sintácticamente correcto. Si hemos violado alguna regla, por ejemplo, nos faltó una coma o nos sobra un paréntesis, mostrará un mensaje de error y debemos editar nuestro programa para corregirlo. En estos casos, hay que interpretar el mensaje de error, revisar el código y corregir el error.
+* `Errores de sintaxis`. Tal como el lenguaje humano, los lenguajes de programación tienen su propio vocabulario y su propia sintaxis, se trata del conjunto de reglas gramaticales que establecen cómo se pueden combinar las distintas partes.
 
-* **Errores lógicos**. Se presentan cuando el programa puede ser compilado sin errores, pero arroja resultados incorrectos o ningún resultado. El software no muestra mensajes de error, debido a que, por supuesto, no sabe cuál es el resultado deseado, sino que sólo se limita a hacer lo que hemos programado. En estos casos hay que revisar el programa para encontrar algún error en su lógica. *Este tipo de errores suelen ser los más problemáticos*. Algunas ideas para enfrentarlos incluyen volver a pensar paso por paso lo que se debería hacer para solucionar el problema y compararlo con lo que se ha programado, agregar pasos para mostrar resultados intermedios o emplear herramientas especializadas de debugging (*debugger*) para explorar el código paso a paso hasta identificar el error.
+Estas reglas sintácticas determinan que ciertas instrucciones están correctamente construidas, mientras que otras no. Cuando ejecutamos un programa, el compilador o el intérprete chequea si el mismo es sintácticamente correcto.
 
-* **Errores en la ejecución**. Se presentan cuando el programa está bien escrito, sin errores lógicos ni sintácticos, pero igualmente se comporta de alguna forma incorrecta. Se dan a pesar de que el programa ande bien en el entorno de desarrollo del programador, pero no cuando algún usuario lo utiliza en algún contexto particular. Puede ser que se intente abrir un archivo que no existe, que el proceso supere la memoria disponible, que tomen lugar operaciones aritméticas no definidas como la división por cero, etc.
+Si hemos violado alguna regla, por ejemplo, nos faltó una coma o nos sobra un paréntesis, mostrará un mensaje de error y debemos editar nuestro programa para corregirlo. En estos casos, hay que interpretar el mensaje de error, revisar el código y corregir el error.
 
-Los errores en la programación son tan comunes, que un científico de la computación muy reconocido, Edsger Dijkstra, dijo una vez: *“si la depuración es el proceso de eliminar errores, entonces la programación es el proceso de generarlos”*. Ante la presencia de uno, no hay más que respirar profundo y con paciencia revisar hasta encontrarlo y solucionarlo.
+* `Errores lógicos`. Se presentan cuando el programa puede ser compilado sin errores, pero arroja resultados incorrectos o ningún resultado.
+
+El software no muestra mensajes de error, debido a que, por supuesto, no sabe cuál es el resultado deseado, sino que sólo se limita a hacer lo que hemos programado.
+
+En estos casos hay que revisar el programa para encontrar algún error en su lógica. *Este tipo de errores suelen ser los más problemáticos*.
+
+Algunas ideas para enfrentarlos incluyen volver a pensar paso por paso lo que se debería hacer para solucionar el problema y compararlo con lo que se ha programado, agregar pasos para mostrar resultados intermedios o emplear herramientas especializadas de debugging (*debugger*) para explorar el código paso a paso hasta identificar el error.
+
+* `Errores en la ejecución`. Se presentan cuando el programa está bien escrito, sin errores lógicos ni sintácticos, pero igualmente se comporta de alguna forma incorrecta.
+
+Se dan a pesar de que el programa ande bien en el entorno de desarrollo del programador, pero no cuando algún usuario lo utiliza en algún contexto particular. Puede ser que se intente abrir un archivo que no existe, que el proceso supere la memoria disponible, que tomen lugar operaciones aritméticas no definidas como la división por cero, etc.
+
+Los errores en la programación son tan comunes, que un científico de la computación muy reconocido, Edsger Dijkstra, dijo una vez: `“si la depuración es el proceso de eliminar errores, entonces la programación es el proceso de generarlos”.` Ante la presencia de uno, no hay más que respirar profundo y con paciencia revisar hasta encontrarlo y solucionarlo.
 
 ## Lógica de programación
 
