@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Seguridad de la Información
+title: Seguridad de la Información (InfoSec)
 excerpt: "La información se ha convertido en el recurso más valioso hoy en día, ya que con ella se puede realizar estafas, delitos e incluso se puede vender al mejor postor para diferentes objetivos."
 date: 2023-09-29
 classes: wide
@@ -18,7 +18,9 @@ tags:
     <img src='./../assets/images/Seguridad/Intro.jpg'>
 </center>
 
-La `seguridad de la información` es un conjunto de medidas y técnicas utilizadas para controlar y salvaguardar todos los datos que se manejan dentro de una organización y asegurar que los datos no salgan del sistema que ha establecido la organización. Es una pieza clave para que las empresas puedan llevar a cabo sus operaciones, ya que los datos que maneja son esenciales para la actividad que desarrollan.
+La `seguridad de la información`, que suele abreviarse como InfoSec, es un conjunto de medidas y técnicas utilizadas para controlar y salvaguardar todos los datos que se manejan dentro de una organización frente al uso indebido, acceso no autorizado, interrupción o destrucción, y asegurar que los datos no salgan del sistema que ha establecido la organización. Es una pieza clave para que las empresas puedan llevar a cabo sus operaciones, ya que los datos que maneja son esenciales para la actividad que desarrollan.
+
+InfoSec comprende la seguridad física y del entorno, el control de acceso y la ciberseguridad. Suele incluir tecnologías como agente de seguridad de acceso a la nube (CASB), herramientas de engaño, detección y respuesta en el punto de conexión (EDR) y pruebas de seguridad para DevOps (DevSecOps), entre otras.
 
 Es importante comprender que cualquier organización, independientemente de su tamaño, cuenta con datos confidenciales, (clientes, trabajadores, proveedores, socios, etc...), es decir, todos los datos que se procesan a diario en los sistemas de una empresa, y por ello tiene que establecer las medidas de seguridad en protección de datos necesarios para garantizar el correcto tratamiento de estos.
 
@@ -156,3 +158,54 @@ Si una empresa no se ocupa de un manejo seguro de la información, pueden haber 
 * Fuga de información confidencial.
 * Pérdida de la confianza de tus clientes.
 * Afectación de la imagen de la empresa, que puede verse muy comprometida.
+
+### Elementos clave
+
+* `Seguridad de aplicaciones`. Políticas, procedimientos, herramientas y procedimientos recomendados que se aplican para proteger las aplicaciones y sus datos.
+* `Seguridad en la nube`. Políticas, procedimientos, herramientas y procedimientos recomendados que se aplican para proteger todos los aspectos de la nube, incluidos sistemas, datos, aplicaciones e infraestructura.
+* `Criptografía`. Método basado en algoritmos para proteger la comunicación para garantizar que solo los destinatarios de un mensaje específico pueden verlo y descifrarlo.
+* `Recuperación ante desastres`. Método para restablecer los sistemas tecnológicos funcionales tras un evento disruptivo como, por ejemplo, un desastre natural o un ciberataque.
+* `Respuesta a incidentes`. El plan de respuesta de la organización para corregir y administrar las consecuencias de un ciberataque, una vulneración de datos u otro evento disruptivo.
+* `Seguridad de infraestructura`. La seguridad que comprende toda la infraestructura tecnológica de una organización, incluyendo tanto los sistemas de hardware como de software.
+* `Administración de vulnerabilidades`. El proceso que lleva a cabo una organización para identificar, evaluar y corregir vulnerabilidades en sus puntos de conexión, software y sistemas.
+
+## Amenazas de seguridad de la información comunes
+
+* `Ataque de amenaza persistente avanzada (APT)`: Un ciberataque sofisticado que se da durante un período prolongado de tiempo durante el que un atacante (o grupo de atacantes) no detectado obtiene acceso a la red y datos de la empresa.
+* `Red de robots (botnet)`: Derivado del término "robot network", una botnet conforma una red de dispositivos conectados que un atacante infecta con código malicioso y controla de forma remota.
+* `Ataques de denegación de servicio distribuidos (DDoS)`: Los ataques DDoS usan redes de robots (botnets) para sobrecargar el sitio web o aplicación de una organización, lo que resulta en un bloqueo o denegación de servicio a los usuarios o visitantes válidos.
+* `Ataque de descarga oculta`: Un fragmento de código malicioso que se descarga automáticamente en el dispositivo de un usuario tras visitar una página web y que hace que el usuario sea vulnerable a otras amenazas de seguridad.
+* `Kit de vulnerabilidad de seguridad`: Un conjunto integral de herramientas que usan vulnerabilidades de seguridad para detectar otras que les permitan infectar dispositivos con malware.
+* `Amenaza interna`: Existe la posibilidad de que alguien interno a la organización aproveche (consciente o inconscientemente) el acceso autorizado para dañar o hacer vulnerables los sistemas, redes y datos de la organización.
+* `Ataque tipo Man-in-the-middle (MitM)`: Un atacante malicioso interrumpe una línea de comunicación o transferencia de datos haciéndose pasar por un usuario válido para robar información o datos.
+* `Ataque de phishing`: Los ataques de phishing se hacen pasar por organizaciones o usuarios legítimos para robar información por correo, mensaje de texto u otros métodos de comunicación.
+* `Ransomware`: Un ataque de extorsión por malware que cifra la información de una organización o persona impidiendo el acceso hasta que se pague un rescate.
+* `Ingeniería social`: Ciberataques que tienen su origen en interacciones humanas. El atacante se gana la confianza de la víctima a través de un señuelo, scareware o phishing, recoge información personal y la usa para llevar a cabo un ataque.
+* `Ataque en redes sociales`: Ciberataques que tienen como objetivo plataformas de redes sociales, aprovechándolas como mecanismo de entrega o para robar información y datos de los usuarios.
+* `Virus y gusanos`: Malware malicioso indetectable que puede replicarse a sí mismo a lo largo de la red o sistema de un usuario.
+
+## Tecnologías utilizadas para la seguridad de la información
+
+### Agentes de seguridad de acceso a la nube (CASB)
+
+Puntos de cumplimiento de la política de seguridad que se posicionan entre usuarios de la empresa y proveedores del servicio en la nube que combinan varias políticas de seguridad diferentes, desde la autenticación y asignación de credenciales al cifrado, detección de malware y más. Los CASB tienen su función en aplicaciones autorizadas y no autorizadas y dispositivos administrados y no administrados.
+
+### Prevención de pérdida de datos
+
+La prevención de pérdida de datos (DLP) comprende las políticas, procedimientos, herramientas y procedimientos recomendados que se aplican para evitar la pérdida o uso indebido de datos confidenciales. Las herramientas clave incluyen el cifrado o transformación de texto sin formato en texto cifrado a través de un algoritmo y la tokenización o asignación de un conjunto de números aleatorios a los datos y el uso de una base de datos de tokens para almacenar la relación.
+
+### Detección y respuesta de puntos de conexión (EDR)
+
+La EDR es una solución de seguridad que emplea un conjunto de herramientas para detectar e investigar las amenazas y responder a ellas en dispositivos de punto de conexión.
+
+### Microsegmentación
+
+La microsegmentación divide los centros de datos en zonas múltiples, granulares, seguras o segmentos que mitigan los niveles de riesgo.
+
+### Pruebas de seguridad para DevOps (DevSecOps)
+
+DevSecOps es el proceso de integración de medidas de seguridad en cada paso del proceso de desarrollo, de forma que se aumenta la velocidad y se mejora la oferta de procesos de seguridad más proactivos.
+
+### Análisis de comportamiento de usuario y entidad (UEBA)
+
+UEBA es el proceso de observación del comportamiento típico de un usuario para detectar acciones que se salen de lo normal. Esto ayuda a las empresas a identificar amenazas potenciales.
