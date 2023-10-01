@@ -29,7 +29,8 @@ Fomentar la seguridad de la información es fundamental para evitar que personas
 Si partimos del hecho de que la seguridad de la información puede cambiar en función de las características de cada organización y del sector al que dedique su actividad económica, podemos hablar de una serie de objetivos comunes que comparten todas las organizaciones del ámbito de la seguridad de la información y la protección de datos.
 
 ```text
-El propósito de la seguridad de la información es blindar a la organización de ataques digitales de ciberdelincuentes así como protegerla de fugas de datos y accidentes tecnológicos.
+El propósito de la seguridad de la información es blindar a la organización de ataques digitales
+de ciberdelincuentes así como protegerla de fugas de datos y accidentes tecnológicos.
 ```
 
 Encontramos estos objetivos de la seguridad de la información en la norma `ISO 27001`. La norma establece un modelo para la implementación de sistemas de gestión de seguridad de la información. El principal fin que persigue la norma ISO 27001 es la protección de los activos de información, es decir, equipos, usuarios e información.
