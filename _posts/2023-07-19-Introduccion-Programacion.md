@@ -689,7 +689,7 @@ Las opciones de la herramienta de línea de comandos difieren en función del si
 ## Documentación del desarrollador
 
 <center>
-    <img src='./../assets/images/Porgramacion/documentacion.jpeg'>
+    <img src='./../assets/images/Porgramacion/documentacion.png'>
 </center>
 
 Cuando los desarrolladores quieran aprender algo nuevo, lo más probable es que recurran a documentación de expertos. La documentación de expertos puede orientarlos en cómo usar los lenguajes y las herramientas de programación correctamente, y ayudarles a ampliar sus conocimientos sobre cómo encajan todos.
