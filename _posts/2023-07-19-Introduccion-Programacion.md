@@ -531,9 +531,9 @@ Los errores en la programación son tan comunes, que un científico de la comput
     <img src='./../assets/images/Porgramacion/logica.png'>
 </center>
 
-Es importante tener en cuenta que practicar y aprender de los errores son aspectos esenciales para aprender sobre lógica de programación, y una cierta afinidad con las **matemáticas** y el **inglés** ayudarán bastente en la lógica y comprensión de los lenguajes de programación.
+Es importante tener en cuenta que practicar y aprender de los errores son aspectos esenciales para aprender sobre lógica de programación, y una cierta afinidad con las `matemáticas` y el `inglés` ayudarán bastante en la lógica y comprensión de los lenguajes de programación.
 
-El estudio de la programación está conectado directamente al área de las *ciencias exactas*; y las matemáticas, con sus reglas, estarán presente en diversos momentos. Por otro lado el inglés, es fundamental en cualquier profesión, también será importante, ya que al programar encontrarás una mayor variedad de cursos y materiales en este idioma. Y además, la mayoría de los lenguajes de programación utilizan el inglés como base.
+El estudio de la programación está conectado directamente al área de las `ciencias exactas`; y las matemáticas, con sus reglas, estarán presente en diversos momentos. Por otro lado el inglés, es fundamental en cualquier profesión, también será importante, ya que al programar encontrarás una mayor variedad de cursos y materiales en este idioma. Y además, la mayoría de los lenguajes de programación utilizan el inglés como base.
 
 La lógica es la base de todo el conocimiento en programación, ya que es posible aprender a escribir un código para que la computadora interprete correctamente. Es decir que aprendes a comunicarte con la máquina a partir de un lenguaje.
 
@@ -545,9 +545,9 @@ Por eso organizar la información de forma clara y en el orden adecuado es primo
 
 Seguramente ya has escuchado hablar sobre variables y constantes cuando se trata de programación, ¿no es verdad? Son valores que componen cálculos o condiciones y están presentes en todas las partes del programa.
 
-Una *variable* es un espacio para almacenar un tipo de dato que puede ser modificado cuando sea necesario.
+Una `variable` es un espacio para almacenar un tipo de dato que puede ser modificado cuando sea necesario.
 
-En cambio la *constante* posee un dato definido al inicio del programa y no podrá ser alterado.
+En cambio la `constante` posee un dato definido al inicio del programa y no podrá ser alterado.
 
 ## Programa
 
@@ -561,7 +561,7 @@ Aunque es posible crear un programa sin escribir código, el dispositivo interpr
 
 ## Lenguajes de Programación
 
-Los lenguajes de programación se presentan en diferentes formatos y pueden servir para distintos propósitos. Por ejemplo, *JavaScript* se usa principalmente para aplicaciones web, y *Bash* se usa principalmente para sistemas operativos.
+Los lenguajes de programación se presentan en diferentes formatos y pueden servir para distintos propósitos. Por ejemplo, `JavaScript` se usa principalmente para aplicaciones web, y `Bash` se usa principalmente para sistemas operativos.
 
 ### Elementos de un programa
 
@@ -573,17 +573,21 @@ Una única indicación de un programa se denomina instrucción. Normalmente, una
 
 La mayoría de los programas se basan en el uso de los datos obtenidos de un usuario u otro origen, donde las instrucciones pueden basarse en estos datos para llevar a cabo instrucciones. Los datos pueden cambiar el comportamiento de un programa, por lo que los lenguajes de programación ofrecen una forma de almacenar temporalmente los datos para su uso posterior.
 
-Los datos se almacenan en una instrucción denominada *variable*. Las variables son instrucciones que indican a un dispositivo que guarde los datos en su memoria. Las variables de los programas son similares a las de álgebra, donde tienen un nombre único y su valor puede cambiar con el tiempo.
+Los datos se almacenan en una instrucción denominada `variable`. Las variables son instrucciones que indican a un dispositivo que guarde los datos en su memoria. Las variables de los programas son similares a las de álgebra, donde tienen un nombre único y su valor puede cambiar con el tiempo.
 
 ### Control de flujo
 
 Es posible que un dispositivo no ejecute algunas instrucciones. Esto suele ocurrir por diseño, según lo que escriba el desarrollador, o por accidente, a raíz de un error inesperado.
 
-Controlar el flujo de una aplicación hace que sea más sólida y fácil de mantener. Los cambios en el control suelen producirse cuando se cumplen determinadas condiciones. 
+Controlar el flujo de una aplicación hace que sea más sólida y fácil de mantener. Los cambios en el control suelen producirse cuando se cumplen determinadas condiciones.
 
-Una instrucción común de los lenguajes de programación modernos, para controlar cómo se ejecuta un programa, es (if, else).
+Una instrucción común de los lenguajes de programación modernos, para controlar cómo se ejecuta un programa, es `(if, else)`.
 
 ## Herramientas profesionales
+
+<center>
+    <img src='./../assets/images/Porgramacion/Tools.jpg'>
+</center>
 
 La capacidad de desarrollar código rápidamente es fundamental. Tener una herramienta para ello no solo aporta velocidad, sino que también suele ayudarle con el formato y la exactitud.
 
@@ -595,13 +599,13 @@ Una de las herramientas más cruciales para el desarrollo de software es el ento
 
 Los desarrolladores confían en los editores para sus características útiles, entre las que se incluyen:
 
-* **Depuración**: ayuda a detectar errores mediante la ejecución del código paso a paso, línea por línea. Algunos editores tienen funcionalidades de depuración o se pueden personalizar para lenguajes de programación específicos.
+* `Depuración`: ayuda a detectar errores mediante la ejecución del código paso a paso, línea por línea. Algunos editores tienen funcionalidades de depuración o se pueden personalizar para lenguajes de programación específicos.
 
-* **Resaltado de sintaxis**: agrega colores y formato de texto al código, lo que facilita la lectura. La mayoría de los editores permiten el resaltado de sintaxis personalizado.
+* `Resaltado de sintaxis`: agrega colores y formato de texto al código, lo que facilita la lectura. La mayoría de los editores permiten el resaltado de sintaxis personalizado.
 
-* **Extensiones e integraciones**: agregue características especializadas que proporcionen acceso a otras herramientas que no están integradas en el editor base. Por ejemplo, muchos desarrolladores también necesitan una manera de documentar su código, explicar cómo funciona o instalar una extensión de corrección ortográfica para comprobar si hay errores tipográficos. La mayoría de estas adiciones están pensadas para su uso dentro de un editor específico, y la mayoría de los editores incluyen una manera de buscar las extensiones disponibles.
+* `Extensiones e integraciones`: agregue características especializadas que proporcionen acceso a otras herramientas que no están integradas en el editor base. Por ejemplo, muchos desarrolladores también necesitan una manera de documentar su código, explicar cómo funciona o instalar una extensión de corrección ortográfica para comprobar si hay errores tipográficos. La mayoría de estas adiciones están pensadas para su uso dentro de un editor específico, y la mayoría de los editores incluyen una manera de buscar las extensiones disponibles.
 
-* **Personalización**: la mayoría de los editores son personalizables, lo que permite a los desarrolladores crear sus propios entornos de desarrollo únicos. Muchos editores también permiten a los desarrolladores crear sus propias extensiones.
+* `Personalización`: la mayoría de los editores son personalizables, lo que permite a los desarrolladores crear sus propios entornos de desarrollo únicos. Muchos editores también permiten a los desarrolladores crear sus propias extensiones.
 
 A continuación, se indican algunos editores y extensiones de desarrollo web populares:
 
@@ -616,6 +620,10 @@ A continuación, se indican algunos editores y extensiones de desarrollo web pop
   * [Atom-Beautify](https://github.blog/2022-06-08-sunsetting-atom/)
 
 ## Tecnologías del explorador
+
+<center>
+    <img src='./../assets/images/Porgramacion/navegadores.webp'>
+</center>
 
 La ejecución de los programas en Internet requiere algún tipo de cliente para ayudarle a ver la salida. Un tipo común de cliente es un explorador web, con el que puede ver el contenido e interactuar con él.
 
@@ -637,17 +645,17 @@ A continuación, se indican algunos exploradores y herramientas de desarrollo po
 
 Como desarrollador, es probable que use herramientas de línea de comandos para realizar algunas o todas las tareas de programación. Dado que los entornos de desarrollo son únicos para cada desarrollador, algunos evitan usar la línea de comandos, otros se basan exclusivamente en ella y otros prefieren combinar ambas opciones.
 
-**¿Por qué son útiles las herramientas de línea de comandos?**
+### ¿Por qué son útiles las herramientas de línea de comandos?
 
 La línea de comandos, en comparación con una interfaz gráfica de usuario, no tiene ningún elemento gráfico y se basa principalmente en texto. Las razones para usar la línea de comandos son muchas:
 
-* **Preferencia**: algunos desarrolladores prefieren una vista menos gráfica para sus tareas de programación diarias.
+* `Preferencia`: algunos desarrolladores prefieren una vista menos gráfica para sus tareas de programación diarias.
 
-* **Mejor flujo de trabajo**: el desarrollo de código requiere una cantidad significativa de escritura, y algunos desarrolladores prefieren no interrumpir su flujo en el teclado. Usan métodos abreviados de teclado para intercambiar entre ventanas de escritorio, trabajar en varios archivos y abrir herramientas.
+* `Mejor flujo de trabajo`: el desarrollo de código requiere una cantidad significativa de escritura, y algunos desarrolladores prefieren no interrumpir su flujo en el teclado. Usan métodos abreviados de teclado para intercambiar entre ventanas de escritorio, trabajar en varios archivos y abrir herramientas.
 
-* **Evitar el uso excesivo de los botones del mouse**: la mayoría de las tareas se pueden completar con un mouse, pero una ventaja de usar la línea de comandos es que se pueden realizar muchas cosas con herramientas de línea de comandos sin tener que cambiar constantemente del mouse al teclado, y viceversa.
+* `Evitar el uso excesivo de los botones del mouse`: la mayoría de las tareas se pueden completar con un mouse, pero una ventaja de usar la línea de comandos es que se pueden realizar muchas cosas con herramientas de línea de comandos sin tener que cambiar constantemente del mouse al teclado, y viceversa.
 
-* **Capacidad de configuración**: con las herramientas de línea de comandos, puede guardar la configuración personalizada, cambiarla más adelante e importarla a otras máquinas de desarrollo.
+* `Capacidad de configuración`: con las herramientas de línea de comandos, puede guardar la configuración personalizada, cambiarla más adelante e importarla a otras máquinas de desarrollo.
 
 ### Opciones de línea de comandos
 
@@ -680,6 +688,10 @@ Las opciones de la herramienta de línea de comandos difieren en función del si
 
 ## Documentación del desarrollador
 
+<center>
+    <img src='./../assets/images/Porgramacion/documentacion.jpeg'>
+</center>
+
 Cuando los desarrolladores quieran aprender algo nuevo, lo más probable es que recurran a documentación de expertos. La documentación de expertos puede orientarlos en cómo usar los lenguajes y las herramientas de programación correctamente, y ayudarles a ampliar sus conocimientos sobre cómo encajan todos.
 
 ### Documentación de desarrollo web popular
@@ -695,5 +707,5 @@ Si quiere consultar la lista de los diferentes lenguajes de programación que se
 
 # Repositorio de Lenguajes de Programación
 
-* [HTML](https://4rleking.github.io/HTML.github.io/)
-* [CSS](https://4rleking.github.io/CSS.github.io/)
+* [HTML](https://html.4rlekiing.net/)
+* [CSS](https://css.4rlekiing.net/)
