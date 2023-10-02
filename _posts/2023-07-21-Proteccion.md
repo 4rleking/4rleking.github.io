@@ -62,6 +62,15 @@ El formato no está limitado y puede cargar archivos con un tamaño inferior a 1
 
 [Jotti's malware scan](https://virusscan.jotti.org/es-ES) es un servicio gratuito que le permite analizar archivos sospechosos con varios programas antivirus. Usted puede subir hasta 5 archivos al mismo tiempo. Hay un límite de 250MB por archivo. Por favor tenga presente que ninguna solución de seguridad ofrece un 100% de protección, ni siquiera cuando esta usa varios motores antivirus. Todos los archivos son compartidos con la compañías de detección de antivirus para que la exactitud de detección de sus productos pueda ser mejorada.
 
+<img src='./../assets/images/Proteccion/trend.jpg' alt="" width="50%" height="50%" />
+
+[Trend Micro](https://www.trendmicro.com/en_us/forHome.html) es una firma en ciberseguridad para nubes y empresas, cuenta con técnicas avanzadas de defensa contra amenazas optimizadas para ambientes como AWS, Microsoft y Google.
+
+Tiene su antivirus, pero también cuenta con algunas herramientas gartuitas y que son importantes a la hora de buscar información, por ejemplo:
+
+* [Escaneo en línea](https://experience.trendmicro.com/?utm_source=onlinescan&utm_medium=menu&&utm_campaign=experience)
+* [Herramientas Gratuitas](https://www.trendmicro.com/en_us/forHome/products/free-tools.html)
+
 ## URL acortadas
 
 <center>
