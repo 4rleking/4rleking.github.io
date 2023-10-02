@@ -36,7 +36,7 @@ Además de analizar archivos, también puede analizar URL, es decir si creemos q
 Existen varios proveedores de servicios en internet que lo que hacen es acortar una URL extensa [bitly](https://bitly.com/), por ejemplo, para evitar escribir *"https://4rleking.github.io/"* lo acortan haciendo *"https://bit.ly/45u7dxs"* que es mucho más fácil de escribir o de "pasar desapercibido", para hacerlo un poco más amigable pueden crear un código QR.
 
 <center>
-    <img src='./../assets/images/20230722/QR.png' height="200px" width="200px">
+    <img src='./../assets/images/Proteccion/QR.png' height="200px" width="200px">
 </center>
 
 Muchas de las empresas de marketing, y no solo de este ramo utilizan este tipo de servicios de acortadores de URL, por lo regular lo utilizan para detectar de donde tienen más visitantes, ya que estos servicios de acortadores al registrar un nuevo link, automáticamente le designan un contador de "visitas" a ese link.
@@ -46,3 +46,4 @@ Así como puede ser beneficioso para unas cosas, puede ser utilizado para robart
 Para evitar esto, existe un servicio online gratuito [ExpandURL](https://www.expandurl.net/), el cual copias la URL acortada y la pegas en este sitio, automáticamente seguirá la ruta de esta URL acortada (sin entrar a ese sitio) y te dirá cuál es el sitio final; y ahora sí ya depende del usuario final si entra o no al sitio.
 
 ## Comprobar la seguridad de una contraseña
+
