@@ -44,7 +44,7 @@ Se establece este sistema ISO de seguridad de la información hay que tener en c
 * Disponibilidad
 
 <center>
-    <img src='./../assets/images/Seguridad/objetivos.png' alt="" width="50%" height="50%" />
+    <img src='./../assets/images/Seguridad/objetivos.png' alt="" width="70%" height="70%" />
 </center>
 
 ### Integridad
