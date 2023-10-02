@@ -179,6 +179,10 @@ Si una empresa no se ocupa de un manejo seguro de la información, pueden haber 
 
 ## Amenazas de seguridad de la información comunes
 
+<center>
+    <img src='./../assets/images/Seguridad/amenazas.jpg'>
+</center>
+
 * `Ataque de amenaza persistente avanzada (APT)`: Un ciberataque sofisticado que se da durante un período prolongado de tiempo durante el que un atacante (o grupo de atacantes) no detectado obtiene acceso a la red y datos de la empresa.
 * `Red de robots (botnet)`: Derivado del término "robot network", una botnet conforma una red de dispositivos conectados el cual un atacante infecta con código malicioso y los controla de forma remota.
 * `Ataques de denegación de servicio distribuidos (DDoS)`: Los ataques DDoS usan redes de robots (botnets) para sobrecargar el sitio web o aplicación de una organización, lo que resulta en un bloqueo o denegación de servicio a los usuarios o visitantes válidos.
