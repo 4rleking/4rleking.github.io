@@ -69,23 +69,23 @@ Asegura que todas las acciones cuyo eje ha sido la seguridad de la información 
 
 ## Impotancia
 
-Los sistemas de seguridad de la información deben ser capaces de gestionar el riesgo existente y supéralo con el menor impacto para la organización, es decir, tiene que ser capaces de garantizar la resiliencia de la organización y sus sistemas de seguridad con lo que prevenir, evitar y solucionar cualquier riesgo o ataque que se derive del tratamiento de la información y los datos.
+Los sistemas de seguridad de la información deben ser capaces de gestionar el riesgo existente y superarlo con el menor impacto para la organización, es decir, tiene que ser capaces de garantizar la resiliencia de la organización y sus sistemas de seguridad con lo que prevenir, evitar y solucionar cualquier riesgo o ataque que se derive del tratamiento de la información y los datos.
 
 Las organizaciones tienen que contar con soluciones tecnológicas adecuadas que no solo aseguren la protección, sino que también permitan conocer en todo momento el estado de dicha protección y que proporcionen las herramientas necesarias para garantizar la continuidad de las organizaciones y su actividad en caso de que sufran un ataque.
 
 ## Tipos de información
 
-Hay 3 tipos de información con las que trabaja cualquier organización, independientemente de su actividad o sector, y que tiene que ser tenidos en cuenta para realizar a cabo una protección de datos adecuada:
+Hay 3 tipos de información con las que trabaja cualquier organización, independientemente de su actividad o sector, y que tienen que ser tomados en cuenta para realizar a cabo una protección de datos adecuada:
 
 ### Crítica
 
-La información crítica es la que es indispensable para el correcto funcionamiento de la organización y sus operaciones. La información crítica es la que establece los beneficios de la organización a medio y largo plazo, ya que facilitará las ventas y el servicio al cliente.
+La información crítica es la que es indispensable para el correcto funcionamiento de la organización y sus operaciones, establece los beneficios de la organización a medio y largo plazo, ya que facilitará las ventas y el servicio al cliente.
 
 Conocer la información y los datos son necesarios para establecer todos los protocolos de seguridad necesarios para su protección.
 
 ### Valiosa
 
-Es la información que la organización siga adelante. Tiene un alto componente subjetivo y lo que para una organización es información valiosa, para otra puede no serlo, ya que depende de la actividad y el sector.
+Es la información para que la organización siga adelante. Tiene un alto componente subjetivo y lo que para una organización es información valiosa, para otra puede no serlo, ya que depende de la actividad y el sector.
 
 No toda la información y datos tienen el mismo valor y las empresas deben analizar cuáles son necesarios y cuáles no para el funcionamiento de negocio.
 
@@ -95,7 +95,7 @@ La información es sensible en el sentido de que es información privada de los 
 
 ## Política de Seguridad de la Información
 
-La Política de Seguridad de la Información, PSI, es un documento que debe contener todas los lineamientos que deben seguirse para garantizar la protección de los datos y la información de una empresa.
+La Política de Seguridad de la Información (PSI), es un documento que debe contener todas los lineamientos que deben seguirse para garantizar la protección de los datos y la información de una empresa.
 
 La PSI debe describir todos los procedimientos a aplicar en la vida diaria de los profesionales para prevenir ataques o fuga de datos, así como también indicar qué tecnologías de seguridad hay que utilizar, cuáles serán las sanciones para quienes incumplan con las pautas, y cualquier otro lineamiento relacionado.
 
@@ -172,14 +172,14 @@ Si una empresa no se ocupa de un manejo seguro de la información, pueden haber 
 ## Amenazas de seguridad de la información comunes
 
 * `Ataque de amenaza persistente avanzada (APT)`: Un ciberataque sofisticado que se da durante un período prolongado de tiempo durante el que un atacante (o grupo de atacantes) no detectado obtiene acceso a la red y datos de la empresa.
-* `Red de robots (botnet)`: Derivado del término "robot network", una botnet conforma una red de dispositivos conectados que un atacante infecta con código malicioso y controla de forma remota.
+* `Red de robots (botnet)`: Derivado del término "robot network", una botnet conforma una red de dispositivos conectados el cual un atacante infecta con código malicioso y los controla de forma remota.
 * `Ataques de denegación de servicio distribuidos (DDoS)`: Los ataques DDoS usan redes de robots (botnets) para sobrecargar el sitio web o aplicación de una organización, lo que resulta en un bloqueo o denegación de servicio a los usuarios o visitantes válidos.
 * `Ataque de descarga oculta`: Un fragmento de código malicioso que se descarga automáticamente en el dispositivo de un usuario tras visitar una página web y que hace que el usuario sea vulnerable a otras amenazas de seguridad.
 * `Kit de vulnerabilidad de seguridad`: Un conjunto integral de herramientas que usan vulnerabilidades de seguridad para detectar otras que les permitan infectar dispositivos con malware.
-* `Amenaza interna`: Existe la posibilidad de que alguien interno a la organización aproveche (consciente o inconscientemente) el acceso autorizado para dañar o hacer vulnerables los sistemas, redes y datos de la organización.
+* `Amenaza interna`: Existe la posibilidad de que alguien (empleado) interno a la organización aproveche (consciente o inconscientemente) el acceso autorizado para dañar o hacer vulnerables los sistemas, redes y datos de la organización.
 * `Ataque tipo Man-in-the-middle (MitM)`: Un atacante malicioso interrumpe una línea de comunicación o transferencia de datos haciéndose pasar por un usuario válido para robar información o datos.
 * `Ataque de phishing`: Los ataques de phishing se hacen pasar por organizaciones o usuarios legítimos para robar información por correo, mensaje de texto u otros métodos de comunicación.
-* `Ransomware`: Un ataque de extorsión por malware que cifra la información de una organización o persona impidiendo el acceso hasta que se pague un rescate.
+* `Ransomware`: Un ataque de extorsión por malware que cifra la información de una organización o persona impidiendo el acceso hasta que se pague un rescate (Bitcoin o Monero).
 * `Ingeniería social`: Ciberataques que tienen su origen en interacciones humanas. El atacante se gana la confianza de la víctima a través de un señuelo, scareware o phishing, recoge información personal y la usa para llevar a cabo un ataque.
 * `Ataque en redes sociales`: Ciberataques que tienen como objetivo plataformas de redes sociales, aprovechándolas como mecanismo de entrega o para robar información y datos de los usuarios.
 * `Virus y gusanos`: Malware malicioso indetectable que puede replicarse a sí mismo a lo largo de la red o sistema de un usuario.
@@ -231,5 +231,7 @@ Al enmascarar los datos, las organizaciones pueden permitir que los equipos desa
 La resiliencia está determinada por qué tan bien una organización aguanta o se recupera de cualquier tipo de falla, desde problemas de hardware hasta cortes de energía y otros eventos que afectan la disponibilidad de los datos. La velocidad de recuperación es fundamental para minimizar el impacto.
 
 # Siguiente Nivel
+
+En esta sección iremos a diferentes sitios donde se explicará de forma más detallada cada uno de los temas:
 
 * [ISO 27001](https://iso27001.4rlekiing.net/)
