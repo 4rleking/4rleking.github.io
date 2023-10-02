@@ -2,7 +2,7 @@
 layout: single
 title: Protección y Seguridad en Internet
 excerpt: "Todos estamos vulnerables a acoger un malware en nuestros dispositivos, desde seleccionar un link, descargar un archivo PDF, recibir y abrir un email, descargar un juego o software crackeado, pero entre mejor estemos informados, menos serán las posibilidades de regalar nuestra información personal, aquí se muestran algunas de las herramientas o técnicas para poder saber si hay algo más atrás de la descarga o archivo."
-date: 2023-07-22
+date: 2023-09-28
 classes: wide
 header:
   teaser: /assets/images/Proteccion/Intro.jpg
