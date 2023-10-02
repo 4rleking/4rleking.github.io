@@ -198,6 +198,10 @@ Si una empresa no se ocupa de un manejo seguro de la información, pueden haber 
 
 ## Tecnologías utilizadas para la seguridad de la información
 
+<center>
+    <img src='./../assets/images/Seguridad/tecnologias.jpg'>
+</center>
+
 ### Agentes de seguridad de acceso a la nube (CASB)
 
 Puntos de cumplimiento de la política de seguridad que se posicionan entre usuarios de la empresa y proveedores del servicio en la nube que combinan varias políticas de seguridad diferentes, desde la autenticación y asignación de credenciales al cifrado, detección de malware y más. Los CASB tienen su función en aplicaciones autorizadas y no autorizadas y dispositivos administrados y no administrados.
@@ -224,6 +228,10 @@ UEBA es el proceso de observación del comportamiento típico de un usuario para
 
 ## Tipos de seguridad de datos
 
+<center>
+    <img src='./../assets/images/Seguridad/seguridaddatos.png'>
+</center>
+
 ### Cifrado
 
 Al utilizar un algoritmo para transformar caracteres de texto normales en un formato ilegible, las claves de cifrado codifican los datos para que solo los usuarios autorizados puedan leerlos.
@@ -243,6 +251,10 @@ Al enmascarar los datos, las organizaciones pueden permitir que los equipos desa
 La resiliencia está determinada por qué tan bien una organización aguanta o se recupera de cualquier tipo de falla, desde problemas de hardware hasta cortes de energía y otros eventos que afectan la disponibilidad de los datos. La velocidad de recuperación es fundamental para minimizar el impacto.
 
 ## Recursos y soluciones de seguridad de datos
+
+<center>
+    <img src='./../assets/images/Seguridad/solucion.jpg'>
+</center>
 
 Las herramientas y tecnologías de seguridad de datos deben abordar los crecientes desafíos inherentes a la seguridad de los entornos informáticos complejos, distribuidos, híbridos y/o multinube de hoy.Estos incluyen comprender dónde residen los datos, realizar un seguimiento de quién tiene acceso a ellos y bloquear actividades de alto riesgo y movimientos de archivos potencialmente peligrosos.
 
@@ -265,6 +277,10 @@ Estas soluciones facilitan el proceso de detección y mitigación de vulnerabili
 Las soluciones integrales de protección de datos con funciones automatizadas de generación de informes proporcionan un repositorio centralizado para las pistas de auditoría de conformidad de toda la empresa.
 
 ## Estrategias de seguridad de datos
+
+<center>
+    <img src='./../assets/images/Seguridad/Estrategia.webp'>
+</center>
 
 Una estrategia integral de seguridad de datos involucra personas, procesos y tecnologías.
 
@@ -296,7 +312,11 @@ Capacitar a los empleados sobre la importancia de las buenas prácticas de segur
 
 La implementación de un conjunto completo de herramientas y plataformas de gestión, detección y respuesta de amenazas en su entorno local y plataformas en la nube puede mitigar los riesgos y reducir la probabilidad de una brecha.
 
-##  Tendencias de seguridad de datos
+## Tendencias de seguridad de datos
+
+<center>
+    <img src='./../assets/images/Seguridad/Tendencia.webp'>
+</center>
 
 ### IA
 
