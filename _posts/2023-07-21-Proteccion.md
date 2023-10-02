@@ -19,11 +19,19 @@ tags:
 
 ## Análisis de archivos y URL
 
+<center>
+    <img src='./../assets/images/Proteccion/Virustotal.jpeg'>
+</center>
+
 Cuando descargamos algún archivo desde internet nuestra mejor herramienta para verificar que esté libre de malware es [Virustotal](https://www.virustotal.com/gui/home/upload); en esta página puedes cargar el archivo y lo analizará en cuestión de minutos o segundos, esta página cuenta con motores de búsqueda de malware de diferentes proveedores de antivirus.
 
 Además de analizar archivos, también puede analizar URL, es decir si creemos que la página no es segura, solo necesitamos copiar el link de la página que vamos a ingresar y la pegamos en este portal, automáticamente la analizará y nos dirá si esconde algo.
 
 ## URL acortadas
+
+<center>
+    <img src='./../assets/images/Proteccion/bitly.png'>
+</center>
 
 Existen varios proveedores de servicios en internet que lo que hacen es acortar una URL extensa [bitly](https://bitly.com/), por ejemplo, para evitar escribir *"https://4rleking.github.io/"* lo acortan haciendo *"https://bit.ly/45u7dxs"* que es mucho más fácil de escribir o de "pasar desapercibido", para hacerlo un poco más amigable pueden crear un código QR.
 
