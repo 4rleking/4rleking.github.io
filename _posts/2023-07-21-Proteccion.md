@@ -35,7 +35,7 @@ VirusTotal puede ser un servicio útil, pero no es un reemplazo antimalware. No 
 
 Es mejor evitar analizar archivos de información personales o confidenciales. Como VirusTotal establece claramente en su acuerdo, no deberías hacerlo. La razón principal es que su archivo se procesa y se comparte con su comunidad. Para ayudar más a la comunidad, usar menos recursos es algo necesario, pero aún así, la privacidad puede ser un problema. Tenga mucho cuidado con lo que puede elegir cargar. Con un gran poder también viene una gran responsabilidad.
 
-<img src='./../assets/images/Proteccion/urlvoid.webp' alt="" width="50%" height="50%" />
+<img src='./../assets/images/Proteccion/urlvoid.jpg' alt="" width="50%" height="50%" />
 
 Aparte de VirusTotal, también tenemos otras opciones, por ejemplo [urlvoid](https://www.urlvoid.com/), en este sitio podemos analizar las direcciones URL que necesitemos, además nos brindan una serie de herramientas el cual podemos utilizar para "escanear" de cierta manera un dominio:
 
