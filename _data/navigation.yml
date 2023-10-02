@@ -1,5 +1,7 @@
 main:
   - title: "Home"
+    url: https://4rlekiing.net/
+  - title: "Menú"
     url: /
   - title: "Categorías"
     url: /categories/
