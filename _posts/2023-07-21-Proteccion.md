@@ -58,6 +58,10 @@ VirSCAN opera con los motores de los principales antivirus del mercado, como son
 
 El formato no está limitado y puede cargar archivos con un tamaño inferior a 100 MB para su detección. Al enviar una muestra, usted acepta nuestros Términos de servicio y Política de privacidad.
 
+<img src='./../assets/images/Proteccion/jotti.jpg' alt="" width="50%" height="50%" />
+
+[Jotti's malware scan](https://virusscan.jotti.org/es-ES) es un servicio gratuito que le permite analizar archivos sospechosos con varios programas antivirus. Usted puede subir hasta 5 archivos al mismo tiempo. Hay un límite de 250MB por archivo. Por favor tenga presente que ninguna solución de seguridad ofrece un 100% de protección, ni siquiera cuando esta usa varios motores antivirus. Todos los archivos son compartidos con la compañías de detección de antivirus para que la exactitud de detección de sus productos pueda ser mejorada.
+
 ## URL acortadas
 
 <center>
