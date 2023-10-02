@@ -19,9 +19,7 @@ tags:
 
 ## Análisis de archivos y URL
 
-<center>
-    <img src='./../assets/images/Proteccion/Virustotal.jpeg' alt="" width="70%" height="70%" />
-</center>
+<img src='./../assets/images/Proteccion/Virustotal.jpeg' alt="" width="70%" height="70%" />
 
 Cuando descargamos algún archivo desde internet nuestra mejor herramienta para verificar que esté libre de malware es [Virustotal](https://www.virustotal.com/gui/home/upload); en esta página puedes cargar el archivo y lo analizará en cuestión de minutos o segundos, esta página cuenta con motores de búsqueda de malware de diferentes proveedores de antivirus.
 
@@ -49,6 +47,16 @@ Aparte de VirusTotal, también tenemos otras opciones, por ejemplo [urlvoid](htt
 * BASE64
 
 Entre muchas más ...
+
+<img src='./../assets/images/Proteccion/virscan.jpg' alt="" width="50%" height="50%" />
+
+Una herramienta más es [virscan](https://www.virscan.org/) es una herramienta online para escanear archivos en busca de virus y otras amenazas informáticas. Opera con decenas de motores de antivirus para detectar rápidamente malwares, spywares, ransomwares, adwares, etc.
+
+La página de VirSCAN no es un antivirus online, ni puede sustituir a tu programa de seguridad informática principal. Su función es escanear archivos y documentos para comprobar que están limpios, así como hashes (SHA256, MD5, SHA1).
+
+VirSCAN opera con los motores de los principales antivirus del mercado, como son Avast, AVG, Bitdefender, Kaspersky, Panda, entre otros. Por esa razón, VirSCAN no asume la responsabilidad sobre los resultados del escaneo.
+
+El formato no está limitado y puede cargar archivos con un tamaño inferior a 100 MB para su detección. Al enviar una muestra, usted acepta nuestros Términos de servicio y Política de privacidad.
 
 ## URL acortadas
 
