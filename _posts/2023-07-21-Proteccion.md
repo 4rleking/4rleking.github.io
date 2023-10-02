@@ -19,7 +19,7 @@ tags:
 
 ## Análisis de archivos y URL
 
-<img src='./../assets/images/Proteccion/Virustotal.jpeg' alt="" width="70%" height="70%" />
+<img src='./../assets/images/Proteccion/Virustotal.jpeg' alt="" width="50%" height="50%" />
 
 Cuando descargamos algún archivo desde internet nuestra mejor herramienta para verificar que esté libre de malware es [Virustotal](https://www.virustotal.com/gui/home/upload); en esta página puedes cargar el archivo y lo analizará en cuestión de minutos o segundos, esta página cuenta con motores de búsqueda de malware de diferentes proveedores de antivirus.
 
