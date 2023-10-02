@@ -19,6 +19,10 @@ tags:
 
 ## Análisis de archivos y URL
 
+Las herramientas que aquí se mencionan son funcionales a la hora de analizar un archivo y/o página web, pero encarecidamente les advierto que esto no reemplaza a ningún antivirus; muchos malware solo necesitan ser descargador en un ordenador para poder infectar, de nada servirá que descargues el archivo y despues lo analices si ya fuiste infectado.
+
+Otra recomendación muy importante, nunca suban archivos con información personal, sensible u otro tipo de información que tenga cierto grado de sensibilidad, ya que estos sitios de analisis de malware, comparten los archivos o los hashes con los motores de malware, en pocas palabras, estás compartiendo tu información con las empresas de antivirus.
+
 <img src='./../assets/images/Proteccion/Virustotal.jpeg' alt="" width="50%" height="50%" />
 
 Cuando descargamos algún archivo desde internet nuestra mejor herramienta para verificar que esté libre de malware es [Virustotal](https://www.virustotal.com/gui/home/upload); en esta página puedes cargar el archivo y lo analizará en cuestión de minutos o segundos, esta página cuenta con motores de búsqueda de malware de diferentes proveedores de antivirus.
@@ -28,10 +32,6 @@ Además de analizar archivos, también puede analizar URL, es decir si creemos q
 ### Cómo usarlo
 
 Si desea verificar un archivo, debe subirlo al servicio presionando el botón "Elegir archivo" y localizándolo. Recuerde que el tamaño máximo de carga es de 650 MB, y el tiempo de carga depende en gran medida de su conexión a Internet. Es posible que deba ser un poco paciente de vez en cuando.
-
-VirusTotal puede ser un servicio útil, pero no es un reemplazo antimalware. No puede protegerlo de la manera en que lo haría su solución antimalware tradicional. En cambio, es una solución de asistente o segunda opinión que cualquier otra cosa. Puede usarlo para verificar un archivo / URL con más motores antimalware que el que usa. Debe saber que los motores de los proveedores pueden estar optimizados para el análisis para obtener resultados más rápidos. Eso significa que podrían no ser tan exhaustivos como una solución completa para menos recursos y optimización del tráfico. Por lo general, son más que suficientes, pero debes tenerlo en cuenta. Los falsos positivos también son un hecho. Además, la privacidad es algo que debe considerar.
-
-Es mejor evitar analizar archivos de información personales o confidenciales. Como VirusTotal establece claramente en su acuerdo, no deberías hacerlo. La razón principal es que su archivo se procesa y se comparte con su comunidad. Para ayudar más a la comunidad, usar menos recursos es algo necesario, pero aún así, la privacidad puede ser un problema. Tenga mucho cuidado con lo que puede elegir cargar. Con un gran poder también viene una gran responsabilidad.
 
 <img src='./../assets/images/Proteccion/urlvoid.jpg' alt="" width="50%" height="50%" />
 
@@ -52,9 +52,7 @@ Entre muchas más ...
 
 Una herramienta más es [virscan](https://www.virscan.org/) es una herramienta online para escanear archivos en busca de virus y otras amenazas informáticas. Opera con decenas de motores de antivirus para detectar rápidamente malwares, spywares, ransomwares, adwares, etc.
 
-La página de VirSCAN no es un antivirus online, ni puede sustituir a tu programa de seguridad informática principal. Su función es escanear archivos y documentos para comprobar que están limpios, así como hashes (SHA256, MD5, SHA1).
-
-VirSCAN opera con los motores de los principales antivirus del mercado, como son Avast, AVG, Bitdefender, Kaspersky, Panda, entre otros. Por esa razón, VirSCAN no asume la responsabilidad sobre los resultados del escaneo.
+Su función es escanear archivos y documentos para comprobar que están limpios, así como hashes (SHA256, MD5, SHA1). VirSCAN opera con los motores de los principales antivirus del mercado, como son Avast, AVG, Bitdefender, Kaspersky, Panda, entre otros. Por esa razón, VirSCAN no asume la responsabilidad sobre los resultados del escaneo.
 
 El formato no está limitado y puede cargar archivos con un tamaño inferior a 100 MB para su detección. Al enviar una muestra, usted acepta nuestros Términos de servicio y Política de privacidad.
 
