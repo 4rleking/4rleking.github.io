@@ -99,6 +99,10 @@ La información es sensible en el sentido de que es información privada de los 
 
 ## Política de Seguridad de la Información
 
+<center>
+    <img src='./../assets/images/Seguridad/politica.jpg'>
+</center>
+
 La Política de Seguridad de la Información (PSI), es un documento que debe contener todas los lineamientos que deben seguirse para garantizar la protección de los datos y la información de una empresa.
 
 La PSI debe describir todos los procedimientos a aplicar en la vida diaria de los profesionales para prevenir ataques o fuga de datos, así como también indicar qué tecnologías de seguridad hay que utilizar, cuáles serán las sanciones para quienes incumplan con las pautas, y cualquier otro lineamiento relacionado.
