@@ -43,6 +43,10 @@ Se establece este sistema ISO de seguridad de la información hay que tener en c
 * Confidencialidad
 * Disponibilidad
 
+<center>
+    <img src='./../assets/images/Seguridad/objetivos.png'>
+</center>
+
 ### Integridad
 
 Los sistemas que gestionan la información tendrán que garantizar la integridad de la misma, es decir, que la información se muestra tal y como fue concebida, sin alteraciones o manipulaciones que no hayan sido autorizadas de forma expresa.
@@ -229,6 +233,76 @@ Al enmascarar los datos, las organizaciones pueden permitir que los equipos desa
 ### Resiliencia de datos
 
 La resiliencia está determinada por qué tan bien una organización aguanta o se recupera de cualquier tipo de falla, desde problemas de hardware hasta cortes de energía y otros eventos que afectan la disponibilidad de los datos. La velocidad de recuperación es fundamental para minimizar el impacto.
+
+## Recursos y soluciones de seguridad de datos
+
+Las herramientas y tecnologías de seguridad de datos deben abordar los crecientes desafíos inherentes a la seguridad de los entornos informáticos complejos, distribuidos, híbridos y/o multinube de hoy.Estos incluyen comprender dónde residen los datos, realizar un seguimiento de quién tiene acceso a ellos y bloquear actividades de alto riesgo y movimientos de archivos potencialmente peligrosos.
+
+Las soluciones integrales de protección de datos que permiten a las empresas adoptar un enfoque centralizado para la supervisión y aplicación de políticas pueden simplificar el trabajo.
+
+### Descubrimiento y clasificación de datos
+
+La información confidencial puede residir en repositorios de datos estructurados y no estructurados, incluidas bases de datos, almacenes de datos, plataformas de big data y entornos de nube. Las soluciones de clasificación y descubrimiento de datos automatizan el proceso de identificación de información confidencial, así como la evaluación y reparación de vulnerabilidades.
+
+### Supervisión de actividad de datos y archivos
+
+Las herramientas de supervisión de actividad de archivos analizan los patrones de uso de datos, lo que permite a los equipos de seguridad ver quién está accediendo a los datos, detectar anomalías e identificar riesgos. También se pueden implementar alertas y bloqueos dinámicos para patrones de actividad anormales.
+
+### Herramientas de evaluación de vulnerabilidades y análisis de riesgos
+
+Estas soluciones facilitan el proceso de detección y mitigación de vulnerabilidades, como software desactualizado, configuraciones incorrectas o contraseñas débiles, y también pueden identificar fuentes de datos con mayor riesgo de exposición.
+
+### Informes de cumplimiento automatizados
+
+Las soluciones integrales de protección de datos con funciones automatizadas de generación de informes proporcionan un repositorio centralizado para las pistas de auditoría de conformidad de toda la empresa.
+
+## Estrategias de seguridad de datos
+
+Una estrategia integral de seguridad de datos involucra personas, procesos y tecnologías.
+
+Establecer controles y políticas adecuados es tanto una cuestión de cultura organizacional como de la implementación del conjunto adecuado de herramientas. Esto significa que la seguridad de la información deber ser la prioridad en todas las áreas de la empresa.
+
+### Seguridad física de servidores y dispositivos de usuario
+
+Independientemente de si sus datos se almacenan en las instalaciones, en un centro de datos corporativo o en la nube pública, debe asegurarse de que las instalaciones estén protegidas contra intrusos y que cuenten con medidas adecuadas de extinción de incendios y controles climáticos. Un proveedor de nube asumirá la responsabilidad de estas medidas de protección por usted.
+
+### Controles y gestión de acceso
+
+El principio de "acceso con privilegios mínimos" debe seguirse en todo el entorno de TI. Esto significa otorgar acceso a la base de datos, la red y la cuenta administrativa a la menor cantidad de personas posible, y solo a aquellos que realmente lo necesitan para realizar su trabajo.
+
+### Aplicación de seguridad y parches
+
+Todo el software debe actualizarse a la última versión tan pronto como sea posible después de que se publiquen parches o nuevas versiones.
+
+### Copias de seguridad
+
+El mantenimiento de copias de seguridad utilizables y probadas minuciosamente de todos los datos críticos es un componente central de cualquier estrategia sólida de seguridad de datos. Además, todas las copias de seguridad deben estar sujetas a los mismos controles de seguridad físicos y lógicos que rigen el acceso a las bases de datos primarias y los sistemas centrales.
+
+Descubra más acerca de la copia de seguridad y recuperación de datos
+
+### Capacitación de empleados
+
+Capacitar a los empleados sobre la importancia de las buenas prácticas de seguridad y la higiene de las contraseñas y enseñarles a reconocer los ataques de ingeniería social los transforma en un "firewall humano" que puede desempeñar un papel fundamental en la protección de sus datos.
+
+### Supervisión y controles de seguridad de redes y puntos finales
+
+La implementación de un conjunto completo de herramientas y plataformas de gestión, detección y respuesta de amenazas en su entorno local y plataformas en la nube puede mitigar los riesgos y reducir la probabilidad de una brecha.
+
+##  Tendencias de seguridad de datos
+
+### IA
+
+La IA amplifica la capacidad de un sistema de seguridad de datos, porque puede procesar grandes volúmenes de datos. La Computación Cognitiva, un subconjunto de la IA, realiza las mismas tareas que otros sistemas de IA, pero lo hace simulando los procesos de pensamiento humano.
+
+En la seguridad de datos, esto permite una rápida toma de decisiones en momentos de necesidad crítica.
+
+### Seguridad multinube
+
+La definición de seguridad de datos se ha ampliado a medida que crecen las funcionalidades de la nube. Ahora las organizaciones necesitan soluciones más complejas, ya que buscan protección no solo para los datos, sino también para las aplicaciones y los procesos comerciales patentados que se ejecutan en nubes públicas y privadas.
+
+### Tecnología cuántica
+
+La tecnología cuántica, una tecnología revolucionaria, promete dar un vuelco exponencial a muchas tecnologías tradicionales. Los algoritmos de cifrado serán más multifacéticos, más complejos y más seguros.
 
 # Siguiente Nivel
 
