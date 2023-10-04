@@ -69,6 +69,20 @@ Tiene su antivirus, pero también cuenta con algunas herramientas gartuitas y qu
 * [Escaneo en línea](https://experience.trendmicro.com/?utm_source=onlinescan&utm_medium=menu&&utm_campaign=experience)
 * [Herramientas Gratuitas](https://www.trendmicro.com/en_us/forHome/products/free-tools.html)
 
+<img src='./../assets/images/Proteccion/metadefender.svg' alt="" width="50%" height="50%" />
+
+[MetaDefender Cloud](https://metadefender.opswat.com/), una plataforma con funciones muy similares: nos permite remitir archivos (de hasta 140 Mb) y URLs a través de su web, para que sean sometidos a análisis por parte de 40 motores antivirus distintos. Su porcentaje de detección es claramente menor que el de la herramienta de Google, eso sí.
+
+Carece de una opción que nos permita enviar archivos por correo, y tampoco ofrece extensiones para el navegador, pero a cambio nos facilita acceso a su API para mostrar en nuestras aplicaciones información de las consultas sobre los archivos.
+
+<img src='./../assets/images/Proteccion/kaspersky.webp' alt="" width="50%" height="50%" />
+
+[Kaspersky VirusDesk](https://opentip.kaspersky.com/), al contrario que el resto de herramientas de esta lista, no nos ofrece acceso a múltiples motores antivirus: le basta con usar el motor del antivirus de escritorio homónimo, uno de los más reputados del sector.
+
+Como los anteriores, la herramienta web nos dará la opción de subir el archivo directamente, o bien de pegar una URL en el formulario.
+
+Aunque no lo recomiendo utilizarlo de base, me interesó la parte de información que tienen sobre los analisis que han hecho de malware, y te brindan información acerca de ellos.
+
 ## URL acortadas
 
 <center>
