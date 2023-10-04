@@ -75,7 +75,7 @@ Tiene su antivirus, pero también cuenta con algunas herramientas gartuitas y qu
 
 Carece de una opción que nos permita enviar archivos por correo, y tampoco ofrece extensiones para el navegador, pero a cambio nos facilita acceso a su API para mostrar en nuestras aplicaciones información de las consultas sobre los archivos.
 
-<img src='./../assets/images/Proteccion/kaspersky.webp' alt="" width=50%; height=50%, float=left; padding=15px; />
+<img src='./../assets/images/Proteccion/kaspersky.webp' alt="" width="50%" height="50%" float="left" padding="15px" />
 
 [Kaspersky VirusDesk](https://opentip.kaspersky.com/), al contrario que el resto de herramientas de esta lista, no nos ofrece acceso a múltiples motores antivirus: le basta con usar el motor del antivirus de escritorio homónimo, uno de los más reputados del sector.
 
