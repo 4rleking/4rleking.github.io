@@ -37,18 +37,7 @@ Si desea verificar un archivo, debe subirlo al servicio presionando el botón "E
 
 <hr/>
 
-Aparte de VirusTotal, también tenemos otras opciones, por ejemplo [urlvoid](https://www.urlvoid.com/), en este sitio podemos analizar las direcciones URL que necesitemos, además nos brindan una serie de herramientas el cual podemos utilizar para "escanear" de cierta manera un dominio:
-
-* WHOIS
-* DNS
-* PING
-* SCREENSHOT
-* PASSWORD (Genera una contraseña robusta)
-* SORT
-* DNSSEC
-* BASE64
-
-Entre muchas más ...
+Aparte de VirusTotal, también tenemos otras opciones, por ejemplo [urlvoid](https://www.urlvoid.com/), en este sitio podemos analizar las direcciones URL que necesitemos, además nos brindan una serie de herramientas el cual podemos utilizar para "escanear" de cierta manera un dominio (WHOIS, DNS, PING, SCREENSHOT, PASSWORD (Genera una contraseña robusta), SORT, DNSSEC, BASE64, Entre muchas más ...).
 
 <img src='./../assets/images/Proteccion/virscan.jpg' alt="" style="width:50%; height:50%; float:left; padding:15px" />
 
@@ -72,10 +61,7 @@ El formato no está limitado y puede cargar archivos con un tamaño inferior a 1
 
 [Trend Micro](https://www.trendmicro.com/en_us/forHome.html) es una firma en ciberseguridad para nubes y empresas, cuenta con técnicas avanzadas de defensa contra amenazas optimizadas para ambientes como AWS, Microsoft y Google.
 
-Tiene su antivirus, pero también cuenta con algunas herramientas gartuitas y que son importantes a la hora de buscar información, por ejemplo:
-
-* [Escaneo en línea](https://experience.trendmicro.com/?utm_source=onlinescan&utm_medium=menu&&utm_campaign=experience)
-* [Herramientas Gratuitas](https://www.trendmicro.com/en_us/forHome/products/free-tools.html)
+Tiene su antivirus, pero también cuenta con algunas herramientas gartuitas y que son importantes a la hora de buscar información, por ejemplo: [Escaneo en línea](https://experience.trendmicro.com/?utm_source=onlinescan&utm_medium=menu&&utm_campaign=experience) y [Herramientas Gratuitas](https://www.trendmicro.com/en_us/forHome/products/free-tools.html).
 
 <img src='./../assets/images/Proteccion/metadefender.svg' alt="" style="width:50%; height:50%; float:left; padding:15px" />
 
@@ -103,9 +89,7 @@ Aunque no lo recomiendo utilizarlo de base, me interesó la parte de informació
 
 Existen varios proveedores de servicios en internet que lo que hacen es acortar una URL extensa [bitly](https://bitly.com/), por ejemplo, para evitar escribir *"https://4rleking.github.io/"* lo acortan haciendo *"https://bit.ly/45u7dxs"* que es mucho más fácil de escribir o de "pasar desapercibido", para hacerlo un poco más amigable pueden crear un código QR.
 
-<center>
-    <img src='./../assets/images/Proteccion/QR.png' height="200px" width="200px">
-</center>
+<img src='./../assets/images/Proteccion/QR.png' alt="" style="width:100%; height:100%; float:left; padding:15px" />
 
 Muchas de las empresas de marketing, y no solo de este ramo utilizan este tipo de servicios de acortadores de URL, por lo regular lo utilizan para detectar de donde tienen más visitantes, ya que estos servicios de acortadores al registrar un nuevo link, automáticamente le designan un contador de "visitas" a ese link.
 
