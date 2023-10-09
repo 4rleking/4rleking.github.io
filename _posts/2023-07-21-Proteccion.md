@@ -89,7 +89,7 @@ Aunque no lo recomiendo utilizarlo de base, me interesó la parte de informació
 
 Existen varios proveedores de servicios en internet que lo que hacen es acortar una URL extensa [bitly](https://bitly.com/), por ejemplo, para evitar escribir *"https://4rleking.github.io/"* lo acortan haciendo *"https://bit.ly/45u7dxs"* que es mucho más fácil de escribir o de "pasar desapercibido", para hacerlo un poco más amigable pueden crear un código QR.
 
-<img src='./../assets/images/Proteccion/QR.png' alt="" style="width:100%; height:100%; float:left; padding:15px" />
+<img src='./../assets/images/Proteccion/QR.png' alt="" style="width:50%; height:50%; float:left; padding:15px" />
 
 Muchas de las empresas de marketing, y no solo de este ramo utilizan este tipo de servicios de acortadores de URL, por lo regular lo utilizan para detectar de donde tienen más visitantes, ya que estos servicios de acortadores al registrar un nuevo link, automáticamente le designan un contador de "visitas" a ese link.
 
