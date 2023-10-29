@@ -20,7 +20,7 @@ title                    : "Cyber_4rlekiing | Ciberseguridad y Hacking Ético"
 title_separator          : "-"
 name                     : "4rlekiing"
 description              : "Artículos sobre ciberseguridad, Codificación, CTFs e investigaciones"
-url                      : "https://4rleking.github.io/" # el nombre de host base y el protocolo para su sitio, p. "https://mmistakes.github.io"
+url                      : "https://4rlekiing.net//" # el nombre de host base y el protocolo para su sitio, p. "https://mmistakes.github.io"
 baseurl                  : # la ruta secundaria de su sitio, p. "/Blog"
 repository               : "4rleking/4rleking.github.io" # Nombre de usuario de GitHub/nombre de repositorio, p. "merrores/errores-mínimos"
 #logo                     : "/assets/images/masthead.png"
@@ -95,7 +95,7 @@ social:
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-145129883-1"
+    tracking_id          : "G-P3ER0LE3CL"
     anonymize_ip         : false # (default)
 
 
